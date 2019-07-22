@@ -23,19 +23,19 @@ on time - na czas
 late
 the train is late
 not late (on time)
-expected time = it means the train will arive on time
+expected time = it means the train will arrive on time
 cancelled (thrain is not running becouse of a problem) - skasowany
 book the train
 take the train
 catch the bus
 
 where can I leave my lagguage?
-where cam I store my lagguage?
+where can I store my lagguage?
 where is a safely place to hold my bags?
 you can leave it in a left lagguage locker
 
 to collect = to store
-get in a car
+get in a car - wsiąść
 get on the train
 get on the bus
 the passenger is getting on the train
@@ -50,7 +50,7 @@ train
 platform
 carriage = wagon
 carriage number
-buffer car - here you can buy something to eat or drink
+buffet car - here you can buy something to eat or drink
 get off the train = to leave the train
 
 arrival times
