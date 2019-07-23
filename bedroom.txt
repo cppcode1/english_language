@@ -38,10 +38,14 @@ mirror - we use it to look at ourself
 handle - we use it to open and close wardrobe
 
 clothes rail
+hang - piwiesić
 wieszak - hanger  |ˈhæŋər|
 one pair of black shoes
+
+klatka piersiowa - chest  |tʃest|
 chest of drawers
 drawer in the middle
+
 a pair of curtains
 curtain rail
 hat 
