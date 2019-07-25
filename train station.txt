@@ -5,6 +5,7 @@ lagguage
 passenger
 ticket
 single ticket - bilet w jedną stronę
+one way ticket = single ticket
 return ticket - bilet tam i z powrotem
 ticket machine - automat biletowy
 ticket kiosk
@@ -24,17 +25,20 @@ late
 the train is late
 not late (on time)
 expected time = it means the train will arrive on time
-cancelled (thrain is not running becouse of a problem) - skasowany
+cancelled (the train is not running becouse of a problem) - skasowany
 book the train
 take the train
 catch the bus
+
+cast and catch
+cast = throw
 
 where can I leave my lagguage?
 where can I store my lagguage?
 where is a safely place to hold my bags?
 you can leave it in a left lagguage locker
 
-to collect = to store
+to collect - zbierać
 get in a car - wsiąść
 get on the train
 get on the bus
@@ -42,13 +46,15 @@ the passenger is getting on the train
 rack - półka
 lagguage rack
 seat
-window seat
+
 aisle [ail] - przejście
 aisle seat
+window seat
+
 track - kolej
 train
 platform
-carriage = wagon
+carriage - wagon
 carriage number
 buffet car - here you can buy something to eat or drink
 get off the train = to leave the train
@@ -56,6 +62,8 @@ get off the train = to leave the train
 arrival times
 departure times
 fare
+opłata - fare  |fer|
+
 first class
 second class
 
