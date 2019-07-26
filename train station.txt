@@ -16,6 +16,7 @@ ticket machine - automat biletowy
 ticket kiosk
 ticket office
 timetable
+arrival times
 screens
 arrive - przejeżdżać / przychodzić
 depart - odjeżdżać
