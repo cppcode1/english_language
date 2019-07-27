@@ -1,3 +1,9 @@
+what have you been up to?
+bye for now (na razie)
+how can I get to the train station?
+can you show me the way?
+where can I buy a ticket?
+how much it costs?
 she goes in while he goes out
 she goes and he goes too
 she does not go and he does not go too
@@ -10,10 +16,11 @@ her train has not arrived yet (jeszcze nie przyjechał)
 she has not asked him yet
 the sun has not been up yet
 they have not arrived yet
+she thinks about the ship has been before
 
 they arrived to the train station
 her train departed already
-she can as well catch some bus
+she can as well take some bus
 they didn't go to the train station
 there were an up escalator and down escalator
 she took the down escalator in the subway
@@ -21,19 +28,24 @@ she went between two persons
 she went among people (wśród)
 she left the shoe shop and went home
 she goes up/down the stairs every day
-she need to go across the street/road and go left
+she goes down the road and goes left
+she should cross the street and goes right
+she need to go across the street and go left
 the stairs were very narrow
 she packed her things in her lagguage
 there were passengers in the train station
+she left her wallet at home
 she didn't buy a ticket in the ticket office
 she will go to the train station
 she is in the train station
+she is in the shop
+she is at the bus stop
 she is going to buy a ticket in the ticket machine
 she buys the ticket
 she bought the ticket and next she took the train
 I am going to the ticket office
 I am buying a one way ticket in the ticket office
-I was buying the ticket
+I was buying the ticket when I saw her
 I bought the ticket and went home
 did she see that?
 why didn't she tell me?
@@ -41,9 +53,31 @@ why did not she buy the ticket?
 she walked to the timetable to check arrival times
 she saw the arrival times on screens
 my train will arrive at ten a.m.
+has her train arrived on time?
+her train has arrived on time
+why does her train late? (zazwyczaj)
+my train is late and I'm going to buy new ticket
+I want to book the train
+I was catching the 7 am bus when I saw her
+where can I leave my lagguage?
+she can leave her lagguage in left lagguage locker
+she is getting in the car
+she is getting on the train
+she is getting on the bus
+she is new passenger
+there is a rack above her head
+it is a lagguage rack
+she has a window seat
+I have a aisle seat
+we need get to the platforn number three
+there is a buffet car
+she bought the second class ticket
+her train is direct
 
-at what time does your train leave? 
-what time does your train come in / out?
+what time = o której?
+what time does your train leave? 
+what time does your train come in?
+what time does your train come out?
 what time does the last train go? 
 what time is the ticket office open?
 what time is it now?
@@ -55,17 +89,29 @@ what time is the bank open?
 what time does she finish her work?
 what time does she usually come home?
 what time are you going out tonight? 
+what time did we meet in the morning?
 
 what time does her train depart?
 what time does her train leave?
-what time dows her train come out?
+what time does her train come out?
 
 she arrived in the noon
 she is on the bus while he is on the train
 we will meet on the square in the afternoon
+we have met in the park
 we first met next to her hotel
+would you like to book a room?
 would you like to come out with me to go for a walk?
 her secret came out
+why she didn't tell me?
+
+has she ever been in the subway?
+has she ever seen your house?
+has she ever been ill?
+has she ever taken the train?
+has she spended money?
+
+have you bought the ticket already?
 
 leave = depart
 come in = arrive
