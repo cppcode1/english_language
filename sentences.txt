@@ -7,6 +7,7 @@ she went and he went too
 her train does not arrive (dzień w dzień)
 her train did not arrive (nie przyjechał)
 her train has not arrived yet (jeszcze nie przyjechał)
+she hasn't found the key yet
 she has not asked him yet
 the sun has not been up yet
 they have not arrived yet
@@ -30,10 +31,12 @@ she will go to the train station
 she is in the train station
 she is going to buy a ticket in the ticket machine
 she buys the ticket
+she is waiting for her train
 she bought the ticket and next she took the train
 I am going to the ticket office
 I am buying a one way ticket in the ticket office
 I was buying the ticket
+I was buying the ticket when she came
 I bought the ticket and went home
 did she see that?
 why didn't she tell me?
@@ -41,6 +44,8 @@ why did not she buy the ticket?
 she walked to the timetable to check arrival times
 she saw the arrival times on screens
 my train will arrive at ten a.m.
+the ticket office is open now
+is the ticket office open?
 
 at what time does your train leave? 
 what time does your train come in / out?
@@ -60,7 +65,7 @@ what time does her train depart?
 what time does her train leave?
 what time dows her train come out?
 
-she arrived in the noon
+she arrived in the noon (at 12)
 she is on the bus while he is on the train
 we will meet on the square in the afternoon
 we first met next to her hotel
