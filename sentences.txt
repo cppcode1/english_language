@@ -1,3 +1,6 @@
+//////////////////////////////////////////////////
+THE TRAIN STATION
+//////////////////////////////////////////////////
 she goes in while he goes out
 she goes and he goes too
 she does not go and he does not go too
@@ -87,4 +90,16 @@ wyjść - come out
 przyjechać - arrive, come in
 odjechać - depart, come out, leave
 
+
+//////////////////////////////////////////////////
+THE JOB INTERVIEW
+//////////////////////////////////////////////////
+she looks for a job
+they want to hire her as soon as possible
+she successfully sent her application
+thanks you for calling
+thanks you for comming
+
+
+zatrudnić - hire  |ˈhaɪər|
 
