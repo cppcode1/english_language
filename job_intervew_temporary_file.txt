@@ -1,6 +1,11 @@
 /////////////////////////
 the job interview
 /////////////////////////
+she was born in Ukraine
+she spent many years in Russia
+she've graduated from the university in Charków city
+she used to get up early
+she used to catch a bus to city centre in the morning
 she is smart and young
 she is good employee
 she hasn't [been late] very often (be late)
@@ -17,7 +22,9 @@ lastly, she decided to look for a new job
 she has been looking for a new job
 it will take long time 
 
+she can work added hours
 she leaves her work becouse of salary
+she looks for full-time work
 she has to change a work (musi)
 she wants to het six thausend monthly
 she won't change her mind (zmienić zdanie)
@@ -50,15 +57,45 @@ she will have four weeks of holydays
 she will have health insurance
 she've took a decision (ona się zdecydowała)
 
+I use git a lot
+I would like to be a full-time programmer
+I am flexible 
+I think I work really hard
+my company is downsizing
+I am looking for at least ...
+this company has a good reputation
+i can keep my head cool in stressful situations
 
+why do you want to work here?
+are able to work added hours?
+are you able to work weekends?
+can you describe your ideal job?
+do you have any special skills that might help you on this job?
+can you tell about your work history please?
 what were the comditions in yout old job?
 have you been developing?
 how long have you been developing?
 have I got a job?
 how much time does it take?
 
+salary requirements
+at least |liːst|
+zaleta - strength  |streŋθ|
+wada -  weakness |ˈwiːknəs|
+skończyć coś - graduate from |ˈɡrædʒuət|
 za tydzień - one week from today
 spóźniać się - be late
 większość - most
 wydawać pieniądze - spend money
 developing |dɪˈveləpɪŋ|
+manage |ˈmænɪdʒ|
+
+I am twenty eight years old
+I worked fill-time before now
+I studyied in school for some 11 yers
+After that I studied in university 
+
+Tell me about expereence there 
+It was good expereance. Well, I used to use C++, git and Qt
+What's more I've been using Ubuntu terminal, bash scripting and python basics
+I created new projects and added new functions and classes to old projects
