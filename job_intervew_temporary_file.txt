@@ -1,0 +1,101 @@
+/////////////////////////
+the job interview
+/////////////////////////
+she was born in Ukraine
+she spent many years in Russia
+she've graduated from the university in Charków city
+she used to get up early
+she used to catch a bus to city centre in the morning
+she is smart and young
+she is good employee
+she hasn't [been late] very often (be late)
+she has done her job good
+she has been working (pracowała i będzie pracować)
+she has worked for two years
+she has worked nearly five years at current work
+she specializes in programming
+she specializes in developing applications
+she enjoy swimming
+she doesn't have a work
+she wants to sing new contract
+lastly, she decided to look for a new job
+she has been looking for a new job
+it will take long time 
+
+she can work added hours
+she leaves her work becouse of salary
+she looks for full-time work
+she has to change a work (musi)
+she wants to het six thausend monthly
+she won't change her mind (zmienić zdanie)
+she doesn't have much money
+she needs more money
+she spend most of her money for the month
+she save money to move to a nicer flat
+she is out of money
+she is rents a room
+she needs to pay for the room
+there are two sofa in her room
+there is a small table near the window
+there is a two cheirs next to the table
+there is her wallet on the table
+she has three flatmates
+her room is expensive, so to speak (tak rzec)
+she stars to look for a job
+she calls companies
+she asks about available vacations
+she found the place where she wants to work
+she hopes to get a job in this company
+she can start to work since September
+she can start to work in one month
+she is right man for the position
+we can sign the contract next week
+she start to work one week from today
+it seems like a good place to work
+she wantsa bigger amount (suma)
+she will have four weeks of holydays
+she will have health insurance
+she've took a decision (ona się zdecydowała)
+
+I use git a lot
+I would like to be a full-time programmer
+I am flexible 
+I think I work really hard
+my company is downsizing
+I am looking for at least ...
+this company has a good reputation
+i can keep my head cool in stressful situations
+
+why do you want to work here?
+are able to work added hours?
+are you able to work weekends?
+can you describe your ideal job?
+do you have any special skills that might help you on this job?
+can you tell about your work history please?
+what were the comditions in yout old job?
+have you been developing?
+how long have you been developing?
+have I got a job?
+how much time does it take?
+
+salary requirements
+at least |liːst|
+zaleta - strength  |streŋθ|
+wada -  weakness |ˈwiːknəs|
+skończyć coś - graduate from |ˈɡrædʒuət|
+za tydzień - one week from today
+spóźniać się - be late
+większość - most
+wydawać pieniądze - spend money
+developing |dɪˈveləpɪŋ|
+manage |ˈmænɪdʒ|
+
+I am twenty eight years old
+I worked fill-time before now
+I studyied in school for some 11 yers
+After that I studied in university 
+
+Tell me about expereence there 
+It was good expereance. Well, I used to use C++, git and Qt
+What's more I've been using Ubuntu terminal, bash scripting and python basics
+I created new projects and added new functions and classes to old projects
