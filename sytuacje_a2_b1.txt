@@ -1,31 +1,35 @@
 //////////////////////////////////////////
 36 * at the doctor's
 //////////////////////////////////////////
-she've left home and gone to a bus stop (go-went-gone)
+she've left home and gone to a bus stop (go-goes-went-gone)
+she wants catch a bus to city centre
 she is waiting for the bus at the bus stop
 she is getting on the bus (get on)
-she've got on the bus
+she've got on the bus (get-got-got)
 she is on the bus
 she is going to the doctor
 she has an appointment with doctor in 10 minutes
 she is in harry
+she harries
 what's the time?
 she is on time
-she've got in hospital
+she've got in a hospital (get in = come in)
 how do I find a waiting room?
-she sat down and wait
-she is for a check-up (badanie)
+she sat down and waits
+she is here for a check-up (badanie)
 take a seat, please!
 the doctor will call you in (wezwie)
 she took a seat (usiadła)
 she is waiting for her appointment
+she is nervous (nerwiwa) |ˈnɜːrvəs|
+why is she nervous?
 
-the doctor will examine her
+the doctor will examine her thoroughly (dokładnie)
 what's the matter? (na czym polega problem?)
 what seems to be the problem?
 she can't sleep at night
 she has an illness. she is ill
-she suffer from cough (cierpi na kaszel)
+she suffers from cough (cierpi na kaszel)
 she hurts throat
 she has ranny nos (katar)
 she feels pain while she breaths
@@ -88,17 +92,20 @@ how long will she has to take pills?
 do I need antibiotics?
 
 
+ucierpieć na - suffer for |ˈsʌfər|
+dokładnie - throughly  |ˈθruːliː|
+myślę, że ____ jest ____ - I find ___ to ___
 leżeć - lie (lying - leżący)
 położyć się - lie down
 ustąpić (choroba) - clear up
 odejsć, przejść - go away
-ból - ache = pain
-paskudny - nasty
+ból - ache / pain
+paskudny, wstrętny - nasty  |ˈnæsti|
 dwa razy dzienne - twice a day
-naciskać - press
-bolące - sore
+naciskać - press 
+bolące - sore |sɔːr|
 recepta - prescription
-zardło - throat
+gardło - throat  |θroʊt|
 badać - examine
 poczekalnia - waiting room
 wezwać kogoś - call in
