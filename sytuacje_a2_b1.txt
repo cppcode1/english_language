@@ -15,13 +15,13 @@ what's the time?
 she is on time
 she've got in a hospital (get in = come in)
 how do I find a waiting room?
-she sat down and waits
+she've sat down and waited
 she is here for a check-up (badanie)
 take a seat, please!
 the doctor will call you in (wezwie)
-she took a seat (usiadła)
+she've taken a seat (usiadła)
 she is waiting for her appointment
-she is nervous (nerwiwa) |ˈnɜːrvəs|
+she is nervous (nerwowa) |ˈnɜːrvəs|
 why is she nervous?
 
 the doctor will examine her thoroughly (dokładnie)
@@ -30,10 +30,11 @@ what seems to be the problem?
 she can't sleep at night
 she has an illness. she is ill
 she suffers from cough (cierpi na kaszel)
-she hurts a throat (gardło)
+she hurts a throat (boli jej gardło)
 she has a ranny nos (katar)
 she feels a pain while she breathes
-let me have a look
+she feels like go home and fell asleep (ona ma ochotę na)
+let me have a look (...spojrzeć)
 open your mouth, please
 breath in (wdech)
 breath out (wydech)
@@ -41,6 +42,7 @@ cough, please (prosze kaszleć)
 can you prescribe some pills?
 she needs drugs (leki)
 the doctor gave the prescription to her
+she will give the prescription to a chemist |ˈkemɪst|
 take one pill every two hours
 she will take one pill before she goes to bed
 she has sore throat (ból gardła)
@@ -95,18 +97,21 @@ she has to take pills
 why she take no pills?
 she will take medicine/drugs (leki)
 must she take medicine? |ˈmedsn|
-the doctor seid she should take pills
+the doctor said she should take pills
+she should take his advice
 does she have to take pills?
 how long will she has to take pills?
 do I need antibiotics?
 
+aptekarz - chemist  |ˈkemɪst|
 take pills
-lek - medicine  |ˈmedsn|
+lek - medicine / drug  |ˈmedsn|
 przepisać, zalecić - prescribe  |prɪˈskraɪb|
 gorączka - fever  |ˈfiːvər|
 dostać temperaturę - get a temperature
-boleć - hurt  |hɜːrt|
+boleć - hurt smth  |hɜːrt|
 płuca - lungs  |ˈləŋz|
+bolą ją ręka - she hurts hand / arm
 objaw - symptom  |ˈsɪmptəm|
 cierpieć na - suffer for |ˈsʌfər|
 dokładnie - throughly  |ˈθruːliː|
@@ -116,6 +121,7 @@ lying - leżący
 położyć się - lie down
 ustąpić (choroba) - clear up
 odejsć, przejść - go away
+proszę - please  |pliːz|
 ból - ache / pain
 paskudny, wstrętny - nasty  |ˈnæsti|
 dwa razy dzienne - twice a day
@@ -127,11 +133,13 @@ badać - examine
 poczekalnia - waiting room
 wezwać kogoś - call in
 zająć miejsce - take a seat
-usiąść  - take a seat
+usiąść  - take a seat / sit down
 to have appointment with smb
 wizyta - appointment
 spotkanie - appointment
 oddychać - breathe  |briːð|
+rana - sore  |sɔːr|
+
 
 
 
