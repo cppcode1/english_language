@@ -30,9 +30,9 @@ what seems to be the problem?
 she can't sleep at night
 she has an illness. she is ill
 she suffers from cough (cierpi na kaszel)
-she hurts throat
-she has ranny nos (katar)
-she feels pain while she breaths
+she hurts a throat (gardło)
+she has a ranny nos (katar)
+she feels a pain while she breathes
 let me have a look
 open your mouth, please
 breath in (wdech)
@@ -40,31 +40,33 @@ breath out (wydech)
 cough, please (prosze kaszleć)
 can you prescribe some pills?
 she needs drugs (leki)
-the doctor gave prescription to her
+the doctor gave the prescription to her
 take one pill every two hours
 she will take one pill before she goes to bed
-she has sore throat (ból gardłą)
+she has sore throat (ból gardła)
 it hurts (to boli)
 she has symptoms
 do you have any other symptoms?
-I have a pain in my lungs (płuca)
-take off your shirt, please
+I have a pain in my lungs |ˈləŋz| (płuca)
+take off your shirt, please |ʃɜːrt|
 she is taking off her shirt
 she've taken off her shirt
 the doctor wants to listen her chest (platka piersiowa)
+the doctor is listening her chest
 she breathes deeply
 does it hurt at the moment? (w tej chwili)
 does it hurt when I press here?
 where exactly does it hurt?
-has she got a temperature?
+has she got a temperature? (ostatnio i właśnie miała?)
 have you got a temperature?
 she has a fever at the moment (gorączka)
 she've had this symptoms for two weeks
 how long have you had these symptoms?
-the doctor wiill prescribe some painkilles
+the doctor will prescribe some painkilles
 there is nothing to worry about
 don't worry, please
 she has to take the medicine twice a day
+she must take drugs
 you have some kind of ear infection
 she've had a ranny nos for week
 I have a nasty cough now
@@ -72,26 +74,40 @@ do you have a headache?
 do you have a head pain?
 she finds ____ to ____
 she finds hard to breath
-I've got a terrible headache
+I've got a terrible headache (get a headache)
 she've taken painkilles
 have you taken any painkilles?
 she had a head pain this morning
 I took a painkiller this morning and the pain went away
-the doctor has prescribed cough mixture 
+the doctor has prescribed a cough mixture 
+she is feeling bad now
 she've been feeling bad (była i będzie)
 she've taken the cough mixture
-how long has she had felt like this?
+how long has she felt like this?
 how long have you been feeling like this?
 lie down here, please (proszę tu się położyć)
+she've lain down on an examination table
 she took doctor's advice
-take these pills and a illness will clear up
-she lyes ?
+she've taken doctor's advice and lain down (lie-lies-lying-lain)
+take these (te) pills and an illness will clear up (odstąpi)
+she lies on the examination table now
 she has to take pills
-she will take medicine/drugs
+why she take no pills?
+she will take medicine/drugs (leki)
+must she take medicine? |ˈmedsn|
+the doctor seid she should take pills
+does she have to take pills?
 how long will she has to take pills?
 do I need antibiotics?
 
-
+take pills
+lek - medicine  |ˈmedsn|
+przepisać, zalecić - prescribe  |prɪˈskraɪb|
+gorączka - fever  |ˈfiːvər|
+dostać temperaturę - get a temperature
+boleć - hurt  |hɜːrt|
+płuca - lungs  |ˈləŋz|
+objaw - symptom  |ˈsɪmptəm|
 ucierpieć na - suffer for |ˈsʌfər|
 dokładnie - throughly  |ˈθruːliː|
 myślę, że ____ jest ____ - I find ___ to ___
@@ -114,6 +130,8 @@ usiąść  - take a seat
 to have appointment with smb
 wizyta - appointment
 spotkanie - appointment
+oddychać - breathe  |briːð|
+
 
 
 
