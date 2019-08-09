@@ -291,7 +291,7 @@ to have appointment with smb
 wizyta - appointment
 spotkanie - appointment
 oddychać - breathe  |briːð|
-rana - sore  |sɔːr|
+rana - sore / wund |sɔːr|
 
 
 
