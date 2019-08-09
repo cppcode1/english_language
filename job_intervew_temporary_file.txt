@@ -11,6 +11,8 @@ non-disclousure, or non-solicitation agreement,
 that might impact or interfere with your ability 
 to work in any way for Intel or impact your ability 
 
+we will invite you for an interview (rozmowa)
+this interview will be preceded by a telephone interview |prəˈsiːdəd| (poprzedzona)
 when we meet you in person, we will show you our beautiful office in city center
 he is future employer |ɪmˈplɔɪər| (pracodawca)
 to communicate with current/former colleagues?
@@ -94,6 +96,7 @@ how long have you been developing?
 have I got a job?
 how much time does it take?
 
+doświadczenie - experience  |ɪkˈspɪriəns|
 salary requirements
 at least |liːst|
 zaleta - strength  |streŋθ|
@@ -111,7 +114,7 @@ I worked fill-time before now
 I studyied in school for some 11 yers
 After that I studied in university 
 
-Tell me about expereence there 
+tell me about experience there (tam)
 It was good expereance. Well, I used to use C++, git and Qt
 What's more I've been using Ubuntu terminal, bash scripting and python basics
 I created new projects and added new functions and classes to old projects
