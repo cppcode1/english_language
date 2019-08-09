@@ -89,6 +89,7 @@ przejść przez grodę - cross the street / go across the street
 //////////////////////////////////////////
 36 * at the doctor's
 //////////////////////////////////////////
+she speak no word in English
 she've forgotten about her appointment |fərˈɡɑːtn|
 she usually leaves her work at thirty past three pm |liːvz|
 she've left home and gone to a bus stop (go-goes-went-gone)
