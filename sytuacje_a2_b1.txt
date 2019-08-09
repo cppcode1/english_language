@@ -89,6 +89,7 @@ przejść przez grodę - cross the street / go across the street
 //////////////////////////////////////////
 36 * at the doctor's
 //////////////////////////////////////////
+she've forgotten about her appointment |fərˈɡɑːtn|
 she usually leaves her work at thirty past three pm |liːvz|
 she've left home and gone to a bus stop (go-goes-went-gone)
 she has gone out |ɡɔːn| (ona właśnie wyszła)
@@ -125,15 +126,17 @@ what's the matter? (na czym polega problem?)
 what seems to be the problem?
 she can't sleep at night
 she has an illness. she is ill
-she suffers from cough (cierpi na kaszel)
-she hurts a throat (boli jej gardło)
+she suffers from cough |ˈsʌfərz| (cierpi na kaszel)
+she hurts a throat (boli ją gardło)
 she has a ranny nos (katar)
-she feels a pain while she breathes
+I feel ill |fiːl|
+she feels a pain while she breathes |felz|
 she feels like go home and fell asleep (ona ma ochotę na)
+she felt bad yesterday |ˈjestərdeɪ|
 let me have a look (...spojrzeć)
 open your mouth, please
-breath in (wdech)
-breath out (wydech)
+breath in |breθ| (wdech)
+breath out |breθ| (wydech)
 cough, please (prosze kaszleć)
 can you prescribe me some pills?
 she needs drugs (leki)
