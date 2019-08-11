@@ -1,24 +1,27 @@
 //////////////////////////////////////////
-4 * at a bus stop
+4 * at a bus stop (na przystanku)
 //////////////////////////////////////////
-they found their gate (the airport)
-there wasn't a cloud in the sky
+there wasn't a cloud in the sky (chmura)
 would they be able to find it? (być zdolnym do)
+they are able to find it
 they boarded the airplane
 the plane is boarding
 neither of them speak no word in English
-they walked over to them
+they walked over to them (over - to przeszkoda)
 maybe they have a chance to meet you up
-the plane took off with small delay
+the plane took off with small delay (wystartował)
 pick up our language form a baggage carousel
 they introduced themselves
 firstly, I want to introduce myself
 they were happy as they came out
-he's send their photos to her
-the flight lasted only two hours
-the plane landid
+he's sent their photos to her (ostatnio)
+the flight lasted only two hours (trwał)
+it will take olny five minutes! (to zajmie jedynie)
+it takes too long!
+the plane landid (wylądował)
+when does the plane take off? (startuje)
 the plane hasn't landid yet
-the plane stoped
+the plane stoped (zatrzymał się)
 someone checked their passports
 she didn't want it before that
 I learn it every other day (co drugi dzień)
@@ -27,41 +30,38 @@ she wants to ask a question to him
 he heard his name spoken from the left (powiedziane)
 take me to the hotel (zabierz mnie)
 they found each other
-she've came across him (spotkać się przypadkowo)
-she called the doctor, but he didn't answer / pick up
-take a call the doctor 
 what are you talking about?
 what's that for? (poco to?)
 where would you like to meet? (where)
-is it the bus stop that I am looking for
-the illness seens to be the problem
+is the bus stop that I am looking for?
+it's the bus stop that I am looking for
 talk about the weather
 how is the weather today?
-how was the weather during your holyday?
+what does she do during her holyday?
+how was the weather?
+how was the weather during your holyday? ['djuərɪŋ] (podczas)
 do you have nice weather?
 do you have nice weather where you are?
 did you have warm weather last week?
 it is raining
+what is the weather outside?
+do you have a bus travel card? (bilet okresowy)
 what is the weather doing at the moment?
-forecast (the prediction)
-on smartphone
 what is the weather going to do tomorrow?
+the weather is going be bad tomorrow
 what is the forecast for next Monday?
-temperature
-Celsius = degrees
-today is twenty degrees outside.
-outside = na zewnątrz
-it was 25 degrees yesterday.
-I guess it is around 25 degrees.
+today is twenty degrees outside
+it was 25 degrees yesterday [dɪ'griːs]
+I guess it's around 25 degrees
 what is the temperature where you are?
 how hot is it where you are?
 it feels like minus ten
 excuse me, where is a bus stop?
 she is at a bus stop (ona znajduje się na przystanku)
-do you know where th nearest bus stop is?
-has she seventy three been jet?
+do you know where the nearest bus stop is?
+has the seventy three been jet? (czy była już ostatnio)
 which bus should I take?
-which bus should I take to get go city centere?
+which bus should I take to get go city centre?
 where can I see a bus route?
 the number 10 stops at train station
 does the number ten run? (jeździ)
@@ -81,10 +81,10 @@ it's coming! (nadjeżdża)
 it's so hot (tu jest tak gorąco!)
 I hope it has air conditioning
 oh, this is not our bus
-this bus goes past the city centere
+this bus goes past the city centre
 how often does this bus run?
 does this bus run today?
-does this bus go past the city centere?
+does this bus go past the city centre?
 this one goes the other way
 here is our bus!
 I thought it would never come (mowa zależna??)
@@ -133,7 +133,7 @@ it's ten minutes by bus from here
 does this bus stop at the downtown?
 no, that's the other way
 cross the street and take the bus number twenty five
-does this one bound for city centere?
+does this one bound for city centre?
 could you please show me where to get off?
 do I have to change buses?
 where can I leave my suitcase?
