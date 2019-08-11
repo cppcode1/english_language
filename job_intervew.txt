@@ -1,8 +1,11 @@
-/////////////////////////
+//////////////////////////////////////////////////
 the job interview
-/////////////////////////
-obywatelstwo - citizenship  |ˈsɪtɪzənʃɪp|
-
+//////////////////////////////////////////////////
+she looks for a job
+they want to hire her as soon as possible
+she successfully sent her application
+thanks you for calling
+thanks you for comming
 Yes, I have read and consent to the terms and conditions
 o the best of your knowledge, are you aware of any 
 contract or agreement with your current employer 
@@ -113,8 +116,10 @@ I am twenty eight years old
 I worked fill-time before now
 I studyied in school for some 11 yers
 After that I studied in university 
-
 tell me about experience there (tam)
 It was good expereance. Well, I used to use C++, git and Qt
 What's more I've been using Ubuntu terminal, bash scripting and python basics
 I created new projects and added new functions and classes to old projects
+
+zatrudnić - hire  |ˈhaɪər|
+obywatelstwo - citizenship  |ˈsɪtɪzənʃɪp|
