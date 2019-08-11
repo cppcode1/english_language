@@ -4,8 +4,6 @@
 there wasn't a cloud in the sky (chmura)
 would they be able to find it? (być zdolnym do)
 they are able to find it
-they boarded the airplane
-the plane is boarding
 neither of them speak no word in English
 they walked over to them (over - to przeszkoda)
 maybe they have a chance to meet you up
@@ -103,8 +101,9 @@ nadjechać - come
 kursować, jeździć - run
 trasa autobusu - bus route
 
-
+//////////////////////////////////////////
 5 * on the bus
+//////////////////////////////////////////
 she is on the bus
 where does she want to get?
 she is looking for a free seat
