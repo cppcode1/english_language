@@ -187,8 +187,41 @@ bilet "poza godzinami szczytu" - off-peack travel card
 //////////////////////////////////////////
 6 * at the train station
 //////////////////////////////////////////
+they don't have train tickets
+they are out of money
+excuse me, where is the ticket office?
+excuse me, can I have two tickets to London?
+where to? (dokąd?)
+where does she want to get to?
+is there a direct train to ...? (pociąg bezpośredni)
+yes, there is two direct trains
+single or return?
+one at 8.30 am, and the other one at 2 pm
+how much is a single ticket?
+how much is it cost?
+the single ticket costs 20 pounds
+is there discount?
+how much is a return ticket?
+can I change a return date? (data powrotu)
+can I chance a ticket date?
+which platforn does it leave from? (z którego peronu)
+do I have to change? (czy muszę przesiadać?)
+the train will leave from the platforn number two
+your train leaves in 20 minutes
+I see a guard (konduktor)
+where can I see departures? |dəˈpɑːrtʃərz| (odjazdy)
+does she know where arrivals are? |əˈraɪvəlz| (przyjazdy)
+which platforn? which track?
+we have own compartment |kəmˈpɑːrtmənt| (przedział)
+is it a sleeper train? (pociąg sypialny)
+how do I find a lagguage locker? (schowek na bagaż)
+where do I find a lagguage trolley? |ˈtrɑːli| (wózek na zakupy w supermarkecie)
+she must chance her train two times
+validate your ticket here (kasować bilet)
+excuse me, where is a ticket validator?
+
 they found their gate (the airport)
-they boarded the airplane
+they boarded the airplane (rabat)
 the plane is boarding
 what have you been up to?
 bye for now (na razie)
@@ -266,6 +299,7 @@ we need get to the platforn number three
 there is a buffet car
 she bought the second class ticket
 her train is direct
+
 what time = o której?
 what time does your train leave? 
 what time does your train come in?
@@ -285,6 +319,7 @@ what time did we meet in the morning?
 what time does her train depart?
 what time does her train leave?
 what time does her train come out?
+
 she arrived in the noon (at 12)
 she is on the bus while he is on the train
 we will meet on the square in the afternoon
