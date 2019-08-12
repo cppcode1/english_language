@@ -93,7 +93,7 @@ here is our bus!
 I thought it would never come (mowa zależna??)
 shall we get on? (wsiadamy?)
 do you know where should we get off?
-shall we get off? (wysiadamy?)
+shall we get off? (czy możemy wysiadać?)
 where to? (dokąd?)
 where do you wanna get?
 
