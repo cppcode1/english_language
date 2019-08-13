@@ -203,11 +203,12 @@ one at 8.30 am, and the other one at 2 pm
 how much is a single ticket?
 how much does it cost?
 the single ticket costs 20 pounds
-is there discount?
+is there a discount? (zniżka)
 how much is a return ticket?
 can I change a return date? (data powrotu)
 can I chance a ticket date?
 which platforn does it leave from? (z którego peronu)
+the train left from fifth platform
 do I have to change? (czy muszę przesiadać?)
 the train will leave from the platforn number two
 your train leaves in 20 minutes
