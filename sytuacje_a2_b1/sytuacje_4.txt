@@ -323,30 +323,30 @@ why didn't she tell me?
 why didn't she buy the ticket?
 she walked over to the timetable to check arrival times
 she saw the arrival times on screens
-my train will arrive at ten a.m.
-has her train arrived on time?
+my train will arrive at ten a.m. (przyjedzie)
+has her train arrived on time? (właśnie przyjechał na czas?)
 her train has arrived on time
-why does her train late? (zazwyczaj)
-my train is late and I'm going to buy new ticket
-I want to book the train
+why does her train be late? (zazwyczaj)
+my train is late and I'm going to give back the ticket
+I want to book the afternoon train
 I was catching the 7 am bus when I saw her
 where can I leave my lagguage?
-she can leave her lagguage in left lagguage locker
+she can leave her lagguage in a left lagguage locker
 she is getting in the car
 she is getting on the train
 she is getting on the bus
-she is new passenger
+she is new passenger |ˈpæsɪndʒər|
 there is a rack above her head
-it is a lagguage rack
+it is a lagguage rack (półka)
 she has a window seat
 I have a aisle seat
 we need get to the platforn number three
-there is a buffet car
+there is a buffet car (wagon restauracyjny)
 she bought the second class ticket
 her train is direct
 
 what time = o której?
-what time does your train leave? 
+what time does your train leave? (odjeżdża)
 what time does your train come in?
 what time does your train come out?
 what time does the last train go? 
@@ -361,12 +361,13 @@ what time does she finish her work?
 what time does she usually come home?
 what time are you going out tonight? 
 what time did we meet in the morning?
+
 what time does her train depart?
 what time does her train leave?
 what time does her train come out?
 
 she arrived in the noon (at 12)
-she is on the bus while he is on the train
+she is on the bus when he is on the train
 we will meet on the square in the afternoon
 we have met in the park
 we first met next to her hotel
