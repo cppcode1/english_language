@@ -201,7 +201,7 @@ yes, there is two direct trains
 single or return?
 one at 8.30 am, and the other one at 2 pm
 how much is a single ticket?
-how much is it cost?
+how much does it cost?
 the single ticket costs 20 pounds
 is there discount?
 how much is a return ticket?
