@@ -247,8 +247,8 @@ she took a train (pojechała pociągiem)
 she is waiting for a morning train (poranny pociąg)
 she is getting on a train
 she is getting off her train
-she wants po hop in a car
-she is jumping on a train
+she wants to hop in a car (wsiadać)
+she is jumping on a train (wsiadać)
 she need an afternoon train
 I need the 9 o'clock train
 the railway station is a 5-minute walk away from our hotel
@@ -256,16 +256,16 @@ I missed the afternoon train
 I have to catch the evening train
 how long does it take to get there?
 how long does it take to get to ...?
-the morning train takes 3 hours |ˈaʊərz|
+the morning train takes 3 hours |ˈaʊərz| (zajmuje=jedzie 3 godziny)
 what's the difference in price between first and second class?
 do you accept VISA cards? |əkˈsept| (akceptować)
 can I pick / choose a seat?
 does the train have compartments?
-is there a reduced fare for children?
+is there a reduced fare for children? |rəˈduːst| (obniżony)
 can you tell me the price for the 12 train?
 you are asked how to get to the railway station
 enquire about trains
-you've messed your train
+you've messed your train (właśnie)
 
 
 they found their gate (the airport)
