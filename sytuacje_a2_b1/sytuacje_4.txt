@@ -225,7 +225,7 @@ validate your ticket here (kasować bilet)
 excuse me, where is a ticket validator?
 I want a standard (second class) ticket
 does she have a one-way ticket?
-is this valid ticket?
+is this a valid ticket? (ważny)
 can you tell me the price?
 can you tell me the price for the sleeper train?
 the 10:30 train to Manchester has been cancelled
