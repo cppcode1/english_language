@@ -2,8 +2,8 @@
 7 * on the train (w pociągu)
 //////////////////////////////////////////
 she is on the train
-her train is delayed (be delayed)
-his train is running late (run late)
+her train is delayed |dəˈleɪd| (be delayed)
+his train is running late (run late - spóźnia się)
 why does she on the train?
 where is her train going to?
 the train arriving at platform 3 is the 7.30 service to London
@@ -19,14 +19,15 @@ what time the train expected in London?
 can I put my suitcase on the luggage rack? |ˈsuːtkeɪs| (położyć na)
 is there a buffet car on the train? |bəˈfeɪ|
 if you don't carry a valid ticket, the penalty is quite high |ˈpenəlti|
-does she carry a valid ticket?
+does she carry a valid ticket? (posiada)
 if you don't carry a ticket, you will pay high penalty |ˈpenəlti|
+she has a high penalty
 tickets please (proszę okazać bilet)
 can I see your ticket, madam?
-they should stay in their carriages |ˈkærɪdʒɪz|
+they should stay in their carriages |ðer| |ˈkærɪdʒɪz|
 passengers travelling to London should stay in carriages 1 to 8
 which the carriage does she have? |ˈkærɪdʒ| (wagon)
-is this train going to?
+is this train going to ...?
 this train is going to London (jechać do)
 excuse me, where is this train going to?
 does this train call at London Bridge?
@@ -38,7 +39,7 @@ hello. I want to buy a direct train ticket to London
 I prefer a sleeper train |prɪˈfɜːr|
 the train is pulling in the platform (wjeżdża)
 there is the gap between the train and the platform
-please mind the gap when alighting the train (przy wysiadaniu)
+please mind the gap when alighting the train |əˈlaɪtɪŋ| (przy wsiadaniu)
 
 //////////////////////////////////////////
 8 * taking a taxi
@@ -76,7 +77,8 @@ order a taxi by phone
 get a taxi on the street
 can you take me there?
 how long will it take to get to my hotel?
-
+she was staying in her hotel when he came
+she is late, and therefore she must give the ticket back
 
 opłata drogowa - toll
 bagażnik - boot
