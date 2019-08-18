@@ -1,9 +1,12 @@
 //////////////////////////////////////////
 7 * on the train (w pociągu)
 //////////////////////////////////////////
+how long will it take?
+which an depart date do you suit?
 she is on the train
-her train is delayed (be delayed)
-his train is running late (run late)
+her train is delayed |dəˈleɪd| (be delayed)
+his train is running late (run late - spóźnia się)
+why does his train be late?
 why does she on the train?
 where is her train going to?
 the train arriving at platform 3 is the 7.30 service to London
@@ -19,14 +22,15 @@ what time the train expected in London?
 can I put my suitcase on the luggage rack? |ˈsuːtkeɪs| (położyć na)
 is there a buffet car on the train? |bəˈfeɪ|
 if you don't carry a valid ticket, the penalty is quite high |ˈpenəlti|
-does she carry a valid ticket?
+does she carry a valid ticket? (posiada)
 if you don't carry a ticket, you will pay high penalty |ˈpenəlti|
+she has a high penalty
 tickets please (proszę okazać bilet)
 can I see your ticket, madam?
-they should stay in their carriages |ˈkærɪdʒɪz|
+they should stay in their carriages |ðer| |ˈkærɪdʒɪz|
 passengers travelling to London should stay in carriages 1 to 8
 which the carriage does she have? |ˈkærɪdʒ| (wagon)
-is this train going to?
+is this train going to ...?
 this train is going to London (jechać do)
 excuse me, where is this train going to?
 does this train call at London Bridge?
@@ -34,17 +38,32 @@ this train calls at London and London Bridge
 please mind the gap
 is this a fast or slow train?
 is this an international train? |ˌɪntərˈnæʃnəl| (międzynarodowy)
-hello. I want to buy a direct train ticket to London
+hello. I want to buy a direct train ticket to Lublin
 I prefer a sleeper train |prɪˈfɜːr|
 the train is pulling in the platform (wjeżdża)
 there is the gap between the train and the platform
-please mind the gap when alighting the train (przy wysiadaniu)
+please mind the gap when alighting the train |əˈlaɪtɪŋ| (przy wsiadaniu)
+how long will it take to get to the Lublin?
+
+odstęp - gap
+być opóźnionym - be delayed / run late
+woleć - prefer  |prɪˈfɜːr|
+uważać na - mind smth
+zatrzymywać się na - call at
+jechać do - go to
+wagon osobowy - carriage / coach |koʊtʃ|
+ważny bilet - valid ticket
+posiadać - carry |ˈkæri|
+kara - penalty |ˈpenəlti|
+położyć na - put on
+trzymać  - keep  |kiːp|
 
 //////////////////////////////////////////
 8 * taking a taxi
 //////////////////////////////////////////
 where would you like to go?
 good morning. I would like to book a taxi to the airport
+he wants to book a big taxi 
 she wants to order a taxi to the city centre
 why does he get a taxi?
 can you give me the pick up address?
@@ -76,25 +95,40 @@ order a taxi by phone
 get a taxi on the street
 can you take me there?
 how long will it take to get to my hotel?
+she was staying in her hotel when he came
+she is late, and therefore she must give the ticket back
+she flag down a taxi (machać na taksówkę)
+why didn't she hail a taxi? (przywołać)
+what's the fare?
+how much is it?
+do you know where their headquarters is? (siedziba) |ˈhedkwɔːrtərz|
+it shouldn't take us more than 15 minutes
+do you accept credit card?
+I have no cash on me
+can we get a van? there are 7 of us
+can you stop at the moment at the nearest cash machine?
+please keep the meter running |ˈmiːtər|
+can you turn off the conditioning? |kənˈdɪʃənɪŋ|
+is there any faster way?
+have you been here before?
+actually, I haven't. this is my first time in Lublin
+are you here on business or on holiday?
+how long are you staying?
+where shall I drop you off? (wysadzić)
+how much do I owe you?
+according to the meter that will be 5 pounds 50 (według)
+here you are. keep the change
+can you open the boot please? I'll take my bag
+thank you for the ride (przejażdżka)
 
-
+być dłużnym - owe  |oʊ|
+klimatyzacja - conditioning  |kənˈdɪʃənɪŋ|
+licznik - meter  |ˈmiːtər|
 opłata drogowa - toll
 bagażnik - boot
 zmierzać do - head for
 odebrać - pick up
 adres do odebrania - pick up addess
-odstęp - gap
-być opóźnionym - be delayed / run late
-woleć - prefer  |prɪˈfɜːr|
-uważać na - mind smth
-zatrzymywać się na - call at
-jechać do - go to
-wagon osobowy - carriage / coach |koʊtʃ|
-ważny bilet - valid ticket
-posiadać - carry |ˈkæri|
-kara - penalty |ˈpenəlti|
-położyć na - put on
-trzymać  - keep  |kiːp|
 
 //////////////////////////////////////////
 9 * at the airport, checking in
