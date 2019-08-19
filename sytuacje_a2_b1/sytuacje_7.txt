@@ -2,23 +2,23 @@
 7 * on the train (w pociągu)
 //////////////////////////////////////////
 how long will it take?
-which an depart date do you suit?
+which an depart date do you suit? |suːt|
 she is on the train
 her train is delayed |dəˈleɪd| (be delayed)
 his train is running late (run late - spóźnia się)
 why does his train be late?
 why does she on the train?
 where is her train going to?
-the train arriving at platform 3 is the 7.30 service to London
+the train arriving at platform 3 is the 7.30 service to Lublin
 is it an express train?
-excuse me, is this train going to London? (ten piciąg jedzie do?)
+excuse me, is this train going to Lublin? (ten piciąg jedzie do?)
 the train arriving at this platform is our! (nadjeżdżający)
 excuse me, is this train delayed? |dəˈleɪd|
 how long is the delay? (jak bardzo się spóźnia?)
-the 5.50 to London is running 20 minutes late
+the 5.50 to Lublin is running 20 minutes late
 can I get a refund? |ˈriːfʌnd|
 can I get a refund if I miss the plane?
-what time the train expected in London?
+what time the train expected in Lublin?
 can I put my suitcase on the luggage rack? |ˈsuːtkeɪs| (położyć na)
 is there a buffet car on the train? |bəˈfeɪ|
 if you don't carry a valid ticket, the penalty is quite high |ˈpenəlti|
@@ -133,21 +133,21 @@ adres do odebrania - pick up addess
 //////////////////////////////////////////
 9 * at the airport, checking in
 //////////////////////////////////////////
-by the large I have travelling
-she doesn't work for any government (rząd)
-please go the checkin desk (stanowisko odprawy)
-where is the departures board?
+by the large I hate travelling (ogólnie rzecz biorąc)
+she doesn't work for any government |ˈɡʌvərnmənt| (rząd)
+please, go the check-in desk (stanowisko odprawy)
+where is the departures board? |dəˈpɑːrtʃərz| |bɔːrd|
 check your check-in desk number on the departures board
 we have to check in our lagguage (nadać bagaż)
 where is our check-in desk?
 can I see your passport and ticket, please?
 may I have your passport, please?
 here you are / there you are (proszę)
-I'am sorry, but your passport has expired (stracił ważność)
+I'am sorry, but your passport has expired |ɪkˈspaɪrd| (stracił ważność)
 are you flying?
 where are you flying to? (where ... to)
 can we sit by the window?
-she will arrive by the afternoon
+she will arrive by the afternoon (po południu)
 we would like to sit together
 can I have a window seat?
 do I have any stopovers? (przesiadka)
@@ -194,4 +194,4 @@ she will stand here until he buys the plain ticket (dopóki nie)
 they will fly there next time they have holiday (następnym razem, kiedy)
 he will learn it by the time he understand all (do czasu jak)
 
-hala przylotów/odlotów - arrivals/departures lounge [laundʒ]
+hala przylotów/odlotów - arrivals/departures lounge |laʊndʒ|
