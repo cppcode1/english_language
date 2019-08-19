@@ -196,12 +196,13 @@ hala przylotów/odlotów - arrivals/departures lounge |laʊndʒ|
 pas transmisyjny - conveyor  |kənˈveɪər|
 przewozić - carry
 cło - duty  |ˈduːti|
+opróżnić - empty 
 
 //////////////////////////////////////////
 10 * at the airport, security check (kontrola)
 //////////////////////////////////////////
 can you take all your devices out of your bag? (wyjąć)
-empty your pockets, please (opróżnić) |ˈpɑːkəts| (kieszeni)
+empty your pockets, please |ˈpɑːkəts| (kieszeni)
 first you have to go through the security control
 please take your electrinic devices out (wyjąć)
 please, put your bags on the converyor belt |kənˈveɪər|
