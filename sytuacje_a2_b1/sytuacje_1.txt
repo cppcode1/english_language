@@ -180,14 +180,14 @@ she's had these symptoms for two weeks (od dwóch tygodni)
 have you had? (miałeś ostatnio)
 how long have you had these symptoms?
 it lasts for two days (ciągnie się)
-the doctor will prescribe some painkilles
+the doctor will prescribe some painkilles |prɪˈskraɪb|
 she's taken the last but one pill (przedostatnia)
 there is nothing to worry about
 don't worry, please
-she has to take the medicine twice a day
+she has to take the medicine twice a day |ˈmedsn|
 she must take drugs (leki)
 you have some kind of ear infection
-she's had a runny nose for a week
+she's had a runny nose for a week (przez tydzień)
 I have a nasty cough now
 do you have a headache?
 do you have a pain in your head?
@@ -198,17 +198,16 @@ she's taken painkilles
 have you taken any painkilles?
 she had a headache this morning
 I took a painkiller this morning and the pain went away
-the doctor has prescribed a cough mixture 
+the doctor has prescribed a cough mixture |ˈmɪkstʃər|
 she is feeling bad now
 she's been feeling bad (była i będzie)
-she's taken the cough mixture
-//how long has she felt like this?
+she's taken the cough mixture (właśnie)
 how long have you been feeling like this?
 lie down here, please (proszę tu się położyć)
 she's lain down on an examination table
 she took doctor's advice
-she took doctor's advice and lye down (lie-lies-lying--lye-lain)
-take these (te) pills and an illness will clear up (odstąpi)
+she took doctor's advice and lye down (lie-lies-lying-lye-lain)
+take these (te) pills and the illness will clear up (odstąpi)
 she is lying on the examination table now
 she has to take pills
 why does she take no pills?
@@ -221,24 +220,25 @@ how long will she have to take pills?
 do I need antibiotics?
 her blood pressure is low
 what did you eat last night?
-I think it might be food poisoning
+I think it might be food poisoning |ˈpɔɪzənɪŋ|
 I feel sick (czuję się niedobrze)
-have you been vomiting?
+have you been vomiting? |ˈvɑːmətɪŋ|
 it's nothing serious
 you should eat helthy food
 you should have a blood test
 do you know your blood group?
 what a blood type does she have?
+cut down prices (obniżyć ceny)
 the doctor recommends that (że) she cuts down on sugar
 you need more sleep
 you should go on a diet
-you should give up / quit smoking (pozostawić)
+you should give up / quit smoking |ˈsmoʊkɪŋ| (pozostawić)
 she shouldn't work so hard
 she should rest more
 are you allergic to anything?
-is it itchy? (swędzi)
+is it itchy? |ˈɪtʃi| (swędzi)
 it should help you
-this ointment should help you
+this ointment (maść) should |ʃəd| help you |ˈɔɪntmənt|   
 apply it twice a day (nakładaj to dwa razy dzienne)
 in the morning and in the evening for two weeks
 please come back in a week (wrócić za tydzień)
@@ -246,7 +246,7 @@ we can meet in a week
 why don't we meet? (może się spotkamy?)
 if it doesn't go away, please call me
 do you need a sick note? (zwolnienie lekarskie)
-you should see a specialist
+you should see a specialist |ˈspeʃəlɪst|
 he will prescribe antibiotics
 take one pill every day for five days
 the nurse will take your temperature
@@ -257,12 +257,12 @@ what did you eat last night?
 pozostawić - give up / quit
 przejść na dietę - go on a diet
 ograniczyć - cut down on
-zatrucie pok marmowe - food poisoning
+zatrucie pokarmowe - food poisoning |ˈpɔɪzənɪŋ|
 zmierzyć ciśnienie - take a blood pressure
 zmierzyć temperaturę - take a temperature
 aptekarz - chemist  |ˈkemɪst|
 take pills
-lek - medicine / drug  |ˈmedsn|
+lek - medicine |ˈmedsn| / drug  
 przepisać, zalecić - prescribe  |prɪˈskraɪb|
 gorączka - fever  |ˈfiːvər|
 dostać temperatury - get a temperature
@@ -273,7 +273,7 @@ objaw - symptom  |ˈsɪmptəm|
 cierpieć na - suffer from |ˈsʌfər|
 dokładnie - throughly  |ˈθruːliː|
 myślę, że ____ jest ____ - I find it ___ to ___
-leżeć - lie-lies-lying-lay-lain        
+leżeć - lie-lies-lying-lay-lain  |laɪ|-|ˈlaɪz|-|ˈlaɪɪŋ|-|leɪ|-|leɪn|
 lying - leżący
 położyć się - lie down
 ustąpić (choroba) - clear up
@@ -295,7 +295,7 @@ to have appointment with smb
 wizyta - appointment
 spotkanie - appointment
 oddychać - breathe  |briːð|
-rana - sore / wound |sɔːr|
+rana - sore |sɔːr| / wound |wuːnd|
 
 
 
