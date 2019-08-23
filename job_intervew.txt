@@ -121,6 +121,8 @@ how long have you been developing?
 have I got a job?
 how much time does it take?
 
+zatrudnić - hire  |ˈhaɪər|
+obywatelstwo - citizenship  |ˈsɪtɪzənʃɪp|
 doświadczenie - experience  |ɪkˈspɪriəns|
 salary requirements
 at least |liːst|
@@ -133,6 +135,8 @@ większość - most
 wydawać pieniądze - spend money
 developing |dɪˈveləpɪŋ|
 manage |ˈmænɪdʒ|
+możliwość, okazja - opportunity  |ˌɑːpərˈtuːnəti|
+
 
 I am twenty eight years old
 I worked fill-time before now
@@ -142,6 +146,3 @@ tell me about experience there (tam)
 It was good expereance. Well, I used to use C++, git and Qt
 What's more I've been using Ubuntu terminal, bash scripting and python basics
 I created new projects and added new functions and classes to old projects
-
-zatrudnić - hire  |ˈhaɪər|
-obywatelstwo - citizenship  |ˈsɪtɪzənʃɪp|
