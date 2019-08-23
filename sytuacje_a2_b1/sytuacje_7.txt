@@ -92,10 +92,10 @@ she wants to order a taxi to the city centre
 why does he get a taxi?
 can you give me the pick up address?
 where are you? (gdzie pan się znajduje?)
-whereabouts are you?
+whereabouts are you? |ˈwerəbaʊts|
 the taxi will arrive in 15 minutes
 I would like to book a taxi for 5 am at the hotel (na 5 rano do ...)
-can you pick me up at 6 am at the grain hotel?
+can you pick me up at 6 am at the grand hotel?
 how much will it cost?
 how much will it cost to get from hotel to the airport?
 how long will I have to wait?
@@ -244,5 +244,6 @@ flight N10 to Lublin is now boarding
 can I take this on board?
 you will have to stay here
 
+podnieść - raise  |reɪz|
 zostać na miejscu - stay here  |steɪ|
 obrócić się (naokoło) - turn around
