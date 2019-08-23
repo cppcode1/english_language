@@ -5,9 +5,10 @@ how long will it take?
 which an depart date do you suit? |suːt|
 she is on the train
 her train is delayed |dəˈleɪd| (be delayed)
-his train is running late (run late - spóźnia się)
+his train is running late (run late - kursuje z opóźnieniem)
 why does his train be late?
-why does she on the train?
+why is his train late?
+why is she on the train?
 where is her train going to?
 the train arriving at platform 3 is the 7.30 service to Lublin
 is it an express train?
@@ -18,7 +19,7 @@ how long is the delay? (jak bardzo się spóźnia?)
 the 5.50 to Lublin is running 20 minutes late
 can I get a refund? |ˈriːfʌnd|
 can I get a refund if I miss the plane?
-what time the train expected in Lublin?
+what time is the train expected in Lublin?
 can I put my suitcase on the luggage rack? |ˈsuːtkeɪs| (położyć na)
 is there a buffet car on the train? |bəˈfeɪ|
 if you don't carry a valid ticket, the penalty is quite high |ˈpenəlti|
@@ -26,16 +27,18 @@ does she carry a valid ticket? (posiada)
 if you don't carry a ticket, you will pay high penalty |ˈpenəlti|
 she has a high penalty
 tickets please (proszę okazać bilet)
-can I see your ticket, madam?
+can I see your ticket, madam? |ˈmædəm|
 they should stay in their carriages |ðer| |ˈkærɪdʒɪz|
-passengers travelling to London should stay in carriages 1 to 8
+passengers travelling to Lublin should stay in carriages 1 to 8
 which the carriage does she have? |ˈkærɪdʒ| (wagon)
 is this train going to ...?
-this train is going to London (jechać do)
+this train is going to Lublin (jechać do)
 excuse me, where is this train going to?
-does this train call at London Bridge?
+does this train call at London Bridge? (zatrzymuje się na)
+does this train call at the next station?
 this train calls at London and London Bridge
-please mind the gap
+this train will call at all stations
+please mind the gap (szczelina)
 is this a fast or slow train?
 is this an international train? |ˌɪntərˈnæʃnəl| (międzynarodowy)
 hello. I want to buy a direct train ticket to Lublin
