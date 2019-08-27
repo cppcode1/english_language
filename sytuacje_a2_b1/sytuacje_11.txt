@@ -1,7 +1,8 @@
 //////////////////////////////////////////
 11 * on the plain
 //////////////////////////////////////////
-can I see your boarding card, please? enjoy your flight!
+can I see your boarding card, please? 
+enjoy your flight!
 are you flying business or economy class?
 can you call a flight attendant?
 just press this button to attract their attention |əˈtenʃn|
@@ -55,6 +56,8 @@ it's quite noisy on board
 when will dinner be served?
 would you like fish, meat or vegetarian meal?
 there is some turbulence
+May I offer you a beverage?
+can I have a pair of headphones, please?
 
 czy mógłbym prosić ...? - could I have ...?
 rozłożyć - put up
