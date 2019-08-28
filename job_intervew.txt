@@ -132,6 +132,7 @@ how long have you been developing?
 have I got a job?
 how much time does it take?
 
+pracodawca, zleceniodawca - employer  |ɪmˈplɔɪər|
 zatrudnić - hire  |ˈhaɪər|
 obywatelstwo - citizenship  |ˈsɪtɪzənʃɪp|
 doświadczenie - experience  |ɪkˈspɪriəns|
@@ -156,4 +157,4 @@ After that I studied in university
 tell me about experience there (tam)
 It was good expereance. Well, I used to use C++, git and Qt
 What's more I've been using Ubuntu terminal, bash scripting and python basics
-I created new projects and added new functions and classes to old projects
+I created new projects and added new functionality to old projects
