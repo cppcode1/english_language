@@ -1,10 +1,13 @@
+general
+why did you make a copy?
+use a pointer to prevent to make a copy
+
 1) a class is polimorphic when it has one or more virtual method
 2) you cannot create an object of an abstract class
 3) an abstract class means you have some pure virtual method
 4) your destructor of base class must have a body to remove of an object fully
 5) you must have a virtual destructor if you remove an obeject by using
- a pointer to base class. a pointer to base class does not know about
-  destructor of child-part. 
+ a pointer to base class. a pointer to base class does not know about destructor of child-part. 
 
 java
 an interface im java may contain methods and fields
