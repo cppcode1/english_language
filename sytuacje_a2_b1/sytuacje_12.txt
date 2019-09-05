@@ -1,6 +1,7 @@
 //////////////////////////////////////////
-11 * on the plain
+12 * at the hotel
 //////////////////////////////////////////
+please print it, fill out, sign and send back to us – by mail
 hello. I have a reservation in the name of Sasha
 would you like a single or double room?
 there are two of us
@@ -16,8 +17,11 @@ how much is a single room?
 is breakfast included?
 is there all-inclusive option?
 you need to fill in the form
+is there an all-included option?
+what time is breakfast served? |ˈsɝːvd|
 
-
+obsługiwać - serve  |sɜːrv|
+wypełnić - fill in/out ???
 na imię - in the name of
 rezerwacja - reservation  |ˌrezərˈveɪʃn|
 wolne pokoje - vacancies  |ˈveɪkənsiz|
