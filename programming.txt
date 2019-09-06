@@ -1,6 +1,7 @@
 general
 why did you make a copy?
 use a pointer to prevent to make a copy
+this command can give and take away permissions |pərˈmɪʃnz|
 
 1) a class is polimorphic when it has one or more virtual method
 2) you cannot create an object of an abstract class
@@ -13,3 +14,6 @@ java
 an interface im java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
+
+wywołać, uruchamiać - trigger  |ˈtrɪɡər|
+zabrać - take away

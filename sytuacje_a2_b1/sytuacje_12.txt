@@ -5,8 +5,8 @@ please print it, fill out, sign and send back to us – by mail
 hello. I have a reservation in the name of Sasha
 would you like a single or double room?
 there are two of us
-we would like a twin room? (osobne łóżka)
-let me check if we have any vacancies |ˈveɪkənsi|
+we would like a twin room (osobne łóżka)
+let me check if we have any vacancies |ˈveɪkənsiz|
 I'm sorry. We are fully booked
 the only room I have available now is a double room with a king-size bed
 I need to make a copy of your ID
@@ -14,12 +14,18 @@ I have my passport. is that ok?
 would you like a room with a balcony?
 we would like a room with a view of the sea
 how much is a single room?
-is breakfast included?
+is breakfast included? (wliczony)
 is there all-inclusive option?
 you need to fill in the form
 is there an all-included option?
-what time is breakfast served? |ˈsɝːvd|
+what time is breakfast served? |ˈsɝːvd| (o której podaje się śniadanie?)
+is there a swimming pool at the hotel?
+I've put you in room number 20 (rozmieścić)
+here is your key
+the lift is over there (tam), on the corner
 
+basen - pool  |puːl|
+jednoosobowy - single  |ˈsɪŋɡl|
 obsługiwać - serve  |sɜːrv|
 wypełnić - fill in/out ???
 na imię - in the name of
