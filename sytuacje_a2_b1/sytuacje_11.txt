@@ -7,7 +7,7 @@ enjoy your flight!
 are you flying business or economy class?
 can you call a flight attendant?
 just press this button to attract (przyciągnąć) their attention |əˈtenʃn|
-in case of emergency, an oxygen mask will drop from panel above your head
+in case of emergency, an oxygen mask will drop from the panel above your head
 the passenger grabbed for (chwycił) the oxygen mask
 you can find the life jacket under your seat
 please put your hand luggage in the overhead locker or under the seat
@@ -33,9 +33,9 @@ the chance to travel around the world attracted me to a career as a flight atten
 I am non-veg (vegetarian)
 can I have a blanket, please?
 The blanket will warm you
-cover the child with a blanket.
-the whole garden was blanketed in leaves.
-can I have a headphones, please?
+cover the child with a blanket
+the whole garden was blanketed in leaves
+can I have headphones, please?
 do you happen to have any earplugs? (czy nie masz przypadkiem)
 I happen to have just what you need
 would it be possible for me to sit by the window?
@@ -47,7 +47,7 @@ as soon as we take off, we will start serving food and beverages
 is this seat free?
 we would like to sit together
 would you mind to swapping seats?
-she usually drinks non-alcoholic beverage |ˈbevərɪdʒ|
+she usually drinks non-alcoholic beverages |ˈbevərɪdʒ|
 would you like something to drink?
 can I have some still water, please? (woda niegazowana)
 would you like a newspaper to read?
@@ -155,7 +155,7 @@ which bus is going to the centre? |ˈsentər|
 when does her plane arrive? (nadlatuje)
 explane the purpose of your visit
 he desired |dɪˈzɑɪərd| to return to Mexico (miał ochotę)
-where is an long-term car park?
+where is a long-term car park?
 
 określenie / termin - term
 w zakresie - in terms of
@@ -193,21 +193,21 @@ kawa - coffee  |ˈkɔːfi|
 //////////////////////////////////////////
 test yourself 1
 //////////////////////////////////////////
-turn right at a traffic circle (rondo)
+turn right at a traffic circle / roundabout (rondo)
 I am waiting for you on the platform (peron)
-I look like going to a coffee  ...+ing?
+I feel like going for a coffee  ...+ing?
 if you have any problems, call the flight assistant (steward)
 there is a bus stop in front of my house
-I parked my car on the sidewalk (chodnik)
+I parked my car on the sidewalk / pawement (chodnik)
 the school is across from the bank (naprzeciwko)
 where can I find the timetable? (rozkład jazdy)
 do you want to buy a single or return ticket?
 my ticket is not valid. I need to buy a new one (ważny)
-is there a taxi rank near hire? (postój taksówek)
+is there a taxi rank near here? (postój taksówek)
 we have two changes |ˈtʃeɪndʒəz|
 do you happen to have some excess weight? |weɪt|
 I need to weigh my suitcase |weɪ|
-which the gate we should go to?
+which gate should we go to?
 would you prefer a window or aisle seat? (miejsce od strony przejścia)
 wolałbyś...? - would you prefer?
 the plane is going to take off in 10 minutes (startować)
@@ -216,13 +216,13 @@ do you feel like going out tonight?
 can you believe it? we've missed our train!
 is there a car park near your office where we could leave our car?
 may I go to the toilet?
-slow down. you are driving to fast
+slow down. you are driving too fast
 how far is it on foot?
 what are you up to tonight?
 where can I pick up my luggage?
 the train leaves in 10 minutes. let's hurry
 the fastest way to get there is to take tube
-I can'ny hear anything. I am on the train
+I can't hear anything. I am on the train
 I think I left (zostawiłem) my wallet in the car
 
 
@@ -232,8 +232,7 @@ luggage rack
 traffic lights
 parking meter
 last call
-autobus piętrowy - decker  |ˈdekər|
-double decker
+autobus piętrowy - double decker |ˈdekər|
 departures board
 boarding pass
 określona strefa - designated area
