@@ -87,6 +87,8 @@ półka - shelf
 can I help you?
 can I have a kilo of tomatoes, please?
 anything else?
+that is all. thank you
+that will be five pounds altogether
 
 kilogram - kilo
 pomidory - tomatoes  |təˈmɑːtoʊz|
