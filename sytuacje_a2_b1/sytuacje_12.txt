@@ -85,3 +85,8 @@ półka - shelf
 14 * at a supermarket
 //////////////////////////////////////////
 can I help you?
+can I have a kilo of tomatoes, please?
+anything else?
+
+kilogram - kilo
+pomidory - tomatoes  |təˈmɑːtoʊz|
