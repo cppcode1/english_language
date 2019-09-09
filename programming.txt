@@ -17,3 +17,6 @@ you cannot create an instance of general-type with help of "new" operator
 
 wywołać, uruchamiać - trigger  |ˈtrɪɡər|
 zabrać - take away
+slajd - slide  |slaɪd|
+wyłączać, wykluczyć - exclude  |ɪkˈskluːd|
+
