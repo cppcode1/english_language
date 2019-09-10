@@ -24,13 +24,13 @@ I've put you in room number 20 (rozmieścić)
 here is your key
 the lift is over there (tam), on the right
 the porter can take your luggage to your room, if you wish
-supper is served
-at what times can I use the gym? (w jakich gidzinach)
-pardon, is there a free internet connection here?
+supper is served (podana)
+at what times can I use the gym? (w jakich godzinach)
+pardon |ˈpɑːrdn|, is there a free internet connection here?
 yes, there is. here is the password
 pardon me (proszę mnie wybaczyć)
 is there a bus to the city centre from here?
-could you order a taxi for, me for tomorrow, please?
+could you order a taxi for me, for tomorrow, please?
 we change the towels every day
 we change the bed linen once every three days
 is there an elevator / lift?
@@ -152,6 +152,7 @@ self service - samoobsługa
 cash only - tylko gotówka 
 card only
 sale  |seɪl| - wyprzedaż
+thirteen  |ˌθɜːrˈtiːn| - trzynaście
 
 
 
