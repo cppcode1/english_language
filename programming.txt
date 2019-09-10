@@ -15,8 +15,10 @@ an interface im java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
 
-wywołać, uruchamiać - trigger  |ˈtrɪɡər|
+wywołać coś - trigger  |ˈtrɪɡər|
 zabrać - take away
 slajd - slide  |slaɪd|
 wyłączać, wykluczyć - exclude  |ɪkˈskluːd|
+odłączać - disconnect  |ˌdɪskəˈnekt|
+
 
