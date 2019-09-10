@@ -130,6 +130,8 @@ kilo - kilogram
 cucumber  |ˈkjuːkʌmbər| - ogórek 
 tomatoes  |təˈmɑːtoʊz| - pomidory 
 scales  |ˈskeɪlz| - waga 
+weigh  |weɪ| - ważyć
+weight  |weɪt| - waga (ciała)
 packaging  |ˈpækɪdʒɪŋ| - opakowanie 
 shop assistant  |əˈsɪstənt| - sprzedawca 
 cashier  |kæˈʃɪr| - kasjer 
