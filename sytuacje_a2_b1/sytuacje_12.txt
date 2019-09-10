@@ -107,7 +107,12 @@ what time do you close?
 what time does the shop close?
 shall we take the basket or trolley? (weźmiemy?)
 where can I check the price?
+the scanner is over there (tam)
+the meat section is at the end of the store on the right
 
+at the end - na końcu
+on the right - po prawej stronie
+meat  |miːt| - mięso
 price tag
 notification  |ˌnoʊtɪfɪˈkeɪʃn| - powiadomienie
 freezer  |ˈfriːzər| - zamrażarka 
