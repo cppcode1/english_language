@@ -113,7 +113,33 @@ where are the shop assistants? (expedienci)
 excuse me, do you have any newspapers?
 do you collect coupons?
 check out our offers: buy one, get one free (sprawdź)
+is this on sale? (czy to jest w promocji?)
+yes, you can get 20% off
+excuse me, where is the checkout / the till?
+excuse me, this checkout is closed
+that one is cash only
+the express checkout is open
+can you please put everything on the conveyor belt?
+can I have a receipt?
+your receipt is in the bag
+can I pay by card?
+can I see your ID?
+sorry, the card has been declined
+do you have another one?
+we accept the following credit and debit cards ...
+please tap in your PIN number and press green button
+I made a mistake. how can I go back?
+press the red button
+excuse me, there is a mistake on the bill
+I've been charged twice for this product
+can I get some cash back?
+how much would you like?
+sign here, please
 
+bill  |bɪl| - rachunek
+declined |dɪˈklaɪnd| - odżucona
+decline  |dɪˈklaɪn| - odmawiać
+closed  |kloʊzd| - zamknięty
 I'll have smth - poproszę czegoś
 customer  |ˈkʌstəmər| - klient
 customer service - obsługa klienta
@@ -160,6 +186,10 @@ thirteen  |ˌθɜːrˈtiːn| - trzynaście
 drop  |drɑːp| - spadać
 policy  |ˈpɑːləsi| - polityka
 conveyor belt |kənˈveɪər| - taśma
+dictionary  |ˈdɪkʃəneri| - słownik
+on sale - w promocji
+discounts  |dɪsˈkaʊnts| - rabaty
+percent  |pərˈsent| - procent
 
 
 
