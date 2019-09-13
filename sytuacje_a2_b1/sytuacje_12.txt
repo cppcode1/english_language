@@ -141,6 +141,8 @@ fruit grows on trees
 she cut the fruit into large chunks
 there was a large garden with fruit trees
 
+vocabulary  |vəˈkæbjəleri| - słownictwo
+good  |ɡʊd| - towar
 goods  |ˈɡʊdz| - towary, wyroby
 poultry  |ˈpoʊltri| - drób
 fish  |fɪʃ| - ryby
@@ -148,7 +150,6 @@ the fish  |fɪʃ| - ryba
 beverages  |ˈbevrɪdʒəz| - napoje
 dairy products |ˈderi| - nabiał
 frozen products - produkty zamrożone
-good  |ɡʊd| - towar
 bread  |bred| - chleb, pieczywo
 baked goods - pieczywo
 the fruit  |fruːt| - owoc   
