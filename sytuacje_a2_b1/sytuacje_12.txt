@@ -255,7 +255,7 @@ in that case, I'll have a steak and some minced meat, please
 it all comes to 13 pounds. here's your change
 is this bread fresh? is it gluten-free?
 
-mince  |mɪns| - rozdrobnić, zemleć ([zw.] mięso)
+mince  |mɪns| - rozdrobnić (mięso)
 steak  |steɪk| - befsztyk
 minced  |ˈmɪnst| - mielone
 thinly  |ˈθɪnli| - cienko
@@ -276,6 +276,7 @@ chicken thigh - udko z kurczaka
 chicken wing - skrzydełko z kurczaka
 loaf  |loʊf| - bochenek
 slice  |slaɪs| - kromka, plasterek
+dice  |daɪs| - kostka
 bun  |bʌn| - słodka bułeczka
 recommend  |ˌrekəˈmend| - rekomendować, zalecać
 lamb  |læm| - baranina
