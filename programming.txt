@@ -11,7 +11,7 @@ this command can give and take away permissions |pərˈmɪʃnz|
  a pointer to base class. a pointer to base class does not know about destructor of child-part. 
 
 java
-an interface im java may contain methods and fields
+an interface in java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
 
@@ -22,6 +22,7 @@ slajd - slide  |slaɪd|
 wyłączać, wykluczyć - exclude  |ɪkˈskluːd|
 odłączać - disconnect  |ˌdɪskəˈnekt|
 kolumna - column  |ˈkɑːləm|
+remote  |rɪˈmoʊt| - zdalny
 
 
 
