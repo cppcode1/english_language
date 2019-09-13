@@ -213,16 +213,21 @@ on sale - w promocji
 discounts  |dɪsˈkaʊnts| - rabaty
 percent  |pərˈsent| - procent
 seafood  |ˈsiːfuːd| - owoce morza (kraby, małże itp.)
+tin, can - puszka
+jar  |dʒɑːr| - słoik
+tinned  |tɪnd| - w puszce, konserwowany
+canned  |kænd| - w puszce
 tinned goods - produkty w puszkach
 canned goods
 packaged goods - pakowane produkty
 toiletries  |ˈtɔɪlətriz| - przybory toaletowe
 packaged  |ˈpækɪdʒd| - opakowane
-baking products
+baking products - wypieki
 condiments  |ˈkɑːndəmənts| - przyprawy
 snacks  |ˈsnæks| - przekąski
 baby products
 pet food
+grocer  |ˈɡroʊsər| - sprzedawca w sklepie spożywczym
 groceries  - artykuły spożywcze
 rice  |raɪs| - ryż
 pasta and rice
@@ -250,7 +255,7 @@ in that case, I'll have a steak and some minced meat, please
 it all comes to 13 pounds. here's your change
 is this bread fresh? is it gluten-free?
 
-
+mince  |mɪns| - rozdrobnić, zemleć ([zw.] mięso)
 steak  |steɪk| - befsztyk
 minced  |ˈmɪnst| - mielone
 thinly  |ˈθɪnli| - cienko
