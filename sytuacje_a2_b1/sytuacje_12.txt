@@ -313,6 +313,7 @@ take - akceptować
 lingerie  |ˌlɑːndʒəˈreɪ| - bielizna
 wear  |wer| - nosić
 return / take back - zwrócić
+give back - oddać z powrotem
 leave  |liːv| - zostawić
 amount  |əˈmaʊnt| - ilość
 strap  |stræp| - pasek, rzemień, ramiączko
@@ -340,7 +341,7 @@ changing room |ˈtʃeɪndʒɪŋ| - przymierzalnia
 men's wear - dział męski
 woman  |ˈwʊmən| - kobieta
 women  |ˈwimin| - kobiety
-
+real  |ˈriːəl| - prawdziwy
 
 wzory (patterns):
 striped - w paski
