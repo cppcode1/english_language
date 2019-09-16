@@ -1,12 +1,13 @@
 //////////////////////////////////////////
 13 * at the reception, at the hotel
 //////////////////////////////////////////
+1000 times in a row (pod rząd)
 please print it, fill out, sign and send back to us – by mail
 hello. I have a reservation in the name of Sasha
 would you like a single or double room?
 there are two of us
 we would like a twin room (osobne łóżka)
-let me check if we have any vacancies |ˈveɪkənsiz|
+let me check if we have any vacancies |ˈveɪkənsiz| (wolne miejsca)
 I'm sorry. We are fully booked
 the only room I have available now is a double room with a king-size bed
 I need to make a copy of your ID
@@ -255,6 +256,7 @@ I'm sorry, but we've run out of chicken thighs |ˈθaɪz|
 in that case, I'll have a steak and some minced meat, please
 it all comes to 13 pounds. here's your change
 is this bread fresh? is it gluten-free?
+was there bread at all?
 
 mince  |mɪns| - rozdrobnić (mięso)
 steak  |steɪk| - befsztyk
@@ -309,6 +311,7 @@ I'm looking for a blue, striped suit (garnitur)
 what about this one?
 what size is it?
 
+soon  |suːn| - wkrótce
 happier  |ˈhæpir̩| - szczęsliwszy
 take - akceptować
 lingerie  |ˌlɑːndʒəˈreɪ| - bielizna
@@ -328,6 +331,7 @@ made of - zrobiony z
 take  |teɪk| - wziąć, brać
 comfortable  |ˈkʌmftəbl| - wygodny
 these  |ðiːz| - te / ci
+high  |haɪ| - wysoki
 quality  |ˈkwɑːləti| - jakość
 dark  |dɑːrk| - ciemny
 handbag  |ˈhændbæɡ| - torebka
