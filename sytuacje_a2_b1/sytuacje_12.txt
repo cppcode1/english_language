@@ -10,6 +10,7 @@ we would like a twin room (osobne łóżka)
 let me check if we have any vacancies |ˈveɪkənsiz| (wolne miejsca)
 I'm sorry. We are fully booked
 the only room I have available now is a double room with a king-size bed
+I'll take it
 I need to make a copy of your ID
 I have my passport. is that ok?
 would you like a room with a balcony?
@@ -36,9 +37,9 @@ we change the towels every day
 we change the bed linen once every three days (co 3 dni)
 is there an elevator / lift?
 I'd like to get extra towels set
-b%b - bed and breakfast
+b&b - bed and breakfast
 what board (wyżywienie) options do you have here?
-can I have breakfast in y room?
+can I have breakfast in my room?
 is there any extra charge for that (za tamto) ?
 can I take the key with me?
 should I leave the key at the reception?
@@ -51,15 +52,18 @@ what floor should we go to? (na które piętro)
 can you fill in this form?
 can you sign this form?
 can I have the bill, please?
-at what time should we check out?
+at what time should we check out? (wymeldować się)
 at 12 o'clock?
 can you change our bed linen?
 we would like to get new towels too
 the hairdryer is broken. can you fix it?
-do you have an iron here?
-can I have an iron?
-can I borrow it? (pożyczyć)
+do you have an iron here? |ˈaɪərn|
+can I have an iron? |ˈaɪərn|
+can I borrow it? |ˈbɑːroʊ| (pożyczyć)
 
+iron  |ˈaɪərn| - żelazko
+porter  |ˈpɔːrtər| - bagażowy
+inclusive  |ɪnˈkluːsɪv| - zawierający, obejmujący
 pożyczać - borrow  |ˈbɑːroʊ|
 naprawić - fix
 opłata - charge |tʃɑːrdʒ| / fee |fiː| / fare |fer|
