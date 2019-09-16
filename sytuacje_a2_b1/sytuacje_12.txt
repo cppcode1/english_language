@@ -293,9 +293,19 @@ no, thank you. I am just looking (po prostu patrzę)
 yes, I am looking for a dark handbag
 I would like to buy some dark shoes
 these ones are good quality, and they're comfortable too
-what are they made of?
-do you like the make of my car? 
+what are they made of? (zrobione z)
+do you like the make of (marka) my car? 
+we're checking the make of the knife
+are they made of leather?
+they seem/feel a bit too tight
+may I try on a bigger size?
+I am looking for a floral dress. do you have any?
 
+dress  - sukienka
+try on - przymierzyć
+tight  |taɪt| - ciasny
+leather  |ˈleðər| - skóra
+cotton  |ˈkɑːtn| - bawełna
 made of - zrobiony z
 take  |teɪk| - wziąć, brać
 comfortable  |ˈkʌmftəbl| - wygodny
@@ -309,6 +319,10 @@ shoe  |ʃuː| - but
 shoes  |ˈʃuːz| - buty
 shoe shop - sklep obuwniczy
 clothes  |kloʊðz| - odzież
+
+plain - bez wzorów
+floral - w kwiaty 
+chekced, check - w kratkę
 
 
 
