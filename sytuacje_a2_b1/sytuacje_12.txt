@@ -303,16 +303,24 @@ I am looking for a floral dress. do you have any?
 what about this one? do you like it?
 do you have something similar but strapless? (bez ramiączek)
 what size do you take? (jaki pan ma rozmiar?)
-what size are you?
 I take size 8 or 10
-I'm looking for a blue, striped suit
+what size are you?
+I'm looking for a blue, striped suit (garnitur)
+what about this one?
+what size is it?
 
+take - akceptować
+lingerie  |ˌlɑːndʒəˈreɪ| - bielizna
+wear  |wer| - nosić
+return / take back - zwrócić
+leave  |liːv| - zostawić
 amount  |əˈmaʊnt| - ilość
 strap  |stræp| - pasek, rzemień, ramiączko
 dress  - sukienka
 try on - przymierzyć
 tight  |taɪt| - ciasny
 leather  |ˈleðər| - skóra
+wool  |wʊl| - wełna
 cotton  |ˈkɑːtn| - bawełna
 made of - zrobiony z
 take  |teɪk| - wziąć, brać
@@ -327,12 +335,17 @@ shoe  |ʃuː| - but
 shoes  |ˈʃuːz| - buty
 shoe shop - sklep obuwniczy
 clothes  |kloʊðz| - odzież
+fitting  |ˈfɪtɪŋ| - przymierzalnia
+changing room |ˈtʃeɪndʒɪŋ| - przymierzalnia
+men's wear - dział męski
+women  |ˈwimin|
+
 
 wzory (patterns):
 striped - w paski
 plain - bez wzorów
 floral - w kwiaty 
-chekced, check - w kratkę
+checked, check - w kratkę
 
 
 
