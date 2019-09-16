@@ -294,10 +294,10 @@ yes, I am looking for a dark handbag
 I would like to buy some dark shoes
 these ones are good quality, and they're comfortable too
 what are they made of? (zrobione z)
+are they made of leather?
 do you like the make of (marka) my car? 
 we're checking the make of the knife
-are they made of leather?
-they seem/feel a bit too tight
+they seem/feel a bit too tight |taɪt| (ciasne)
 may I try on a bigger size?
 I am looking for a floral dress. do you have any?
 what about this one? do you like it?
@@ -309,6 +309,7 @@ I'm looking for a blue, striped suit (garnitur)
 what about this one?
 what size is it?
 
+happier  |ˈhæpir̩| - szczęsliwszy
 take - akceptować
 lingerie  |ˌlɑːndʒəˈreɪ| - bielizna
 wear  |wer| - nosić
@@ -336,6 +337,7 @@ shoe  |ʃuː| - but
 shoes  |ˈʃuːz| - buty
 shoe shop - sklep obuwniczy
 clothes  |kloʊðz| - odzież
+fit  |fɪt| - pasować
 fitting  |ˈfɪtɪŋ| - przymierzalnia
 changing room |ˈtʃeɪndʒɪŋ| - przymierzalnia
 men's wear - dział męski
