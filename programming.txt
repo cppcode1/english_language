@@ -18,10 +18,11 @@ you cannot create an instance of general-type with help of "new" operator
 odciąć - cut off
 wywołać coś - trigger  |ˈtrɪɡər|
 zabrać - take away
-slajd - slide  |slaɪd|
+slajd, osuwanie się - slide  |slaɪd|
 wyłączać, wykluczyć - exclude  |ɪkˈskluːd|
 odłączać - disconnect  |ˌdɪskəˈnekt|
 kolumna - column  |ˈkɑːləm|
+columns  |ˈkɑːləmz| - kolumny
 remote  |rɪˈmoʊt| - zdalny
 
 

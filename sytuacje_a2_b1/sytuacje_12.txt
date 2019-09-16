@@ -68,7 +68,7 @@ przepraszam - pardon
 basen - pool  |puːl|
 jednoosobowy - single  |ˈsɪŋɡl|
 obsługiwać - serve  |sɜːrv|
-wypełnić - fill in/out ???
+wypełnić - fill in/out
 na imię - in the name of
 rezerwacja - reservation  |ˌrezərˈveɪʃn|
 wolne pokoje - vacancies  |ˈveɪkənsiz|
@@ -283,7 +283,32 @@ recommend  |ˌrekəˈmend| - rekomendować, zalecać
 lamb  |læm| - baranina
 run out - skończyć się
 
+//////////////////////////////////////////
+16 * at a clothes shop / shoe shop
+//////////////////////////////////////////
+are you being served? (ktoś pana obsługuje?)
+can I help you?
+how can I help you?
+no, thank you. I am just looking (po prostu patrzę)
+yes, I am looking for a dark handbag
+I would like to buy some dark shoes
+these ones are good quality, and they're comfortable too
+what are they made of?
+do you like the make of my car? 
 
+made of - zrobiony z
+take  |teɪk| - wziąć, brać
+comfortable  |ˈkʌmftəbl| - wygodny
+these  |ðiːz| - te / ci
+quality  |ˈkwɑːləti| - jakość
+dark  |dɑːrk| - ciemny
+handbag  |ˈhændbæɡ| - torebka
+just - po prostu
+am, is, are, was, were, being, been
+shoe  |ʃuː| - but
+shoes  |ˈʃuːz| - buty
+shoe shop - sklep obuwniczy
+clothes  |kloʊðz| - odzież
 
 
 
