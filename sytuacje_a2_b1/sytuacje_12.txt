@@ -292,10 +292,10 @@ run out - skończyć się
 //////////////////////////////////////////
 16 * at a clothes shop / shoe shop
 //////////////////////////////////////////
-are you being served? (ktoś pana obsługuje?)
+are you being served? |ˈbiːɪŋ| (ktoś pana obsługuje?)
 can I help you?
 how can I help you?
-no, thank you. I am just looking (po prostu patrzę)
+no, thank you. I'm just looking (po prostu patrzę)
 yes, I am looking for a dark handbag
 I would like to buy some dark shoes
 these ones are good quality, and they're comfortable too
