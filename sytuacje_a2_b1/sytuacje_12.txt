@@ -300,7 +300,15 @@ are they made of leather?
 they seem/feel a bit too tight
 may I try on a bigger size?
 I am looking for a floral dress. do you have any?
+what about this one? do you like it?
+do you have something similar but strapless? (bez ramiączek)
+what size do you take? (jaki pan ma rozmiar?)
+what size are you?
+I take size 8 or 10
+I'm looking for a blue, striped suit
 
+amount  |əˈmaʊnt| - ilość
+strap  |stræp| - pasek, rzemień, ramiączko
 dress  - sukienka
 try on - przymierzyć
 tight  |taɪt| - ciasny
@@ -320,6 +328,8 @@ shoes  |ˈʃuːz| - buty
 shoe shop - sklep obuwniczy
 clothes  |kloʊðz| - odzież
 
+wzory (patterns):
+striped - w paski
 plain - bez wzorów
 floral - w kwiaty 
 chekced, check - w kratkę
