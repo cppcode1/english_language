@@ -354,6 +354,7 @@ loot  |luːt| - łup, rzeczy zagrabione
 soon  |suːn| - wkrótce
 happier  |ˈhæpir̩| - szczęśliwszy
 take - akceptować
+t-shirt  |ˈtiːʃərt| - koszulka
 lingerie  |ˌlɑːndʒəˈreɪ| - bielizna
 wear  |wer| - nosić
 return / take back - zwrócić
@@ -369,6 +370,8 @@ wool  |wʊl| - wełna
 cotton  |ˈkɑːtn| - bawełna
 made of - zrobiony z
 take  |teɪk| - wziąć, brać
+put on
+take off
 comfortable  |ˈkʌmftəbl| - wygodny
 these  |ðiːz| - te / ci
 high  |haɪ| - wysoki
@@ -388,6 +391,7 @@ men's wear - dział męski
 woman  |ˈwʊmən| - kobieta
 women  |ˈwimin| - kobiety
 real  |ˈriːəl| - prawdziwy
+coat  |koʊt| - płaszcz
 
 wzory (patterns):
 striped - w paski

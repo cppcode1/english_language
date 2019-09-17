@@ -20,6 +20,7 @@ an interface in java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
 
+refer  |rɪˈfɜːr| - odnosić się
 browse  |braʊz| - [inf.] przeglądać
 apart of |əˈpɑːrt| - oprócz
 odciąć - cut off
