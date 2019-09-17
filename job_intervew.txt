@@ -4,7 +4,7 @@ the job interview
 we will now verify your CV in terms of the conducted recruitment processes
 if we find an offer for you, we will get in touch within 5 days
 Possibility to work on a system for managing dairy farm that is used globally and well appreciated
-A different and fun area of the software development - 
+A different and fun area of the software development
 Possibility to learn good coding practices from experienced colleagues
 Friendly work atmosphere in experienced team
 Daily cooperation with our colleagues in Sweden
@@ -91,7 +91,7 @@ she is rents a room
 she needs to pay for the room
 there are two sofa in her room
 there is a small table near the window
-there is a two cheirs next to the table
+there is a two chairs next to the table
 there is her wallet on the table
 she has three flatmates
 her room is expensive, so to speak (tak rzec)
@@ -132,6 +132,7 @@ how long have you been developing?
 have I got a job?
 how much time does it take?
 
+conduct  |kənˈdʌkt| - prowadzić
 pracodawca, zleceniodawca - employer  |ɪmˈplɔɪər|
 zatrudnić - hire  |ˈhaɪər|
 obywatelstwo - citizenship  |ˈsɪtɪzənʃɪp|
@@ -149,7 +150,9 @@ developing |dɪˈveləpɪŋ|
 manage |ˈmænɪdʒ|
 możliwość, okazja - opportunity  |ˌɑːpərˈtuːnəti|
 pracownicy - staff  |stæf|
-
+possibility  |ˌpɑːsəˈbɪləti| - możliwość
+term  |tɜːrm| - okres
+in terms of - w zakresie
 
 I am twenty eight years old
 I worked fill-time before now
