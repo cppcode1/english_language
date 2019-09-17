@@ -16,7 +16,7 @@ I have my passport. is that ok?
 would you like a room with a balcony?
 we would like a room with a view of the sea
 how much is a single room?
-which room you have?
+which (który) room do you have?
 is breakfast included? (wliczony)
 is there all-inclusive option?
 you need to fill in the form
@@ -100,10 +100,10 @@ is this ham fresh?
 I'll have 10 slices, please
 do you have any change? |tʃeɪndʒ| (drobne)
 cooking is not my department
-he served as head of the department for three years
-the department of modern languages
+he served as a head of the department for three years
+the department of modern languages (wydział)
 I'll pass the information on to our sales department (przekazać - pass on)
-our department has a staff of seven (zespół z)
+our department has staff of seven (zespół z)
 do you need a plastic bag?
 do you need any help packing? |ˈpækɪŋ|
 what are the opening hours? |ˈaʊərz|
@@ -120,7 +120,7 @@ where are the shop assistants? (expedienci)
 excuse me, do you have any newspapers?
 do you collect coupons?
 check out our offers: buy one, get one free (sprawdź)
-is this on sale? (czy to jest w promocji?)
+is this on sale / in the sale? (czy to jest w promocji?)
 yes, you can get 20% off
 excuse me, where is the checkout / the till?
 excuse me, this checkout is closed
@@ -247,7 +247,7 @@ confectionery  |kənˈfekʃəneri| - wyroby cukiernicze
 electrical goods
 
 //////////////////////////////////////////
-15 * at the reception, at the hotel
+15 * ????
 //////////////////////////////////////////
 keep the change
 what can I get you? (co podać?)
@@ -324,7 +324,7 @@ it's the wrong size. it's too big
 do you have any smaller size? |ˈsmɒlər|
 do you have that in size 12?
 could you bring me a bigger size?
-this ine doesn't fit me
+this one doesn't fit me
 do you have it in red?
 do you have lighter colour? |ˈkʌlər|
 it doesn't match |mætʃ| my bag 
