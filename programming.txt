@@ -1,9 +1,13 @@
 general
+the browser to browser web pages
 why did you make a copy?
 use a pointer to prevent to make a copy
 this command can give and take away permissions |pərˈmɪʃnz|
 it will show you which groups you are a member
+by default, Ubuntu does not allow access through the web browser
+you should replace this file before continuing to operate your HTTP server
 
+cpp
 1) a class is polimorphic when it has one or more virtual method
 2) you cannot create an object of an abstract class
 3) an abstract class means you have some pure virtual method
@@ -16,6 +20,8 @@ an interface in java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
 
+browse  |braʊz| - [inf.] przeglądać
+apart of |əˈpɑːrt| - oprócz
 odciąć - cut off
 wywołać coś - trigger  |ˈtrɪɡər|
 zabrać - take away
@@ -28,6 +34,14 @@ remote  |rɪˈmoʊt| - zdalny
 I received  |rəˈsiːvd| - dostałem
 suspend  |səˈspend| - zawieszać
 bottom  |ˈbɑːtəm| - dno, spód
+continue  |kənˈtɪnjuː| - kontynuować
+continuing  |kənˈtɪnjuːɪŋ| - kontynuacja
+maintenance  |ˈmeɪntənəns| - utrzymanie, konserwacja
+persist  |pərˈsɪst| - upierać się przy czymś, obstawać, nie ustawać
+remain  |rɪˈmeɪn| - pozostawać
+customize  |ˈkʌstəmaɪz| - dostosowywać do potrzeb
+
+
 
 
 
