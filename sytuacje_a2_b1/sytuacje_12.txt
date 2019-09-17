@@ -393,6 +393,13 @@ women  |ˈwimin| - kobiety
 real  |ˈriːəl| - prawdziwy
 coat  |koʊt| - płaszcz
 
+sizes
+s - small
+xs - extra small
+m - medium
+l - large
+xl - extra large
+
 wzory (patterns):
 striped - w paski
 plain - bez wzorów
