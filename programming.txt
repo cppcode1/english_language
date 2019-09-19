@@ -51,6 +51,11 @@ person/people
 dependence  |dɪˈpendəns| - zależność
 dependencies  |dəˈpendənsiz| - zależności
 restrict  |rɪˈstrɪkt| - ograniczać
+wide  |waɪd| - szeroki
+split  |splɪt| - podzielić
+squeeze  |skwiːz| - scisnąć
+omit  |əˈmɪt| - pomijać
+schedule  |ˈskedʒuːl| - planować, harmonogram
 
 
 
