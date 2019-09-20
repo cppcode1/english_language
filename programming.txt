@@ -1,11 +1,14 @@
 general
-the browser to browser web pages
+the browser is used to browser web pages
 why did you make a copy?
 use a pointer to prevent to make a copy
 this command can give and take away permissions |pərˈmɪʃnz|
 it will show you which groups you are a member
 by default, Ubuntu does not allow access through the web browser
 you should replace this file before continuing to operate your HTTP server
+please, hit the button
+that command is used to read data from a transparent file
+in this case, omit (ominąć) step 2 
 
 cpp
 1) a class is polimorphic when it has one or more virtual method
@@ -20,6 +23,11 @@ an interface in java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
 
+transparent  |trænsˈpærənt| - przejrzysty
+to be used - służyć
+is used - służy do
+hit  |hɪt| - nacisnąć
+digit  |ˈdɪdʒɪt| - cyfra
 backward  |ˈbækwərd| - wsteczny
 refer  |rɪˈfɜːr| - odnosić się
 browse  |braʊz| - [inf.] przeglądać
@@ -45,9 +53,9 @@ customize  |ˈkʌstəmaɪz| - dostosowywać do potrzeb
 zwisać, wisieć - dangle  |ˈdæŋɡl|
 nieokreślony - unspecified  |ˌʌnˈspesɪfaɪd|
 przegląd - lookup
-naprzód - go ahead
-niezwłocznie - instantly  |ˈɪnstəntli|
-person/people
+go ahead - naprzód
+instantly  |ˈɪnstəntli| - niezwłocznie
+person and people
 dependence  |dɪˈpendəns| - zależność
 dependencies  |dəˈpendənsiz| - zależności
 restrict  |rɪˈstrɪkt| - ograniczać
