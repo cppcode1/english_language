@@ -9,6 +9,7 @@ you should replace this file before continuing to operate your HTTP server
 please, hit the button
 that command is used to read data from a transparent file
 in this case, omit (ominąć) step 2 
+implement a template function that takes parameters
 
 cpp
 1) a class is polimorphic when it has one or more virtual method
@@ -23,6 +24,7 @@ an interface in java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
 
+parameter  |pəˈræmɪtər| - parametr
 transparent  |trænsˈpærənt| - przejrzysty
 to be used - służyć
 is used - służy do
@@ -65,7 +67,10 @@ squeeze  |skwiːz| - scisnąć
 omit  |əˈmɪt| - pomijać
 schedule  |ˈskedʒuːl| - planować, harmonogram
 junior  |ˈdʒuːniər| - młodszy
+senior  |ˈsiːniər| - starszy
 sort by  - sortować po
+middle  |ˈmɪdl| - środek
+
 
 
 
