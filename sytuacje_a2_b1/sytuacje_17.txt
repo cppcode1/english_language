@@ -15,10 +15,10 @@ do you have our loyalty card?
 do you accept credit cards?
 what's (jaka jest) return policy?
 you have 30 days to return the product
-can you return it at any of your shops?
+can I return it at any of your shops?
 yes, you have the right to return it at any shop within 30 days
 your receipt is in the bag
-would you like to buy a gidf voucher?
+would you like to buy a gift voucher?
 I'd like to return the bag
 can I see the receipt, please?
 do you have the card that you paid with?
@@ -30,6 +30,8 @@ my ear is bleeding after I listen this song
 electricity is used to execute criminals
 of course I'll provide full refund of your fees
 
+I'm [aim]
+execute  |ˈeksɪkjuːt| - uruchamiać
 hair  |her| - włosy
 brush  |brʌʃ| - szczotkować
 hairstyle  |ˈherstaɪl| - fryzura
