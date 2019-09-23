@@ -73,6 +73,12 @@ sort by  - sortować po
 middle  |ˈmɪdl| - środek
 turn off - wyłączyć
 identifier  |aɪˈdentɪfaɪər| - identyfikator
+anythig but - wszystko za wyjątkiem
+digit  |ˈdɪdʒɪt| - cyfra
+except  |ɪkˈsept| - z wyjątkiem, z zastrzeżeniem
+underscore  |ˌʌndərˈskɔːr| - znak podkreślenia
+
+
 
 
 
