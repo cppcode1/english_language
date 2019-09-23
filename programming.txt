@@ -24,6 +24,7 @@ an interface in java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
 
+symbol  |ˈsɪmbl| - symbol
 parameter  |pəˈræmɪtər| - parametr
 transparent  |trænsˈpærənt| - przejrzysty
 to be used - służyć
@@ -34,13 +35,13 @@ backward  |ˈbækwərd| - wsteczny
 refer  |rɪˈfɜːr| - odnosić się
 browse  |braʊz| - [inf.] przeglądać
 apart of |əˈpɑːrt| - oprócz
-odciąć - cut off
-wywołać coś - trigger  |ˈtrɪɡər|
-zabrać - take away
-slajd, osuwanie się - slide  |slaɪd|
-wyłączać, wykluczyć - exclude  |ɪkˈskluːd|
-odłączać - disconnect  |ˌdɪskəˈnekt|
-kolumna - column  |ˈkɑːləm|
+cut off - odciąć
+trigger  |ˈtrɪɡər| - wywołać coś
+take away - zabrać
+slide  |slaɪd| - slajd, osuwanie się 
+exclude  |ɪkˈskluːd| - wyłączać, wykluczyć
+disconnect  |ˌdɪskəˈnekt| - odłączać
+column  |ˈkɑːləm| - kolumna
 columns  |ˈkɑːləmz| - kolumny
 remote  |rɪˈmoʊt| - zdalny
 I received  |rəˈsiːvd| - dostałem

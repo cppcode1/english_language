@@ -1,9 +1,9 @@
 //////////////////////////////////////////
 17 * paying and returning
 //////////////////////////////////////////
-please don't make me go out with Jen (nie każ mi)
-I've decided to go with them
-the job is done
+please don't make me (nie każ mi) go out with Jen 
+I've decided to go with them (nimi)
+the job is done |dʌn|
 check to see if the meat is done
 how much is it?
 I can't see the price tag (nie widzę metki)
@@ -13,7 +13,7 @@ what (jaka) is the difference between these two coats?
 how would you like to pay?
 do you have our loyalty card?
 do you accept credit cards?
-what's (jaka) return policy?
+what's (jaka jest) return policy?
 you have 30 days to return the product
 can you return it at any of your shops?
 yes, you have the right to return it at any shop within 30 days
@@ -31,8 +31,10 @@ electricity is used to execute criminals
 of course I'll provide full refund of your fees
 
 hair  |her| - włosy
+brush  |brʌʃ| - szczotkować
 hairstyle  |ˈherstaɪl| - fryzura
 fees  |fiːz| - opłaty
+hours  |ˈaʊərz| - godziny 
 working hours - godziny pracy
 electricity  |ɪˌlekˈtrɪsəti| - energia elektryczna
 bleed  |bliːd| - krwawić
@@ -43,7 +45,7 @@ policy  |ˈpɑːləsi| - polityka, zasady postępowania
 accept  |əkˈsept| - akceptować
 loyalty  |ˈlɔɪəlti| - lojalność
 within  |wɪˈðɪn| - w ciągu
-in - za (jaiś czas)
+in - za (jakiś czas)
 coats  |koʊts| - płaszcze 
 refunded  |rəˈfəndəd| - zwrócone
 
@@ -99,3 +101,39 @@ cartoon  |kɑːrˈtuːn| - film (rysunkowy) animowany
 adventure  |ədˈventʃər| - przygoda
 romance  |ˈroʊmæns| - romantyczny film
 historical  |hɪˈstɔːrɪkl| - historyczny
+last but one - przedostatni
+
+//////////////////////////////////////////
+19 * at the theatre / at the concert 
+//////////////////////////////////////////
+the box office is open now
+I'd like to book two seats for tomorrow's play (gra)
+can I still get some tickets for 7 o'clock performance?
+are there any tickets left for tonight's show?
+there are only two seats left, in the 10th row
+would you like seats in the middle?
+you can sit wherever you like
+I want believe you, but I don't
+how many intervals are there going to be?
+can I get two tickets for tonight's concert, please?
+which seats are the best available?
+sorry, all the tickets have been sold out 
+we loved the concert
+
+survey  |ˈsɜːrveɪ| - ocena
+believe  |bɪˈliːv| - uważać, że
+wherever  |werˈevər| - gdziekolwiek
+left - pozostałe
+tomorrow  |təˈmɔːroʊ| - jutro
+for tomorrow - na jutro
+play - sztuka
+theatre  |ˈθiːətər| - teatr
+performance  |pərˈfɔːrməns| - spektakl, przedstawienie
+script  |skrɪpt| - scenariusz
+props  |ˈprɑːps| - podpora
+stage  |steɪdʒ| - scena
+backstage  |ˌbækˈsteɪdʒ| - kulisy
+box office - kasa
+
+
+
