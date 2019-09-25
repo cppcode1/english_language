@@ -131,8 +131,8 @@ I want to believe you, but I don't
 how many intervals are there going to be?
 can I get two tickets for tonight's concert, please?
 which seats are the best available?
-sorry, all the tickets have been sold out 
-we loved the concert
+sorry, all the tickets have been sold out ???
+we loved the concert (nam się spodobał)
 
 survey  |ˈsɜːrveɪ| - ocena
 believe  |bɪˈliːv| - uważać, że
@@ -152,6 +152,8 @@ box office - kasa
 //////////////////////////////////////////
 20 * at the museum
 //////////////////////////////////////////
+today she is feeling like to go at museum |mjuˈziːəm|
+what are ... - jakie są ...?
 what are the opening hours at the British Museum?
 it's open from Tuesday to Sunday 
 it's open from 10 am to 7 pm
