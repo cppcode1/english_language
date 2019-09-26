@@ -287,11 +287,6 @@ between  |bɪˈtwiːn| - pomiędzy
 election  |ɪˈlekʃn| - wybory
 guide  |ɡaɪd| - przewodnik
 tour  |tʊr| - wycieczka
-monday  |ˈmʌndeɪ| - poniedziałek
-tuesday  |ˈtuːzdeɪ| - wtorek
-wednesday  |ˈwenzdeɪ| - środa
-thursday  |ˈθɜːrzdeɪ| - czwartek
-sunday  |ˈsʌndeɪ| - niedziela
 opening hours
 clever  |ˈklevər| - zdolny, sprytny, bystry
 museum  |mjuˈziːəm| - muzeum
@@ -310,8 +305,15 @@ dispatch  |dɪˈspætʃ| - wysłanie, wysyłka
 purchased by  |ˈpɝːtʃəst| - nabyto przez
 sold by - sprzedano przez
 art  |ɑːrt| - sztuka
+things  |ˈθɪŋz| - rzeczy
 
-
+monday  |ˈmʌndeɪ| - poniedziałek
+tuesday  |ˈtuːzdeɪ| - wtorek
+wednesday  |ˈwenzdeɪ| - środa
+thursday  |ˈθɜːrzdeɪ| - czwartek
+friday  |ˈfraɪdeɪ| - piątek
+saturday  |ˈsætərdeɪ| - sobota
+sunday  |ˈsʌndeɪ| - niedziela
 
 
 
