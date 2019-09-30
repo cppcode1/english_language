@@ -4,11 +4,11 @@
 please don't make me (nie każ mi) go out with Jen 
 I've decided to go with them (nimi)
 the job is done |dʌn|
-check to see if the meat is done
+check if the meat is done
 how much is it?
 I can't see the price tag (nie widzę metki)
-is there any discount if I pay two?
-if you spend over 50 pounds, you can 10% off / a discount of 10%
+is there any discount if I pay for two?
+if you spend over 50 pounds, you can get 10% off / a discount of 10%
 what (jaka) is the difference between these two coats?
 how would you like to pay?
 do you have our loyalty card?
@@ -62,7 +62,7 @@ sold  |soʊld| - sprzedany
 do you feel like going to the cinema tonight?
 what is on?
 is the new Sherlock Holmes movie on tonight?
-there was two tickets for my favotive movie on the table
+there were two tickets for my favotive movie on the table
 where are they?
 can we have two tickets for the Sherlock Holmes movie at 7:20?
 I'm sorry, it's sold out (wyprzedane)
@@ -70,7 +70,7 @@ I wanted to see this film
 shall we go to see it?
 can you recommend another movie?
 the new James Bond movie is on tonight
-is starts in half of an hour |ˈaʊər|
+it starts in half of an hour |ˈaʊər|
 is it subtitled? yes, it is
 is it with subtitles? yes, it is
 does it have subtitles? yes, it does
@@ -82,7 +82,7 @@ can we get a discount with this card?
 which seats would you prefer?
 at the front, in the middle or at the back?
 in the last row, if possible (w ostatnim rzędzie)
-no promblem, that is row 25, seats 11 and 12
+no problem, that is row 25, seats 11 and 12
 what time is it showing? (o której grają?)
 it starts in 40 minutes
 which screen is it on?  (w ktorej sali?)
@@ -123,7 +123,7 @@ opened  |ˈoʊpənd| - otwarty
 is the ticket office opened now?
 the box office is open now
 I'd like to book two seats for tomorrow's play (gra)
-can I still get some tickets for 7 o'clock performance (wystawa)?
+can I still get some tickets for 7 o'clock performance (wystąpienie)?
 are there any tickets left for tonight's show?
 there are only two seats left, in the 10th row
 would you like seats in the middle?
@@ -132,7 +132,7 @@ I want to believe you, but I don't
 how many intervals are there going to be?
 can I get two tickets for tonight's concert, please?
 which seats are the best available?
-sorry, all the tickets have been sold out ???
+sorry, all the tickets have been sold out
 we loved the concert (nam się spodobał)
 
 survey  |ˈsɜːrveɪ| - ocena
@@ -153,7 +153,7 @@ box office - kasa
 //////////////////////////////////////////
 20 * at the museum
 //////////////////////////////////////////
-today she is feeling like to go at museum |mjuˈziːəm|
+today she is feeling like going at museum |mjuˈziːəm|
 what are ... - jakie są ...?
 what are the opening hours at the British Museum?
 it's open from Tuesday to Sunday 
@@ -168,7 +168,7 @@ you can also rent an audio guide at the ticket office
 it costs |ˈkɑːsts| 4 pounds
 do you have it in Polish?
 it's available in ten languages
-execute me, where is a ticket office?
+excuse me, where is a ticket office?
 how much is the entrance fee?
 is it ok to take photos here?
 can I take photos here?
@@ -176,9 +176,9 @@ you can take the photos, but without using the flash
 you must not use the flash (nie wolno ci)
 no flash photography |fəˈtɑːɡrəfi|
 you musn't touch anything
-please leave your coat in the clockroom
+please leave your coat in the cloackroom
 where can I find the floor plan?
-where's the clockroom?
+where's the cloackroom?
 can I get a museum guide, please?
 are all the exhibitions open today?
 can we see all exhibits? |ɪɡˈzɪbɪts|
@@ -192,7 +192,7 @@ I released my son's hand, and he ran out onto the playground
 physical exercise is a good way of releasing stress
 exercise is a good way to release stress
 the judge released |riˈliːst| the prisoner
-he was released from the hospital yesterday
+he was released from (wypisany) the hospital yesterday
 she was released from her job (zwolniona)
 it lets you to do more in less time
 he purchases |ˈpɝːtʃəsəz| and dispatches books to her
@@ -201,10 +201,10 @@ my last big purchase (nabycie) was a van |ˈpɜːrtʃəs|
 how familiar are you with the topic of this course?
 she paid for her purchases (zakupy) and left (odeszła)
 where did you purchase |ˈpɜːrtʃəs| the car? 
-who would you suggest for the job?
+who would you suggest for the job? (kogo byś ty polecił)
 he suggested (polecił) a visit to the gallery
 I suggested waiting (oczekiwanie)
-I wish you were be health (chcę żebyś ...)
+I wish you were healthy (chcę żebyś ...)
 try at least to be civil |ˈsɪvl| (uprzejmy, grzeczny)
 I dust (odkurzać) at least once a week
 I've been there at least twice
@@ -230,10 +230,10 @@ frankly, I wish I'd borrowed this rather than purchased it!
 my advice to anyone considering this purchase would be to borrow it first and then decide whether you actually want to spend money on it!
 this book treats dating as some sort of mathematical equation
 I think this is a strange way to approach dating
-don't think so somehow.
+don't think so, somehow
 if I could give this book 0 stars, I would
-Can’t believe it’s been written by women
-I still can't get over how dated the opinions of men are
+can’t believe it’s been written by women
+I still can't get over (rozwikłać) how dated the opinions of men are
 women who read and take this material to heart will end up discounting men
 it suggests that any man looking for a relationship wants a quiet homemaker with good looks and no brain. 
 it suggests that you hide your true nature in order to ensnare a man
