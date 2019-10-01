@@ -24,6 +24,7 @@ an interface in java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
 
+processes  |ˈproʊsesɪz| - procesy
 equation  |ɪˈkweɪʒn| - [mat.] równanie
 symbol  |ˈsɪmbl| - symbol
 condition  |kənˈdɪʃn| - warunek
@@ -55,8 +56,9 @@ maintenance  |ˈmeɪntənəns| - utrzymanie, konserwacja
 persist  |pərˈsɪst| - upierać się przy czymś, obstawać, nie ustawać
 remain  |rɪˈmeɪn| - pozostawać
 customize  |ˈkʌstəmaɪz| - dostosowywać do potrzeb
+adjust - dostosowywać
 zwisać, wisieć - dangle  |ˈdæŋɡl|
-nieokreślony - unspecified  |ˌʌnˈspesɪfaɪd|
+unspecified  |ˌʌnˈspesɪfaɪd| - nieokreślony
 lookup  - przegląd
 go ahead - naprzód
 disappear  |ˌdɪsəˈpɪr| - znikać

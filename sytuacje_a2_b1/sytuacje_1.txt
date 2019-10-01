@@ -1,9 +1,10 @@
 //////////////////////////////////////////
 1 * meeting up with a friend
 //////////////////////////////////////////
+it will snow tonight
 she won't be late again. she promises
 does that sound good to you?
-nice to meet you (miło pani poznać)
+nice to meet you (miło panią poznać)
 she is looking forward to our meeting |ˈfɔːrwərd|
 she met up with a strange fellow (facet)
 hi there
@@ -17,7 +18,7 @@ what have you been up to?
 I've had a great idea |ɡreɪt| aɪˈdiːə| (ostatnio miałem i mam)
 why don't we meet tonight?
 that sounds good
-what are you up to tonight?
+what are you up to tonight? (be up to - porabiać)
 what about going to the cinema?
 we need to talk |tɔːk|
 what are we going to talk about? [zaplanowana rozmowa] (what ... about)
@@ -34,7 +35,6 @@ she is round the corner (za rogiem)
 where is she from?
 do you see the crossroad? |ˈkrɒsroʊd| (skrzyżowanie)
 it was a great meeting, thanks
-
 
 wspaniały - great  |ɡreɪt|
 spotkać się (informal) - meet up
@@ -54,7 +54,7 @@ how can I find a bus station?
 where is it?
 where is the nearest taxi rank? |ˈnɪrəst|
 how can I get to the nearest bus stop?
-where is she from? (skąd)
+where is she from? (skąd = where ... from)
 she is not from around here
 she has to go down this road |roʊd|
 she goes left at the end of this road [zi end]
@@ -83,18 +83,21 @@ she is standing in front of his home |ˈstendɪɪŋ|
 her favorite book shop is on the corner (na rogu)
 his home is far from here
 the food shop is across from his block |blɑːk|
+he is staying until |ənˈtɪl| tonight (zostanie do wieczoru)
 
 kariera - career  |kəˈrɪr|
 przejść mimo - go past
 przejść przez drodę - cross the street / go across the street
+answer / pick up - odebrać słuchawkę
+take a call - zadzwonić do
 
 //////////////////////////////////////////
 36 * at the doctor's
 //////////////////////////////////////////
-the illness seens to be the problem
-she's came across him (spotkać się przypadkowo)
+the illness seems to be the problem
+she's came across him (właśnie, spotkała się przypadkowo)
 she called the doctor, but he didn't answer / pick up
-take a call the doctor 
+take a call the doctor (zadzwoń do)
 she had the holidays when she had the illness
 she will miss the days when she didn't work (tęsknić za)
 she is able to work when she is ill (zdolna do pracy)
@@ -109,7 +112,7 @@ she usually leaves home at ten past six am |ˈjuːʒuəli|
 she wants to catch a bus to the city centre
 she doesn't miss her bus
 she's missed her bus, unfortunately |ʌnˈfɔːrtʃənətli|
-she is waiting for the bus at the bus stop
+she is waiting for the next bus at the bus stop
 she is getting on the bus (get on)
 she's got on the bus (get-got-got)
 she is on the bus
@@ -139,12 +142,12 @@ what's the matter? (na czym polega problem?)
 what seems to be the problem?
 she can't sleep at night
 she has an illness. she is ill
-she suffers from cough |ˈsʌfərz| (cierpi na kaszel)
+she suffers |ˈsʌfərz| from cough (cierpi na kaszel)
 she has a sore throat (boli ją gardło)
 she has a runny nose (katar)
-I feel ill |fiːl|
-she feels a pain while she breathing |felz|
-she feels like go home and falling |ˈfɑːlɪŋ| asleep (ona ma ochotę na)
+I feel ill |fiːl| (czuję się chory)
+she feels |fiːlz| a pain while she breathing 
+she feels like going home and falling |ˈfɑːlɪŋ| asleep (ona ma ochotę na)
 she felt bad yesterday |ˈjestərdeɪ|
 let me have a look (...spojrzeć)
 open your mouth, please
@@ -162,11 +165,11 @@ she will take one pill before she goes to bed
 she has a sore throat (ból gardła)
 it hurts |ˈhɝːts| (to boli)
 she has symptoms |ˈsɪmptəmz|
-do you have any other symptoms?
+do you have any other |ˈʌðər| symptoms?
 I have a pain in my lungs |ˈləŋz| (płuca)
 take off your shirt, please |ʃɜːrt| (koszula)
 she is taking off her t-shirt (koszulka)
-she's taken off her shirt 
+she's taken off her shirt (właśnie)
 the doctor wants to listen her chest (platka piersiowa)
 the doctor is listening her chest
 she breathes deeply
@@ -187,15 +190,15 @@ don't worry, please
 she has to take the medicine twice a day |ˈmedsn|
 she must take drugs (leki)
 you have some kind of ear infection
-she's had a runny nose for a week (przez tydzień)
-I have a nasty cough now
+she's had a runny nose for a week (przez ostatni tydzień)
+I have a nasty cough now (wstrętny kaszel)
 do you have a headache?
 do you have a pain in your head?
 she finds it ____ to ____
 she finds it hard to breath
 I've got a terrible headache (get a headache)
 she's taken painkilles
-have you taken any painkilles?
+have you taken any painkillers?
 she had a headache this morning
 I took a painkiller this morning and the pain went away
 the doctor has prescribed a cough mixture |ˈmɪkstʃər|

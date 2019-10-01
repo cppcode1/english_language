@@ -4,7 +4,7 @@
 please don't make me (nie każ mi) go out with Jen 
 I've decided to go with them (nimi)
 the job is done |dʌn|
-check if the meat is done
+check if (czy) the meat is done
 how much is it?
 I can't see the price tag (nie widzę metki)
 is there any discount if I pay for two?
@@ -62,12 +62,12 @@ sold  |soʊld| - sprzedany
 do you feel like going to the cinema tonight?
 what is on?
 is the new Sherlock Holmes movie on tonight?
-there were two tickets for my favotive movie on the table
+there were two tickets for my favorite movie on the table
 where are they?
 can we have two tickets for the Sherlock Holmes movie at 7:20?
 I'm sorry, it's sold out (wyprzedane)
 I wanted to see this film
-shall we go to see it?
+shall we go to see it? (pójdźmy)
 can you recommend another movie?
 the new James Bond movie is on tonight
 it starts in half of an hour |ˈaʊər|
@@ -88,8 +88,9 @@ it starts in 40 minutes
 which screen is it on?  (w ktorej sali?)
 it's on screen 7
 enjoy the film
+the movie has a weak (słaby) plot
 
-plot  |plɑːt| - fabuła
+plot  |plɑːt| - fabuła (rodzaj filmu)
 title  |ˈtaɪtl| - tytuł
 be out of - nie mieć
 be on - być granym
@@ -100,7 +101,7 @@ row and seat |roʊ| |siːt| - rząd i miejsce
 tonight  |təˈnaɪt| - dziś wieczorem
 feel like + ing - mieć ochotę na coś
 cinema  |ˈsɪnəmə| - kino
-
+weak  |wiːk| - słaby
 fame  |feɪm| - sława
 science  |ˈsaɪəns| - nauka
 fiction  |ˈfɪkʃn| - fantastyka
@@ -121,7 +122,7 @@ opened  |ˈoʊpənd| - otwarty
 19 * at the theatre / at the concert 
 //////////////////////////////////////////
 is the ticket office opened now?
-the box office is open now
+the box office is opened now
 I'd like to book two seats for tomorrow's play (gra)
 can I still get some tickets for 7 o'clock performance (wystąpienie)?
 are there any tickets left for tonight's show?
