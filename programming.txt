@@ -1,4 +1,11 @@
 general
+what it does? (co to robi?)
+now we are there (teraz jesteśmy tam)   
+we can see where we are
+that will let us see what is in there
+opent the terminal which you can do by clicking this button
+there is a prompt on the bottom
+which directory am I in? (be in)
 the browser is used to browser web pages
 why did you make a copy?
 use a pointer to prevent to make a copy
