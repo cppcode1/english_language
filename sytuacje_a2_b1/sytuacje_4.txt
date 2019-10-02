@@ -5,16 +5,16 @@ there wasn't a cloud in the sky (tu nie było)
 would she want to come to me? (czy chciałaby?)
 would they be able to find it? (być zdolnym do)
 they are able to find it
-neither of them speak a word in English (żaden z nich)
+neither of them speak a word in English |ni͟ːðə(r)| (żaden z nich)
 they walked over to them (over - to przeszkoda)
 maybe they have a chance to meet you up
 the plane took off with a small delay (wystartował)
-pick up our lagguage form a baggage carousel
+pick up our luggage form a baggage carousel |ˌkærəˈsel|
 they introduced themselves
 firstly, I want to introduce myself
 they were happy as they went out
 he's sent their photos to her (ostatnio)
-the flight lasted only two hours (trwał)
+the flight lasted |ˈlæstəd| only two hours (trwał)
 it will take only five minutes! (to zajmie jedynie)
 it takes too long!
 the plane landed (wylądował)
@@ -26,7 +26,7 @@ she didn't want it before that
 I learn it every other day (co drugi dzień)
 why doesn't she host me? (gościć)
 she wants to ask a question to him
-he heard his name spoken from the left (powiedziane)
+he heard |ˈhɝːd| (usłyszał) his name spoken from the left (powiedziane)
 take me to the hotel (zabierz mnie)
 they found each other
 what are you talking about? (talk = speak)
@@ -34,8 +34,9 @@ what's that for? (poco to?)
 where would you like to meet?
 is it the bus stop that I am looking for?
 it's the bus stop that I am looking for
+
 talk about the weather
-how is the weather today?
+how (jaka) is the weather today?
 what does she do during her holiday? |ˈdʊrɪŋ|
 how was the weather?
 how was the weather during your holiday? |ˈdʊrɪŋ| (podczas)
@@ -55,6 +56,7 @@ I guess it's around 25 degrees |dɪˈɡriːz|
 what is the temperature where you are?
 how hot is it where you are?
 it feels like minus ten |ˈmaɪnəs|
+
 excuse me, where is a bus stop?
 she is at a bus stop (ona znajduje się na przystanku)
 do you know where the nearest bus stop is?
@@ -86,7 +88,7 @@ I hope it has air conditioning |kənˈdɪʃənɪŋ|
 oh, this isn't our bus
 this bus goes past the city centre
 how often does this bus run?
-does this bus run today?
+does this bus run today? (run - kursować)
 does this bus go past the city centre?
 this one goes the other way ( w innym kierunku)
 here is our bus!
@@ -218,8 +220,8 @@ does she know where arrivals are? |əˈraɪvəlz| (przyjazdy)
 which platforn? which track?
 we have our own compartment |kəmˈpɑːrtmənt| (przedział)
 is it a sleeper train? (pociąg sypialny)
-how do I find a lagguage locker? (schowek na bagaż)
-where can/do I find a lagguage trolley? |ˈtrɑːli| (wózek na zakupy w supermarkecie)
+how do I find a luggage locker? (schowek na bagaż)
+where can/do I find a luggage trolley? |ˈtrɑːli| (wózek na zakupy w supermarkecie)
 she must change her train two times
 validate your ticket here (kasować bilet)
 excuse me, where is a ticket validator?
@@ -292,7 +294,7 @@ they arrived at the train station
 her train has already departed
 she can as well take a bus (jechać autobusem)
 they didn't go to the train station
-there was an up escalator and down escalator
+there was an up escalator and down escalator |ˈeskəleɪtər|
 she took the down escalator in the subway
 she went between two people
 she went among people (wśród)
@@ -317,12 +319,12 @@ she bought the ticket and next she took the train
 I am going to the ticket office
 I am buying a one-way ticket in the ticket office
 I was buying the ticket when she came
-I bought the ticket and went home
+I bought the ticket, left the train station and went home
 did she see that?
 why didn't she tell me?
 why didn't she buy the ticket?
 she walked over to the timetable to check arrival times
-she saw the arrival times on the screens
+she saw the arrival times on the screens |ˈskriːnz|
 my train will arrive at ten a.m. (przyjedzie)
 has her train arrived on time? (właśnie przyjechał na czas?)
 her train has arrived on time
@@ -330,14 +332,14 @@ why is her train late? (zazwyczaj)
 my train is late and I'm going to give back the ticket
 I want to book the afternoon train
 I was catching the 7 am bus when I saw her
-where can I leave my lagguage?
-she can leave her lagguage in a left lagguage locker
+where can I leave my luggage?
+she can leave her luggage in a left luggage locker
 she is getting in the car
 she is getting on the train
 she is getting on the bus
 she is a new passenger |ˈpæsɪndʒər|
 there is a rack above her head
-it is a lagguage rack (półka)
+it is a luggage rack (półka)
 she has a window seat
 I have an aisle seat
 we need to get to the platform number three
@@ -366,10 +368,10 @@ what time does her train depart?
 what time does her train leave?
 what time does her train come out?
 
-she arrived in the noon (at 12)
+she arrived in the noon |nuːn| (at 12)
 she is on the bus when he is on the train
 we will meet on the square in the afternoon
-we have met in the park
+we have met in the park (właśnie się spotkaliśmy)
 we first met next to her hotel
 would you like to book a room?
 would you like to go out with me for a walk?
@@ -382,8 +384,8 @@ has she ever taken the train? (jechała pociągiem?)
 has she spent money?
 have you bought the ticket already?
 
-leave = depart
-come in = arrive
+leave = depart - odjeżdżać
+come in = arrive - nadjeżdżać
 wchodzić - come in  |kʌm|
 równie dobrze - as well
 near = next to = beside

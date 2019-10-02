@@ -24,6 +24,7 @@ an interface in java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
 
+minus  |ˈmaɪnəs| - minus
 processes  |ˈproʊsesɪz| - procesy
 equation  |ɪˈkweɪʒn| - [mat.] równanie
 symbol  |ˈsɪmbl| - symbol
