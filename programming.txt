@@ -31,6 +31,7 @@ an interface in java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
 
+establish  |ɪˈstæblɪʃ| - nawiązać (połączenie)
 trace  |treɪs| - lokalizować, namierzać
 minus  |ˈmaɪnəs| - minus
 processes  |ˈproʊsesɪz| - procesy
