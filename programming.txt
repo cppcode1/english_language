@@ -31,6 +31,13 @@ an interface in java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
 
+numbered  |ˈnʌmbr̩d| - ponumerowany
+cursor  |ˈkɜːrsər| 
+append  |əˈpend| - dołączać, załączać
+layer  |ˈler| - warstwa
+monitor  |ˈmɑːnɪtər| - monitor
+content  |ˈkɑːntent| - treść, zawartość
+be gone - zniknąć
 establish  |ɪˈstæblɪʃ| - nawiązać (połączenie)
 trace  |treɪs| - lokalizować, namierzać
 minus  |ˈmaɪnəs| - minus
@@ -40,8 +47,8 @@ symbol  |ˈsɪmbl| - symbol
 condition  |kənˈdɪʃn| - warunek
 parameter  |pəˈræmɪtər| - parametr
 transparent  |trænsˈpærənt| - przejrzysty
-to be used - służyć
-is used - służy do
+be used - służyć
+is used to - służy do
 hit  |hɪt| - nacisnąć
 digit  |ˈdɪdʒɪt| - cyfra
 backward  |ˈbækwərd| - wsteczny

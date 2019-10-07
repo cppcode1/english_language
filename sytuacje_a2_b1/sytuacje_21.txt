@@ -29,11 +29,11 @@ would you like some sugar? brown or white?
 do you have any sweetener?
 who is next?
 I am being served. thanks
-can I have another (inne) beer? the same, please
-what soft drinks do you have?
+can I have another (następne) beer? the same, please
+what soft drinks do you have? (bezalkoholowe)
 
-the price includes a voucher for a beer or 2 soft drinks.
-w cenę wliczony kupon na piwo lub 2 napoje bezalkoholowe. 
+the price includes a voucher for a beer or 2 soft drinks
+w cenę wliczony kupon na piwo lub 2 napoje bezalkoholowe
 
 be selling - wmówić, (za)sugerować
 sweetener  |ˈswiːtnər| - słodzik
@@ -72,7 +72,7 @@ be sorry - żałować
 list smth - wymienić
 basically  |ˈbeɪsɪkli| - w zasadzie
 probably  |ˈprɑːbəbli| - prawdopodobnie
-talk to - porozmawiać z
+talk to |tɔːk| - porozmawiać z
 she left home - ona wyszła z domu
 she stayed home  |ˈsteɪd| - została w domu
 price for - cena za
@@ -110,3 +110,41 @@ word |wɜːrd| - słowo
 like I am - jak ja
 be up to date - być aktualnym
 hammer |ˈhæmər| - młotek, uderzać, uderzać/wbijać młotkiem
+
+//////////////////////////////////////////
+22 * at a restaurant - ordering
+//////////////////////////////////////////
+I will have ... - poproszę ...
+please wait to be seated (...na wskazanie miejsc)
+a table for three, please
+do you have a reservation?
+I have a reservation for 8:30 
+would you prefer to sit by the window or by the wall?
+would you like something to drink before you order?
+can we see the menu, please?
+do you have any specials of the day?
+today's chef's special is roast duck
+are you ready to order?
+can I take your order?
+not, yet. could you give us a minute?
+would you like any starters?
+we have chicken dips
+what is the soup of the day?
+minestrone and tomato soup |ˌmɪnəˈstroʊni|
+do you have any vegeterian meals?
+we have a vegetable pie (tarta warzywna)
+
+likewise  |ˈlaɪkwaɪz| - podobnie
+be gone - zniknąć
+main course - dania główne
+waiter, waitress
+be allergic to - mieć alergię na
+vegetable  |ˈvedʒtəbl| - warzywo
+prawn  |prɔːn| - krewetka
+soup  |suːp| - zupa
+nonetheless  |ˌnʌnðəˈles| - niemniej jednak
+give me a minute
+roast  |roʊst| - pieczony
+today's - dzisiejszy
+restaurant  |ˈrestrɑːnt| - restauracja
+
