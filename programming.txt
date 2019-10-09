@@ -1,4 +1,5 @@
 general
+fortunately, many routers have a flaw in the WPS setup pin feature
 My old teacher told me it was not possible to change the MAC address (I asked)
 what does it do? (co to robi?)
 now we are there (teraz jesteśmy tam)   
@@ -32,6 +33,7 @@ an interface in java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
 
+fortunately  |ˈfɔːrtʃənətli| - na szczęście, szczęśliwie
 layer  |ˈler| - warstwa
 region  |ˈriːdʒən| - region
 evaluate  |ɪˈvæljueɪt| - oceniać

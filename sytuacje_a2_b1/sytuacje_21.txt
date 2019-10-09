@@ -123,6 +123,7 @@ word |wɜːrd| - słowo
 like I am - jak ja
 be up to date - być aktualnym
 hammer |ˈhæmər| - młotek, uderzać, uderzać/wbijać młotkiem
+jerk  |dʒɜːrk| - szarpnięcie, drgnięcie
 
 //////////////////////////////////////////
 22 * at a restaurant - ordering
@@ -147,13 +148,15 @@ minestrone and tomato soup |ˌmɪnəˈstroʊni|
 do you have any vegeterian meals?
 we have a vegetable pie (tarta warzywna)
 
+a spoof on a horror movie (parodia na)
 I like him nonetheless (w każdym przypadku)
 sometimes you can be a real jerk, but I like you nonetheless
-the owner of the restaurant is likewise the owner of the shop next door
+the owner of the restaurant is likewise (także) the owner of the shop next door
 go and do likewise (także)
 I just can't resist chocolate (stawiać opór)
 he had his flaws, but he was great nonetheless (tak czy siak)
-rhe region was extremely beautiful
+the region was extremely (bardzo) beautiful
+he could not - on nie mógł
 nonetheless Gerard could not imagine spending the rest of his life there
 every day except Sunday
 nowhere else except here (tylko tu)
@@ -164,6 +167,10 @@ she felt fine except for being a little tired
 everything is arranged except for the tickets to the theatre
 the office is open every day except Sundays
 
+a rest  |rest| - reszta
+to rest - odpoczywać
+extremely  |ɪkˈstriːmli| - bardzo, wyjątkowo
+resistance  |rɪˈzɪstəns| - odporność
 daily  |ˈdeɪli| - dzienny, codzienny
 except for - z wyjątkiem
 region  |ˈriːdʒən| - region
@@ -184,4 +191,6 @@ give me a minute
 roast  |roʊst| - pieczony
 today's - dzisiejszy
 restaurant  |ˈrestrɑːnt| - restauracja
+fortunately  |ˈfɔːrtʃənətli| - na szczęście
+
 
