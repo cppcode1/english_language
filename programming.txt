@@ -1,4 +1,5 @@
 general
+it matches the back of a string (dopasowuje)
 fortunately, many routers have a flaw in the WPS setup pin feature
 My old teacher told me it was not possible to change the MAC address (I asked)
 what does it do? (co to robi?)
@@ -33,6 +34,7 @@ an interface in java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
 
+packages  |ˈpækədʒəz| - pakiety
 fortunately  |ˈfɔːrtʃənətli| - na szczęście, szczęśliwie
 layer  |ˈler| - warstwa
 region  |ˈriːdʒən| - region
@@ -106,7 +108,10 @@ anythig but - wszystko za wyjątkiem
 digit  |ˈdɪdʒɪt| - cyfra
 except  |ɪkˈsept| - z wyjątkiem, z zastrzeżeniem
 underscore  |ˌʌndərˈskɔːr| - znak podkreślenia
-spoof  |spuːf| - oszukać
+spoof  |spuːf| - żartować
+separate |ˈseprət| rozdzielać
+equal  |ˈiːkwəl| - równy
+installed  |ˌɪnˈstɒld| - zainstalowany
 
 
 
