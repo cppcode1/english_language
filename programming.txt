@@ -1,5 +1,6 @@
 general
-what it does? (co to robi?)
+My old teacher told me it was not possible to change the MAC address (I asked)
+what does it do? (co to robi?)
 now we are there (teraz jesteśmy tam)   
 we can see where we are
 that will let us see what is in there
@@ -31,10 +32,12 @@ an interface in java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
 
+layer  |ˈler| - warstwa
+region  |ˈriːdʒən| - region
+evaluate  |ɪˈvæljueɪt| - oceniać
 numbered  |ˈnʌmbr̩d| - ponumerowany
 cursor  |ˈkɜːrsər| 
 append  |əˈpend| - dołączać, załączać
-layer  |ˈler| - warstwa
 monitor  |ˈmɑːnɪtər| - monitor
 content  |ˈkɑːntent| - treść, zawartość
 be gone - zniknąć
@@ -47,6 +50,7 @@ symbol  |ˈsɪmbl| - symbol
 condition  |kənˈdɪʃn| - warunek
 parameter  |pəˈræmɪtər| - parametr
 transparent  |trænsˈpærənt| - przejrzysty
+used  |juːst| - używany
 be used - służyć
 is used to - służy do
 hit  |hɪt| - nacisnąć
@@ -74,10 +78,10 @@ persist  |pərˈsɪst| - upierać się przy czymś, obstawać, nie ustawać
 remain  |rɪˈmeɪn| - pozostawać
 customize  |ˈkʌstəmaɪz| - dostosowywać do potrzeb
 adjust - dostosowywać
-zwisać, wisieć - dangle  |ˈdæŋɡl|
+dangle  |ˈdæŋɡl| - zwisać, wisieć
 unspecified  |ˌʌnˈspesɪfaɪd| - nieokreślony
 lookup  - przegląd
-go ahead - naprzód
+go ahead - iść naprzód
 disappear  |ˌdɪsəˈpɪr| - znikać
 instantly  |ˈɪnstəntli| - niezwłocznie
 person and people
@@ -100,6 +104,7 @@ anythig but - wszystko za wyjątkiem
 digit  |ˈdɪdʒɪt| - cyfra
 except  |ɪkˈsept| - z wyjątkiem, z zastrzeżeniem
 underscore  |ˌʌndərˈskɔːr| - znak podkreślenia
+spoof  |spuːf| - oszukać
 
 
 
