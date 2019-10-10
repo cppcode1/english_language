@@ -114,6 +114,7 @@ please wait to be seated (...na wskazanie miejsc)
 a table for three, please
 do you have a reservation?
 I have a reservation for 8:30 
+would you prefer? |prɪˈfɜːr| (wolałbyś?)
 would you prefer to sit by the window or by the wall?
 would you like something to drink before you order?
 can we see the menu, please?
@@ -187,6 +188,9 @@ above all else (=more than any other things) she was seeking love
 go at once (natychmiast), else you will miss your train
 and feel free to use your second hand if needed |ˈniːdəd|
 
+near  |nɪr| - blisko
+above all else - najbardziej
+confirm  |kənˈfɜːrm| - potwierdzać
 imagine  |ɪˈmædʒɪn| - wyobrazić sobie
 residence  |ˈrezɪdəns| - miejsce zamieszkania
 hereby  |ˌhɪrˈbaɪ| - niniejszym
@@ -232,4 +236,6 @@ today's - dzisiejszy
 restaurant  |ˈrestrɑːnt| - restauracja
 fortunately  |ˈfɔːrtʃənətli| - na szczęście
 feel free to - można / możesz
+before + present simple - przed tym jak
+call me before you go
 
