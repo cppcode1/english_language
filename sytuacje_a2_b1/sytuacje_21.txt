@@ -1,7 +1,6 @@
 //////////////////////////////////////////
 21 * at a bar / at a coffe shop 
 //////////////////////////////////////////
-
 the menu is over there (menu jest tam)
 what can I get you? (co panu podać?)
 is anyone served you? (ktoś cię obsługuje?)
@@ -20,6 +19,7 @@ what soft drinks do you have? (bezalkoholowe)
 the price includes a voucher for a beer or 2 soft drinks
 w cenę wliczony kupon na piwo lub 2 napoje bezalkoholowe
 
+heard  |ˈhɝːd| - usłyszałem 
 have a look - spojrzeć
 be selling - wmówić, (za)sugerować
 sweetener  |ˈswiːtnər| - słodzik
@@ -29,6 +29,9 @@ be gone - odejść
 once you are gone
 try on, take off, put on, fit (by size)
 tease  |tiːz| - drażnić, dokuczać
+take note - notować
+get dressed  |drest| - ubrać się
+I got dressed - ubrałem się
 strip |strɪp| - rozebrać się
 at a weekend |ˈwiːkend|
 berry  |ˈberi| - jagoda
@@ -80,6 +83,8 @@ away from - na odległości od
 be away from smth - być na odległości od czegoś
 go up - wchodzić po 
 go down - schodzić po
+come in
+come out
 a walk  |wɔːk| - spacer, przechadzka
 go for a walk - pojść na spacer
 walk (over) - podejść do kogoś lub czegoś
@@ -107,7 +112,7 @@ hammer |ˈhæmər| - młotek, uderzać, uderzać/wbijać młotkiem
 jerk  |dʒɜːrk| - szarpnięcie, drgnięcie
 peas  |ˈpiːz| - groszek
 beans  |ˈbiːnz| - fasolka
-run out of = be out of - kończyć się
+run out of = be out of - kończyć się, nie mieć
 during  |ˈdʊrɪŋ| - podczas, w ciągu
 take note - notować
 engage  |ɪnˈɡeɪdʒ| - zatrudniać
@@ -153,7 +158,10 @@ maybe still water, please (woda niegazowana)
 for me, nothing else
 how long will we have to wait?
 
-
+I saw her a few days before she died
+long time no see (kopę lat)
+I have not you seen a long time (bardzo długo)
+can I take some time off? (wziąć wolny?)
 I picked up a bug last weekend (zachorowałem)
 his life would be much better once you are gone
 I never work at the weekend
@@ -212,14 +220,17 @@ above all else (=more than any other things) she was seeking love
 go at once (natychmiast), else you will miss your train
 and feel free to use your second hand if needed |ˈniːdəd|
 
+disagree  |ˌdɪsəˈɡriː| - nie zgadzać się
+even  |ˈiːvn| - nawet
+fizzy  |ˈfɪzi| -  gazowany
 near  |nɪr| - blisko
-above all else - najbardziej
+above all else - najbardziej (ponad wszystko)
 confirm  |kənˈfɜːrm| - potwierdzać
 imagine  |ɪˈmædʒɪn| - wyobrazić sobie
 residence  |ˈrezɪdəns| - miejsce zamieszkania
 hereby  |ˌhɪrˈbaɪ| - niniejszym
 I hereby confirm - potwierdzam, że
-pick up  - podnieść
+pick up  - podnieść, odebrać (bagaż, słuchawkę)
 at once, immediately, instantly - natychmiast
 master  |ˈmæstər| - opanowywać, doskonalić, mistrz
 be free  - być uprawnionym do
@@ -241,7 +252,7 @@ resistance  |rɪˈzɪstəns| - odporność
 daily  |ˈdeɪli| - dzienny, codzienny
 except for - z wyjątkiem
 region  |ˈriːdʒən| - region
-flaw  |flɔː| - skaza, wada
+flaw  |flɔː| - wada
 resist  |rɪˈzɪst| - stawiać opór
 likewise  |ˈlaɪkwaɪz| - podobnie / także
 be gone |ɡɔːn| - zniknąć
