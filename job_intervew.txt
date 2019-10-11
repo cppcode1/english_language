@@ -142,6 +142,7 @@ pracodawca, zleceniodawca - employer  |ɪmˈplɔɪər|
 hire  |ˈhaɪər| - zatrudnić
 obywatelstwo - citizenship  |ˈsɪtɪzənʃɪp|
 doświadczenie - experience  |ɪkˈspɪriəns|
+require  |rɪˈkwaɪər| - wymagać
 salary requirements
 at least |liːst|
 strength  |streŋθ| - zaleta
