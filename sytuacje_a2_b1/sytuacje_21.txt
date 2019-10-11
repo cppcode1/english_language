@@ -161,7 +161,7 @@ how long will we have to wait?
 I saw her a few days before she died
 long time no see (kopę lat)
 I have not you seen a long time (bardzo długo)
-can I take some time off? (wziąć wolny?)
+can I take some |səm| time off? (wziąć wolny?)
 I picked up a bug last weekend (zachorowałem)
 his life would be much better once you are gone
 I never work at the weekend
