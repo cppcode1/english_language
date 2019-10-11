@@ -159,6 +159,7 @@ possibility  |ˌpɑːsəˈbɪləti| - możliwość
 term  |tɜːrm| - okres
 in terms of - w zakresie
 mandatory  |ˈmændətɔːri| - obowiązkowy
+functionality  |ˌfʌŋkʃəˈnæləti| - funkcjonalność
 
 I am twenty eight years old
 I worked fill-time before now
