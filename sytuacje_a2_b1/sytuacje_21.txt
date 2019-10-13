@@ -3,12 +3,12 @@
 //////////////////////////////////////////
 the menu is over there (menu jest tam)
 what can I get you? (co panu podać?)
-is anyone served you? (ktoś cię obsługuje?)
+is anyone serving you? (ktoś cię obsługuje?)
 are you being served?
 order some drinks for your frinends and yourself
 can I have a cup of tea, please?
-can I have a bit of milk?
-it's a bit too strong
+can I have a bit of milk? 
+it's a bit too strong (za mocne)
 would you like some sugar? brown or white?
 do you have any sweetener?
 who is next?
@@ -147,7 +147,7 @@ what is it served with? (z czym jest serwowany?)
 what does it come with? (z czym to się podaje?)
 it is served with roast potatoes
 does this meal have nuts in it? I am allergic to nuts
-would you like ant side orders?
+would you like any side orders?
 what (jakieś) vegetables are in the salad?
 would you like any dressing or sauces? |ˈsɒsəz|
 can we have some barbecue sauce?
@@ -160,7 +160,7 @@ how long will we have to wait?
 
 I saw her a few days before she died
 long time no see (kopę lat)
-I have not you seen a long time (bardzo długo)
+I have not seen you for a long time (bardzo długo)
 can I take some |səm| time off? (wziąć wolny?)
 I picked up a bug last weekend (zachorowałem)
 his life would be much better once you are gone
@@ -177,7 +177,7 @@ my father can't be left alone for any length of time
 she had been left alone in the house (została sama w)
 which directory am I in? (be in)
 and your mother, incidentally (notabene), is wrong
-anyone who says otherwise is selling something. (każdy, kto twierdzi inaczej, próbuje ci coś wmówić)
+anyone who says otherwise, is selling something (każdy, kto twierdzi inaczej, próbuje ci coś wmówić)
 he went out to the garden (go out)
 he went out at 11 o'clock
 I feel a bit (nieco) better now
