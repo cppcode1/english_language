@@ -159,7 +159,9 @@ right away - natychmiast
 fry  |fraɪ| - smażyć
 
 bathroom
+arm  |ɑːrm| - ramię
 deodorant  |diˈoʊdərənt| - dezodorant
+apply deodorant under smb arms
 comb  |koʊm| - grzebień
 brush hair
 toe  |toʊ| - palec u stopy
@@ -171,13 +173,13 @@ toilet brush
 a flush  |flʌʃ| - spłuczka
 flush  |flʌʃ| - płukać
 flush the toilet
-toilet paiper
-fingernail  |ˈfɪŋɡərneɪl| - paznokieć
-toenail  |ˈtoʊneɪl| - paznokcie u rąk/u nóg
+dry  |draɪ| - suchy, suszyć
+toilet paper  |ˈpeɪpər|
+fingernail  |ˈfɪŋɡərneɪl| - paznokieć u rąk
+toenail  |ˈtoʊneɪl| - paznokcie u nóg
 hairdryer - suszarka do włosów
-apply deodorant under smb arms
 bath - wanna
-finder 
+finger 
 curtain  |ˈkɜːrtn| - zasłona
 shower
 splash  |splæʃ| - bryzgać
@@ -199,5 +201,5 @@ hand towel
 bath mat - mata łazienkowa
 shampoo  |ʃæmˈpuː| - szampon
 wash smb hair
-wash body 
+wash smb body 
 hair  |her| - włosy
