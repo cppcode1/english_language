@@ -34,6 +34,7 @@ an interface in java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
 
+mail  |meɪl| - wysyłać pocztą
 wipe  |waɪp| - wytrzeć
 terminate  |ˈtɜːrmeɪt| - zakończyć
 packages  |ˈpækədʒəz| - pakiety
@@ -109,8 +110,7 @@ anythig but - wszystko za wyjątkiem
 digit  |ˈdɪdʒɪt| - cyfra
 except  |ɪkˈsept| - z wyjątkiem, z zastrzeżeniem
 underscore  |ˌʌndərˈskɔːr| - znak podkreślenia
-spoof  |spuːf| - żartować
-separate |ˈseprət| rozdzielać
+separate |ˈseprət| - rozdzielać
 equal  |ˈiːkwəl| - równy
 installed  |ˌɪnˈstɒld| - zainstalowany
 
