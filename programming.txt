@@ -34,6 +34,8 @@ an interface in java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
 
+distinct  |dɪˈstɪŋkt| - odrębny, różny
+underly  |ˌəndərˈlaɪ| - podstawowy, zasadniczy
 mail  |meɪl| - wysyłać pocztą
 wipe  |waɪp| - wytrzeć
 terminate  |ˈtɜːrmeɪt| - zakończyć
