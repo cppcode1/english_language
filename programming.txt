@@ -34,8 +34,9 @@ an interface in java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
 
+wipe  |waɪp| - wytrzeć
+terminate  |ˈtɜːrmeɪt| - zakończyć
 packages  |ˈpækədʒəz| - pakiety
-fortunately  |ˈfɔːrtʃənətli| - na szczęście, szczęśliwie
 layer  |ˈler| - warstwa
 region  |ˈriːdʒən| - region
 evaluate  |ɪˈvæljueɪt| - oceniać
