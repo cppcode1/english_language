@@ -1,4 +1,5 @@
 general
+If you know the desired width, enter it in the dialog at the top where it says Width
 it matches the back of a string (dopasowuje)
 fortunately, many routers have a flaw in the WPS setup pin feature
 My old teacher told me it was not possible to change the MAC address (I asked)
@@ -34,6 +35,14 @@ an interface in java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
 
+arbitrarily  |ˌɑːrbəˈtrerəli| - losowo
+range between - wachać się pomiędzy
+appropriate  |əˈproʊpriət| - właściwy
+stretch  |stretʃ| - rozciągnąć
+stretched or squashed
+width  |wɪdθ| - szerokość
+desired  |dɪˈzɑɪərd| - pożądany 
+scale  |skeɪl| - zmieniać rozmiar
 average  |ˈævərɪdʒ| - średnia
 reuse  |ˌriːˈjuːs| - powtórnie wykorzystać
 non-negative integer value
