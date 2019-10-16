@@ -34,6 +34,9 @@ an interface in java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
 
+average  |ˈævərɪdʒ| - średnia
+reuse  |ˌriːˈjuːs| - powtórnie wykorzystać
+non-negative integer value
 distinct  |dɪˈstɪŋkt| - odrębny, różny
 underly  |ˌəndərˈlaɪ| - podstawowy, zasadniczy
 mail  |meɪl| - wysyłać pocztą
