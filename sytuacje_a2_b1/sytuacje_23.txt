@@ -213,3 +213,37 @@ shampoo  |ʃæmˈpuː| - szampon
 wash smb hair
 wash smb body 
 hair  |her| - włosy
+
+
+//////////////////////////////////////////
+24 * at a bank
+//////////////////////////////////////////
+account  |əˈkaʊnt| - rachunek, konto
+take out - wypłacić
+withdraw  |wɪðˈdrɔː| - wypłacić
+withdrawal |wɪðˈdrɔːəl| - wypłata z konta
+cashier  |kæˈʃɪr| - kasjer
+transfer  |trænsˈfɜːr| - przelew
+to transfer - przelewać
+make a transfer - wykonać przelew
+make a deposit - wykonać wpłaty
+deposit  |dɪˈpɑːzɪt| / pay in - wpłacać
+overdraft  |ˈoʊvərdræft| - stan konta
+pay off - spłacać
+report  |rɪˈpɔːrt| - zgłosić
+fee / charge - opłata
+commission  |kəˈmɪʃn| - prowizja
+loan  |loʊn| - pożyczka, kredyt
+take out a loan - wziąć pożyczkę
+interest  |ˈɪntrəst| - oprocentowanie
+branch  |bræntʃ| - oddział
+currency  |ˈkɜːrənsi| - waluta
+exchange  |ɪksˈtʃeɪndʒ| - wymieniać walutę
+exchange rate
+condition  |kənˈdɪʃn| - warunek
+cheque  |tʃek| - czek
+amount  |əˈmaʊnt| - kwota
+signature  |ˈsɪɡnətʃər| - podpis
+savings - oszczędnośći
+banknote  |ˈbæŋknoʊt| - banknot
+coin  |kɔɪn| - moneta
