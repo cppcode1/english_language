@@ -1,8 +1,13 @@
 general
-If you know the desired width, enter it in the dialog at the top where it says Width
+values lower than 100 are visibly
+as discussed before, pixels don't have a set size in the real world |wɜːrld|
+for the purpose of displaying an image on a screen
+use the menu along the top of the Image window
+yhe zoom level is shown in the status area at the bottom of the Image window
+if you know the desired width, enter it in the dialog at the top where it says Width
 it matches the back of a string (dopasowuje)
 fortunately, many routers have a flaw in the WPS setup pin feature
-My old teacher told me it was not possible to change the MAC address (I asked)
+my old teacher told me it was not possible to change the MAC address (I asked)
 what does it do? (co to robi?)
 now we are there (teraz jesteśmy tam)   
 we can see where we are
@@ -35,6 +40,11 @@ an interface in java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
 
+accomplish  |əˈkɑːmplɪʃ| - wykonać
+photo  |ˈfoʊtoʊ| - zdjęcie
+picture  |ˈpɪktʃər| - obraz
+image  |ˈɪmɪdʒ| - obraz, zdjęcie
+figure  |ˈfɪɡjər| - zdjęcie
 arbitrarily  |ˌɑːrbəˈtrerəli| - losowo
 range between - wachać się pomiędzy
 appropriate  |əˈproʊpriət| - właściwy
