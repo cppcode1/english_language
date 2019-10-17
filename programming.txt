@@ -1,4 +1,7 @@
 general
+there are characters in the file which will probably cause the script to fail
+Note that in every other case text following the # sign is treated as comments
+the scripts will be made executable using the chmod command
 values lower than 100 are visibly
 as discussed before, pixels don't have a set size in the real world |wɜːrld|
 for the purpose of displaying an image on a screen
@@ -40,6 +43,7 @@ an interface in java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
 
+subject  |ˈsʌbdʒɪkt| - temat
 grade  |ɡreɪd| - klasa
 particular  |pərˈtɪkjələr| - szczególny
 morph  |mɔːrf| - forma, postać
@@ -142,12 +146,45 @@ equal  |ˈiːkwəl| - równy
 installed  |ˌɪnˈstɒld| - zainstalowany
 
 
+make executable
+assume that |əˈsuːm| - zakładać że
+at the beginning of - na początku
+run a script prepend ./ to the filename
+It is suggested that - propunuje się żeby
+specifically for |spɪˈsɪfɪkli| - specjalnie dla
+deem  |diːm| - uważać za
+appropriate  |əˈproʊpriət| - stosowny, właściwy
+deem appropriate - uważać za potrzebne
+dependable  |dɪˈpendəbl| - niezawodny
+claim  |kleɪm| - żądać
+Here is an explanation for each line
+either in ... or in ... - albo w ... albo w 
+highly recommended - bardzo polecane
+blank  |blæŋk| - pusty
+using - za pomocą
+copy into - skopiować do
+preceding  |priˈsiːdɪŋ| - uprzedni
+precede  |prɪˈsiːd| - poprzedzać
+one time - jeden raz
+failure  |ˈfeɪljər| - niepowodzenie
+more useful  |ˈjuːsfl| - więcej przydatnego
+statement  |ˈsteɪtmənt| - oświadczenie
+lines 6 through 9 are executed
+explanation  |ˌekspləˈneɪʃn| - objaśnienie
+determine  |dɪˈtɜːrmɪn| - zdecydować
+perform  |pərˈfɔːrm| - wykonywać
+performed on - wykonane nad
+various  |ˈveriəs| - różny
+be passed to |ˈpæst| - przekazać do
+handle  |ˈhændl| - obchodzić się z
 
 
-
-
-
-
+number of parameters that were passed to it
+on success and non-zero on failure - w przypadku pododzenia ...
+to make the file into an executable script run this
+here is a script that does something a little more useful
+Line 13 shows how to determine if the parameter given is an existing file
+there is no reason to continue if the file doesn't exist
 
 
 
