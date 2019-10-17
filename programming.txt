@@ -10,7 +10,7 @@ fortunately, many routers have a flaw in the WPS setup pin feature
 my old teacher told me it was not possible to change the MAC address (I asked)
 what does it do? (co to robi?)
 now we are there (teraz jesteśmy tam)   
-we can see where we are
+now we can see where we are
 that will let us see what is in there
 opent the terminal which you can do by clicking this button
 there is a prompt on the bottom
@@ -40,6 +40,9 @@ an interface in java may contain methods and fields
 an interface can be general
 you cannot create an instance of general-type with help of "new" operator
 
+grade  |ɡreɪd| - klasa
+particular  |pərˈtɪkjələr| - szczególny
+morph  |mɔːrf| - forma, postać
 accomplish  |əˈkɑːmplɪʃ| - wykonać
 photo  |ˈfoʊtoʊ| - zdjęcie
 picture  |ˈpɪktʃər| - obraz

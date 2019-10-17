@@ -15,7 +15,7 @@ can you check our order, please?
 excuse me, I did not order this
 this is not what I ordered |ˈɔːrdərd|
 is everything ok?
-are enjoying your meal? (smakuje panu?)
+are you enjoying your meal? (smakuje panu?)
 could you bring one more plate, please?
 can we have some more hot water, please?
 could I have another fork, please?
@@ -24,7 +24,7 @@ have you finished? (właśnie skończyłeś?)
 I hope you enjoyed |ɪnˈdʒɔɪd| it 
 would you like some dessert? |dɪˈzɜːrt|
 here is the dessert menu
-what would you recommend? (co by pan polecał?)
+what would you recommend? |ˌrekəˈmend| (co by pan polecał?)
 you should try the chocolate pudding
 ok, we'll have that, then, please
 excuse me, where is the toilet / the loo? |luː|
@@ -34,8 +34,8 @@ can you split the bill, please?
 there is a mistake on the bill
 we didn't have any tea
 can we pay by card, please?
-service is not included
-we should leave a tip
+service |ˈsɜːrvɪs| is not included
+we should leave a tip (napiwek)
 keep the change, please
 hope to see you again
 I would like to book a table
@@ -84,36 +84,66 @@ from what I could make out (na tyle byłem w stanie zrozumieć)
 if I could just make out what they were saying (gdybym tylko mógł)
 I mean, we were only married for a few months
 she wanted to watch me all the time (cały czas)
-be careful! the stove (płyta) is hot!
-alright. be as casual as you can (zachowywać się naturalnie)
+be careful! the stove |stoʊv| (płyta) is hot!
+alright. be as casual as you can (zachowywać się naturalnie = be casual)
 he made a casual (niedbałą) remark about her shoes
 under (według) the new rules, casual dress is now allowed |əˈlaʊd|
 to be blind as a bat (mieć zły wzrok)
 the shower curtain |ˈkɜːrtn| is attached to the curtain rail
-the shower curtain prevents water from splashing on the floor
-we flush the toilet by pressing this button
+the shower curtain prevents water from splashing on the floor (bryzgać)
+we flush |flʌʃ| the toilet by pressing this button
 we think he and Darcy might be connected
 she may at work or perhaps at home
 you may leave the table 
 I may have been taking a shower when you called
 I couldn't have said it better myself
-the proposals I have in mind are concrete, practical and realistic.
+the proposals I have in mind are concrete, practical and realistic
 tell me what you have in mind (chodzić po głowie = mieć na myśli)
-the man I have in mind is more of a specialist in this failed/line
+the man I have in mind is more of a specialist in this field/line
 we will see more of this in the coming months
+the good news is that there will not be many more of these procedures
+let me warm up the soup for you, it won't take a minute
+what do you like about him? (co w lubisz w nim?)
+do you have some friends? yes, I would say I do
+that is a long time (to długo)
+she lived one house down from where I grew up |ɡruː| |ʌp|
+did she have a chance to visit you in Lublin? yes, did actually
+last year she surprised me and she visited |ˈvɪzətəd| me
+we have known each other for many years / since elementary school
+we went to the same ... and we became roommates
+we moved to diffrent parts of the world
+we met by chance (przypadkowo)
+by midday it had begun to warm up (przed południem zaczęło)
+it works best if you let it warm up first.
+the marathon runner did not warm up and hurt himself.
+let's sing a few exercises first to warm up.
+if you warm up the butter it'll spread more easily.
+with the fire on, the room should soon warm up.
+let us warm up the car engine before we start 
+the singer is warming up before the concert 
+he'll be with you by midday (do południa)
+so you will make sure my son is back by midday
 
+proposal  |prəˈpoʊzl| - propozycja
+is attached to - jest dołączony do
+spread  |spred| - smarować
+midday  |ˌmɪdˈdeɪ| - południe
+warm up milk - podgrzeć mleko
+dry - wycierać się
+dry the body with the towel
+I dried |draɪd| - wytarłem się
 as long as - dopóki
-area, field - dziedzina
-we have in mind — mamy na myśli
+field |fiːld| - dziedzina
 have in mind  - mieć na myśli
-so as - w taki sposób aby
-so as - tak aby
+we have in mind — mamy na myśli
+so as - w taki sposób aby / tak aby
 for the same reason - z tego samego powodu
 so that - tak, żeby
 may, might - mieć zezwolenie
 be allowed to - mieć zezwolenie
 be free to - mieć zezwolenie
 might be - mogą być
+purpose  |ˈpɜːrpəs| / goal |ɡoʊl| - cel
 for the purpose - w celu
 look out - uważać
 matter - mieć znaczenie
@@ -129,6 +159,7 @@ acquaintance  |əˈkweɪntəns| - znajomy
 related to - związany z
 for (time) - przez jakiś czas
 by (person) - przez kogoś
+by (time/noon/afternoon) - przed (czas)
 calm down |kɑːm|  - uspokoić się
 separate  |ˈseprət| - rozdzielić
 split  |splɪt| - rozdzielić
@@ -271,3 +302,9 @@ signature  |ˈsɪɡnətʃər| - podpis
 savings - oszczędnośći
 banknote  |ˈbæŋknoʊt| - banknot
 coin  |kɔɪn| - moneta
+
+exercise  |ˈeksərsaɪz| - ćwiczyć
+surprise  |sərˈpraɪz| - zaskakiwać
+marital status - stan cywilny
+personality  |ˌpɜːrsəˈnæləti| - osobowość
+warm up |ˈwɔːrm ʌp| - podgrzać
