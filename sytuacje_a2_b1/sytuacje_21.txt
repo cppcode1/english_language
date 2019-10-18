@@ -23,6 +23,7 @@ w cenę wliczony kupon na piwo lub 2 napoje bezalkoholowe
 heard  |ˈhɝːd| - usłyszałem 
 have a look - spojrzeć
 sell - wmówić, (za)sugerować, sprzedawać
+don't sell me
 sweetener  |ˈswiːtnər| - słodzik
 menu  |ˈmenjuː| - menu, karta dań
 much better - o wiele lepsza
@@ -51,7 +52,8 @@ bottled |ˈbɑːtəld| - butelkowe
 bottle opener - otwieracz do butelek
 froth  |frɔːθ| - piana
 degrees  |dɪˈɡriːz| - stopni
-died  |ˈdaɪd| - zmarł
+he died  |ˈdaɪd| - zmarł
+obvious  |ˈɑːbviəs| - oczywisty
 obviously  |ˈɑːbviəsli| - oczywiście
 think the same way - myśleć tak samo
 cold  |koʊld| - zimno
@@ -67,7 +69,7 @@ shortly before - tuż przed / krótko przed
 be sorry - żałować
 list smth - wymienić
 basically  |ˈbeɪsɪkli| - w zasadzie
-change my clothes - przebrać się
+change smb clothes - przebrać się
 probably  |ˈprɑːbəbli| - prawdopodobnie
 talk to |tɔːk| - porozmawiać z
 she left home - ona wyszła z domu
@@ -77,9 +79,13 @@ pay for - płacić za
 cancel  |ˈkænsl| - anulować
 approach  |əˈproʊtʃ| - zbliżać się
 careful  |ˈkerfl| - ostrożny
+suggest  |səˈdʒest| - proponować
+have dinner - jeść kolację
 while + ing - podczas (gdy)
+they arrived while we were having dinner
 suitcase  |ˈsuːtkeɪs| - walizka
-relate to  |rɪˈleɪt| - być związanym z, dotyczyć (czegoś)
+relate to  |rɪˈleɪt| - dotyczyć (czegoś)
+be related to - być związanym z
 enquire  |ɪnˈkwaɪər| - dowiedzieć się
 away  |əˈweɪ| - w oddaleniu, na odległości
 away from - na odległości od
@@ -91,12 +97,12 @@ come out
 a walk  |wɔːk| - spacer, przechadzka
 go for a walk - pojść na spacer / spacerować
 walk (over) - podejść do kogoś lub czegoś
-walk / walked into - wejść do
+walk into - wejść do
 go out / come out - wyjść
 late  |leɪt| - późny
 be late - spóźniać się
 shelf / rack  |ræk| - półka
-every other day - co drugi dzień
+every other day |ˈʌðər| - co drugi dzień
 join smb  |dʒɔɪn| - dołączyć się do
 jointed them  |ˌdʒɔɪntəd| - dołączyli się do nich
 excited about |ɪkˈsaɪtɪd| - podniecony, podekscytowany
@@ -224,7 +230,10 @@ above all else (=more than any other things) she was seeking love
 go at once (natychmiast), else you will miss your train
 and feel free to use your second hand if needed |ˈniːdəd|
 
+lot  |lɑːt| - los
+what's more = moreover - ponadto
 disagree  |ˌdɪsəˈɡriː| - nie zgadzać się
+upload  |ˌʌpˈloʊd| - przesyłać
 even  |ˈiːvn| - nawet
 fizzy  |ˈfɪzi| -  gazowany
 near  |nɪr| - blisko
@@ -233,7 +242,7 @@ confirm  |kənˈfɜːrm| - potwierdzać
 imagine  |ɪˈmædʒɪn| - wyobrazić sobie
 residence  |ˈrezɪdəns| - miejsce zamieszkania
 hereby  |ˌhɪrˈbaɪ| - niniejszym
-I hereby confirm - potwierdzam, że
+I hereby confirm - niniejszym potwierdzam, że
 pick up  - podnieść, odebrać (bagaż, słuchawkę)
 at once, immediately, instantly - natychmiast
 master  |ˈmæstər| - opanowywać, doskonalić, mistrz
@@ -247,18 +256,21 @@ at once  - od razu, natychmiast
 seek  |siːk| - szukać
 be awake - obudzić się
 I was awake - obudziłem się
+extremely  |ɪkˈstriːmli| - bardzo, wyjątkowo
+except for - z wyjątkiem
+likewise  |ˈlaɪkwaɪz| - podobnie / także
+nonetheless  |ˌnʌnðəˈles| - w każdym razie
 nowhere  |ˈnoʊwer| - nigdzie
 nowhere else |ˈnoʊwer| - nigdzie indziej
 a rest  |rest| - reszta
+rare  |rer| - rzadki
 to rest - odpoczywać
-extremely  |ɪkˈstriːmli| - bardzo, wyjątkowo
+yearly  |ˈjɪrli| - coroczny
 resistance  |rɪˈzɪstəns| - odporność
 daily  |ˈdeɪli| - dzienny, codzienny
-except for - z wyjątkiem
 region  |ˈriːdʒən| - region
 flaw  |flɔː| - wada
 resist  |rɪˈzɪst| - stawiać opór
-likewise  |ˈlaɪkwaɪz| - podobnie / także
 be gone |ɡɔːn| - zniknąć
 it is gone - to zniknęło
 course  |kɔːrs| - kurs
@@ -268,13 +280,14 @@ be allergic to - mieć alergię na
 vegetable  |ˈvedʒtəbl| - warzywo
 prawn  |prɔːn| - krewetka
 soup  |suːp| - zupa
-nonetheless  |ˌnʌnðəˈles| - w każdym razie
 give me a minute
 roast  |roʊst| - pieczony
 today's - dzisiejszy
 restaurant  |ˈrestrɑːnt| - restauracja
+fortune  |ˈfɔːrtʃən| - los
 fortunately  |ˈfɔːrtʃənətli| - na szczęście
 feel free to - można / możesz
+you may feel free to do it
 before + present simple - przed tym jak
 call me before you go
 
