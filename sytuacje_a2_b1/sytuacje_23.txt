@@ -283,6 +283,8 @@ hair  |her| - włosy
 //////////////////////////////////////////
 24 * at a bank
 //////////////////////////////////////////
+
+it's no use - nie ma sensu
 account  |əˈkaʊnt| - rachunek, konto
 take out - wypłacić
 withdraw  |wɪðˈdrɔː| - wypłacić
@@ -312,7 +314,8 @@ signature  |ˈsɪɡnətʃər| - podpis
 savings - oszczędnośći
 banknote  |ˈbæŋknoʊt| - banknot
 coin  |kɔɪn| - moneta
-
+suggestion  |səˈdʒestʃən| - propozycja
+mug  |mʌɡ| - kubek
 exercise  |ˈeksərsaɪz| - ćwiczyć
 surprise  |sərˈpraɪz| - zaskakiwać
 marital status - stan cywilny

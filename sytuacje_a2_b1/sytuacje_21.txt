@@ -1,5 +1,5 @@
 //////////////////////////////////////////
-21 * at a bar / at a coffe shop 
+21 * at a bar / at a coffee shop |ˈkɔːfi|
 //////////////////////////////////////////
 the menu is over there (menu jest tam)
 what can I get you? (co panu podać?)
@@ -15,11 +15,12 @@ who is next?
 I am being served. thanks |θæŋks|
 can I have another (następne) beer? 
 the same, please
-what soft drinks do you have? (bezalkoholowe)
+what soft drinks / beverages do you have? (bezalkoholowe)
 
 the price includes a voucher for a beer or 2 soft drinks
 w cenę wliczony kupon na piwo lub 2 napoje bezalkoholowe
 
+beverage  |ˈbevərɪdʒ| - napój
 heard  |ˈhɝːd| - usłyszałem 
 have a look - spojrzeć
 sell - wmówić, (za)sugerować, sprzedawać
@@ -126,6 +127,7 @@ be out of - nie mieć
 during  |ˈdʊrɪŋ| - podczas, w ciągu
 take note - notować
 engage  |ɪnˈɡeɪdʒ| - zatrudniać
+be out - odjechać / stracić przytomność
 
 //////////////////////////////////////////
 22 * at a restaurant - ordering
@@ -145,29 +147,29 @@ are you ready to order?
 can I take your order?
 not, yet. could you give us a minute?
 would you like any starters?
-we have chicken dips
 what is the soup of the day?
 minestrone and tomato soup |ˌmɪnəˈstroʊni|
 do you have any vegeterian meals?
 we have a vegetable pie (tarta warzywna)
 can I have fish and chips?
-what are you going to have? (za pan zamówi?)
-I'll have a steak
+what are you going to have? (co pan zamówi?)
+I'll have a steak |steɪk|
 what is it served with? (z czym jest serwowany?)
 what does it come with? (z czym to się podaje?)
 it is served with roast potatoes
 does this meal have nuts in it? I am allergic to nuts
 would you like any side orders?
-what (jakieś) vegetables are in the salad?
+what (jakie) vegetables are in the salad?
 would you like any dressing or sauces? |ˈsɒsəz|
 can we have some barbecue sauce?
 for me, a water, please
-I am sorry, we have run out of a cola
+I am sorry, we have run out of a cola (właśnie nam się skończyła)
 would you like anything else?
 maybe still water, please (woda niegazowana)
-for me, nothing else
+for me, nothing else (nic więcej)
 how long will we have to wait?
 
+this is a way to pass strings that contain blank characters (sposób na to żeby)
 I saw her a few days before she died
 long time no see (kopę lat)
 I have not seen you for a long time (bardzo długo)
@@ -228,8 +230,10 @@ I'd like you to come |kʌm| - chciałbym żebyś przyszła
 is there anything else you would like to add to your list?
 above all else (=more than any other things) she was seeking love
 go at once (natychmiast), else you will miss your train
+the story is out (wyszła na jaw)
 and feel free to use your second hand if needed |ˈniːdəd|
 
+keep it a secret - trzymać w tajemnicy
 lot  |lɑːt| - los
 what's more = moreover - ponadto
 disagree  |ˌdɪsəˈɡriː| - nie zgadzać się

@@ -45,6 +45,7 @@ you cannot create an instance of general-type with help of "new" operator
 
 ignored  |ɪgˈnɔːrd| - ignorowany
 skip - pomijać
+zone  |zoʊn| - strefa
 exclamation mark - wykrzyknik
 subject  |ˈsʌbdʒɪkt| - temat (wiadomości na przykład)
 particular  |pərˈtɪkjələr| - szczególny
