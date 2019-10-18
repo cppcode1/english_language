@@ -257,7 +257,9 @@ the nurse will take your temperature
 he will take your blood pressure
 her blood pressure is low (niska)
 what did you eat last night?
+the doctor will give you a referral to a specialist in your area
 
+referral - skierowanie
 pozostawić - give up / quit
 przejść na dietę - go on a diet
 ograniczyć - cut down on
