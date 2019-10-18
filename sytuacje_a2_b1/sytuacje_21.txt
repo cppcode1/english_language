@@ -169,7 +169,6 @@ maybe still water, please (woda niegazowana)
 for me, nothing else (nic więcej)
 how long will we have to wait?
 
-this is a way to pass strings that contain blank characters (sposób na to żeby)
 I saw her a few days before she died
 long time no see (kopę lat)
 I have not seen you for a long time (bardzo długo)
@@ -233,6 +232,8 @@ go at once (natychmiast), else you will miss your train
 the story is out (wyszła na jaw)
 and feel free to use your second hand if needed |ˈniːdəd|
 
+pause  |pɔːz| - przerwa, pauza
+it's the way to - jest to sposób na to żeby
 keep it a secret - trzymać w tajemnicy
 lot  |lɑːt| - los
 what's more = moreover - ponadto

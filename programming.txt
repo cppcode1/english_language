@@ -190,8 +190,9 @@ on success and non-zero on failure - w przypadku pododzenia ...
 to make the file into an executable script run this
 here is a script that does something a little more useful
 Line 13 shows how to determine if the parameter given is an existing file
+there is no reason - nie ma powodu
 there is no reason to continue if the file doesn't exist
-
+this is a way to pass strings that contain blank characters (sposób na to żeby)
 
 
 
