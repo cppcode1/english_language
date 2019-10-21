@@ -184,6 +184,7 @@ handle  |ˈhændl| - obchodzić się z
 embed |ɪmˈbed| - wbudowywać
 indent  |ɪnˈdent| - wcięcie
 exit  |ˈeksɪt| - wyjście
+failure  |ˈfeɪljər| - niepowodzenie
 
 number of parameters that were passed to it
 on success and non-zero on failure - w przypadku pododzenia ...
