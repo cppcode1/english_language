@@ -148,7 +148,6 @@ separate |ˈseprət| - rozdzielać
 equal  |ˈiːkwəl| - równy
 installed  |ˌɪnˈstɒld| - zainstalowany
 
-argue  |ˈɑːrɡjuː| - sprzeczać się
 make executable
 assume that |əˈsuːm| - zakładać, że
 at the beginning of - na początku
@@ -186,11 +185,11 @@ indent  |ɪnˈdent| - wcięcie
 exit  |ˈeksɪt| - wyjście
 failure  |ˈfeɪljər| - niepowodzenie
 
-number of parameters that were passed to it
+here is number of parameters that were passed to it
 on success and non-zero on failure - w przypadku pododzenia ...
 to make the file into an executable script run this
 here is a script that does something a little more useful
-Line 13 shows how to determine if the parameter given is an existing file
+line 13 shows how to determine if the parameter given is an existing file
 there is no reason - nie ma powodu
 there is no reason to continue if the file doesn't exist
 this is a way to pass strings that contain blank characters (sposób na to żeby)

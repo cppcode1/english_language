@@ -8,7 +8,7 @@ I knew how to seperate this file - wiedziałem jak rozdzielić ten plik
 I altogether forgot about it - zupełnie o tym zapomniałem
 I am unable to do that - nie jestem w stanie tego zrobić
 I want to extend my visa - chcę przedłużyć moją wizę
-is this work properly? - to działa prawidłowo?
+does it work properly? - to działa prawidłowo?
 please, reply me, as soon, as you can - proszę odpowiedz jak najszybciej
 we are no longer friends - już nie jesteśmy przyjaciółmi
 I'd like to sit on the fence - chciałbym nie przyjmować żadnej ze stron
@@ -17,3 +17,11 @@ I go out with her - spotykam się z nią
 I am angry with you - jestem zły na ciebie
 there are two of us. I want to book a double room
 when will my life begin?
+this t-shirt fits you well (fit by size) - ta koszulka pasuke je dobrze
+does the 14:00 suit you?
+take off your t-shirt and try on this one
+here is an explanation for each line - tu jest wytłumaczenie dla każdej linii
+I realized how important she is for me - zdałem sobie sprawę ... 
+here is a script that does something a little more useful
+there is no reason to go there - nie ma powodu tam iść
+there is no reason to continue if the file doesn't exist
