@@ -14,7 +14,7 @@ we are no longer friends - już nie jesteśmy przyjaciółmi
 I'd like to sit on the fence - chciałbym nie przyjmować żadnej ze stron
 I have the argument with her -  kłócę się z nią
 I go out with her - spotykam się z nią
-I am angry with you - jestem zły na ciebie
+I am angry with you - jestem na ciebie zły
 there are two of us. I want to book a double room
 when will my life begin?
 this t-shirt fits you well (fit by size) - ta koszulka pasuke je dobrze
@@ -25,3 +25,4 @@ I realized how important she is for me - zdałem sobie sprawę ...
 here is a script that does something a little more useful
 there is no reason to go there - nie ma powodu tam iść
 there is no reason to continue if the file doesn't exist
+where are you heading? - dokąd zmierzasz?
