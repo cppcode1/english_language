@@ -184,7 +184,36 @@ embed |ɪmˈbed| - wbudowywać
 indent  |ɪnˈdent| - wcięcie
 exit  |ˈeksɪt| - wyjście
 failure  |ˈfeɪljər| - niepowodzenie
+placeholder - zastępująca metka
+quote strings - cytować
+validate  |ˈvælɪdeɪt| - sprawdzać ważność
+stands for - zastępować
+greater than  |ˈɡreɪtər| - większy niż
+less than - mniejszy niż
+the negation operator - negacja 
+affect the output - wpływać na wyjście
+reminder  |rɪˈmaɪndər| - przypomnienie
+negate  |nɪˈɡeɪt| - negować
+clarification  |ˌklærəfɪˈkeɪʃn| - wyjaśnienie
+attempt  |əˈtempt| - próba
+the shorthand way of doing - krótszy sposób na to żeby
+get a feel for - wczuć się w coś, jakiś proces
+change some of the values
+quantity  |ˈkwɑːntəti| - ilość
+handy  |ˈhændi| - zręczny
+suppose  |səˈpoʊz| - przypuszczać
+bracket  |ˈbrækɪt| - nawias
+showed  |ʃoʊd| - pokazał
 
+We start by setting variable x to 1 - zaczynamy
+don't let them scare you - nie pozwul mu cię przestraszyć
+The "$" means I am running under a guest account
+I need time to  get a feel for the place
+Run this script to get a feel for how the math operations work
+it does the opposite of what the original statement means
+Try changing the values of the variables to see how it affects the output
+Variables can be tested and compared against other variables
+It is important to quote strings when they contain blank spaces
 here is number of parameters that were passed to it
 on success and non-zero on failure - w przypadku pododzenia ...
 to make the file into an executable script run this

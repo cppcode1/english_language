@@ -1,3 +1,6 @@
+!see if you can determine what is wrong with it
+Okay, so I agree this might not be terribly useful, but it does show a few things
+how long have you been looking for?
 I would like you to meet my friend - chciałbym ci przedstawić mego przyjaciekla
 my name's ..., but you can call me ...
 good to meet you - miło panią poznać
@@ -9,7 +12,7 @@ I work for eight hours daily - pracuję przez 8 godzin codziennie
 I had to collect the referral from her - musiałem odebtać skierowanie od niej
 where have you been? - gdzie byłaś?
 I came to work shortly after six o'clock - przyszedłem do pracy tuż po szóstej
-I must deliver it in order to sign the contract
+I must deliver dokuments in order to sign the contract
 I knew how to seperate this file - wiedziałem jak rozdzielić ten plik
 I altogether forgot about it - zupełnie o tym zapomniałem
 I am unable to do that - nie jestem w stanie tego zrobić
@@ -56,6 +59,18 @@ I arrived shortly after you left
 given my tiredness it's fine that I've got up - biorąc pod uwagę
 the letter arrived yesterday
 nonetheless she've been being my daughter
-I saw har many times - widziałem ją wiele razy
-she's gone - ona zniknęła 
-everybody has a weaknesses |ˈwiːknəsəz| and virtues |ˈvɝːtʃuːz|
+I saw her many times - widziałem ją wiele razy
+she's gone (be gone) - ona zniknęła 
+everybody has a weaknesses |ˈwiːknəsəz| and strengths |ˈstreŋkθs|
+I met her when going to apply for the visa
+there is no adwantage in eating sugar - nie ma żadnej korzyści w jedzeniu curku
+among advantages of living here is high salary |ˈsæləri|
+you need to act fast - musisz działać szybko
+speed is the main advantage of this approach - prędkość to największa korzyść tego podejścia
+I'm away - nie ma mnie
+I will compare you against her - będę porównywał ciebie z nią
+can you stand for me jesterday?
+let's take a look at this - zpójżmy na to
+To help understand this chapter run the script on your system - żeby zrozumieć
+is it clear to you? it's clear to me - jest to dla mnie zrozumiałe
+it is a good idea to declare all variables before they are used
