@@ -1,6 +1,7 @@
-!see if you can determine what is wrong with it
-Okay, so I agree this might not be terribly useful, but it does show a few things
+!see if you! can determine what is wrong with it
+okay, so I agree this might not be terribly useful, but it !does show! a few things
 how long have you been looking for?
+what have you been waiting for?
 I would like you to meet my friend - chciałbym ci przedstawić mego przyjaciekla
 my name's ..., but you can call me ...
 good to meet you - miło panią poznać
@@ -23,6 +24,7 @@ I'd like to sit on the fence - chciałbym nie przyjmować żadnej ze stron
 I have the argument with her - kłócę się z nią
 I go out with her - spotykam się z nią
 I am angry with you - jestem na ciebie zły
+watch the video and then do the 3 exercises at the end
 there are two of us. I want to book a double room
 when will my life begin?
 this t-shirt fits you well (fit by size) - ta koszulka pasuje ci dobrze
@@ -40,7 +42,7 @@ you are tired as I am - jesteś zmęczony jak ja
 once she went there and didn't go back - pewnego razu ona tam poszła i nie wróciła
 I bought all I wanted except for apples - kupiłem wszystco co chciałem oprócz jabłek
 what's more I've never seen her before - ponadto nigdy jej nie widziałem
-in summary - podsumowując
+in summary it was a great day - podsumowując to był dobry dzień
 I suggest you avoid our territory - radzę ci omijać nas terytorium
 I can't take it mo more - nie mogę dłużej tego akceptować
 I wish I were rich - chciałbym być bogaty
@@ -53,12 +55,12 @@ I will be late today because of my illness - spóźnię się dziś z podowu moje
 what time will we meet? - o której się spotkamy?
 I am out of money - nie mam pieniędzy
 I am out of temper - straciłem panowanie
-I had in mind I'd have to hurry  |ˈhɜːri| - miałem na myśli że mam się śpieszyć
+I had in mind I'd have to hurry  |ˈhɜːri| - miałem na myśli że musiałbym się śpieszyć
 I'm sorry you've waited me for 20 minutes - przepraszam że czekałaś na mnie przed 20 minut
 I arrived shortly after you left
-given my tiredness it's fine that I've got up - biorąc pod uwagę
+given my tiredness it's fine that I've got up at all - biorąc pod uwagę moje zmęczenie
 the letter arrived yesterday
-nonetheless she've been being my daughter
+nonetheless she's been being my daughter
 I saw her many times - widziałem ją wiele razy
 she's gone (be gone) - ona zniknęła 
 everybody has a weaknesses |ˈwiːknəsəz| and strengths |ˈstreŋkθs|
@@ -69,8 +71,12 @@ you need to act fast - musisz działać szybko
 speed is the main advantage of this approach - prędkość to największa korzyść tego podejścia
 I'm away - nie ma mnie
 I will compare you against her - będę porównywał ciebie z nią
-can you stand for me jesterday?
+can you stand for me jesterday? - możesz mnie zastąpić jutro?
 let's take a look at this - zpójżmy na to
-To help understand this chapter run the script on your system - żeby zrozumieć
+to help understand this chapter run the script on your system - żeby zrozumieć
 is it clear to you? it's clear to me - jest to dla mnie zrozumiałe
 it is a good idea to declare all variables before they are used
+my suggestion is to use what you feel most comfortable with
+what do you feel comfortable with?
+the output from both loops is the same; 
+however, the conditions are the opposite

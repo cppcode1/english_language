@@ -204,7 +204,11 @@ handy  |ˈhændi| - zręczny
 suppose  |səˈpoʊz| - przypuszczać
 bracket  |ˈbrækɪt| - nawias
 showed  |ʃoʊd| - pokazał
+nested loop
+nest  |nest| - gniazdo
 
+You can nest as many loops as you need
+It ends after the last line
 We start by setting variable x to 1 - zaczynamy
 don't let them scare you - nie pozwul mu cię przestraszyć
 The "$" means I am running under a guest account
