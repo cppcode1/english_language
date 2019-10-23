@@ -1,5 +1,5 @@
-!see if you! can determine what is wrong with it
-okay, so I agree this might not be terribly useful, but it !does show! a few things
+!see if you can determine what is wrong with it
+!okay, so I agree this might not be terribly useful, but it does show a few things
 how long have you been looking for?
 what have you been waiting for?
 I would like you to meet my friend - chciałbym ci przedstawić mego przyjaciekla
@@ -8,6 +8,7 @@ good to meet you - miło panią poznać
 what's that for? - po co to?
 what does it do? - co to robi?
 does it work properly? - to działa prawidłowo?
+when do we use it? - kiedy z tego korzystamy?
 I must go out by midday - muszę wyjść przed południem
 I work for eight hours daily - pracuję przez 8 godzin codziennie
 I had to collect the referral from her - musiałem odebtać skierowanie od niej
@@ -42,11 +43,11 @@ you are tired as I am - jesteś zmęczony jak ja
 once she went there and didn't go back - pewnego razu ona tam poszła i nie wróciła
 I bought all I wanted except for apples - kupiłem wszystco co chciałem oprócz jabłek
 what's more I've never seen her before - ponadto nigdy jej nie widziałem
-in summary it was a great day - podsumowując to był dobry dzień
+in summary they were a great holidays - podsumowując to były dobre święta
 I suggest you avoid our territory - radzę ci omijać nas terytorium
 I can't take it mo more - nie mogę dłużej tego akceptować
-I wish I were rich - chciałbym być bogaty
-if I were to propose, would you accept?
+I wish I was rich - chciałbym być bogaty
+!if I were to propose, would you accept?
 I am going to = I propose |prəˈpoʊz| - zamierzam
 how long will it take? - jak długo to zajmie?
 how long did the flight last? - jak gługo trwał lot?
@@ -74,9 +75,33 @@ I will compare you against her - będę porównywał ciebie z nią
 can you stand for me jesterday? - możesz mnie zastąpić jutro?
 let's take a look at this - zpójżmy na to
 to help understand this chapter run the script on your system - żeby zrozumieć
-is it clear to you? it's clear to me - jest to dla mnie zrozumiałe
+is it clear to you? - rozumiesz to?
+it's clear to me - jest to dla mnie zrozumiałe
 it is a good idea to declare all variables before they are used
 my suggestion is to use what you feel most comfortable with
 what do you feel comfortable with?
-the output from both loops is the same; 
+the output from both loops is the same
 however, the conditions are the opposite
+where is the loo? |luː| - gdzie jest toaleta?
+she is looking for the jon and is becoming frustrated
+she said no. if only she had said yes
+I am a cleaner. if only I had worked harder at school - [zmienić przeszłość]
+if only someone would offer me a job - gdyby tylko ktoś mi zaproponował
+if only someone would come to visit me - gdyby tylko ktoś mnie odwiedził
+if only she would say yes tomorrow - gbyby tylko się zgodziła jutro
+if only I would win the game - gdybym tylko wygrał tę grę (w przyszłości)
+if only my cell phone was working - gdyby tylko moja komurka działała
+if only it wasn't raining - gdyby tylko nie padało
+if only I had a car /in the present/ - gdybym tylko miał samochód
+i wish i had a car (to wish + past) - chciałbym mieć samochód
+I wish I was rich - chciałbym być bogaty
+she is thinking about what happend
+it rained every day
+I am here to help answer questions when they arise - kiedy one powstaną
+
+I am here to help you to settle in in our company - ... się zaaklimatyzował
+I can’t wait for your first day to meet you
+I look forward to working with you
+it's understandable, given your mother issues - jest to zrozumiałe ...
+I wish I was to do that - chciałbym to zrobić
+they'll soon settle in — kids are very good at adjusting
