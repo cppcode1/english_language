@@ -46,8 +46,8 @@ what's more I've never seen her before - ponadto nigdy jej nie widziałem
 in summary they were a great holidays - podsumowując to były dobre święta
 I suggest you avoid our territory - radzę ci omijać nas terytorium
 I can't take it mo more - nie mogę dłużej tego akceptować
-I wish I was rich - chciałbym być bogaty
-!if I were to propose, would you accept?
+I wish I was rich - chciałbym być bogaty (taraz)
+!if I were to propose, would you accept? - zgodziłbyś się gdybym zaproponował???
 I am going to = I propose |prəˈpoʊz| - zamierzam
 how long will it take? - jak długo to zajmie?
 how long did the flight last? - jak gługo trwał lot?
@@ -74,7 +74,7 @@ I'm away - nie ma mnie
 I will compare you against her - będę porównywał ciebie z nią
 can you stand for me jesterday? - możesz mnie zastąpić jutro?
 let's take a look at this - zpójżmy na to
-to help understand this chapter run the script on your system - żeby zrozumieć
+!to help understand this chapter run the script on your system - żeby zrozumieć
 is it clear to you? - rozumiesz to?
 it's clear to me - jest to dla mnie zrozumiałe
 it is a good idea to declare all variables before they are used
@@ -89,24 +89,38 @@ I am a cleaner. if only I had worked harder at school - [zmienić przeszłość]
 if only someone would offer me a job - gdyby tylko ktoś mi zaproponował
 if only someone would come to visit me - gdyby tylko ktoś mnie odwiedził
 if only she would say yes tomorrow - gbyby tylko się zgodziła jutro
-if only I would win the game - gdybym tylko wygrał grę (w przyszłości)
-if only my cell phone was working - gdyby tylko moja komurka działała
-if only it wasn't raining - gdyby tylko nie padało
-if only I had a car /in the present/ - gdybym tylko miał samochód
-I wish I had a car (to wish + past) - chciałbym mieć samochód
+if only I would win the game - gdybym tylko wygrał grę (in the future)
+if only my cell phone was working - gdyby tylko moja komurka działała (now)
+if only it wasn't raining - gdyby tylko nie padało (now)
+if only I had a car - gdybym tylko miał samochód /in the present/ 
+I wish I had a car (to wish + past) - chciałbym mieć samochód (in the present)
 I wish I was rich - chciałbym być bogaty
-she is thinking about what happend
+she is thinking about what happened |ˈhæpənd|
 it rained every day - padało codziennie
+I wish it didn't rain - chcę żeby nie padało
 I am here to help answer questions when they arise - ... kiedy one powstaną
 
+can you show me the way to slice onions? - kroić w plasterki
+stay here until the danger has passed
+until recently, Anna worked as a teacher in Japan - do niedawna
+keep going until I tell you to stop
+he did not write to us until last week
+the ticket is valid until March
+wait until I come - czekaj aż przyjdę
 with a bad temper you can't be here
 during the interview, they asked about my previous jobs - podczas
-He worked in the field during most of the day.
-she swims every day during the summer - w ciągu całego lata
+he worked in the field during most of the day - ... w ciągu ...
+she swims every other day during the summer - w ciągu całego lata
 I am here to help you to settle in in our company - ... się zaaklimatyzował
 I can’t wait for your first day to meet you
 I look forward to working with you
 it's understandable, given your mother issues - jest to zrozumiałe ...
-I wish I was to do that - chciałbym to zrobić
+I wish I did that - chciałbym to zrobić
 they'll soon settle in — kids are very good at adjusting
-do you feel comfortable with it?
+do you feel comfortable with it? - czujesz się dobrze z tym?
+sometimes you encounter a situation where you would like to exit the loop early
+this can be accomplished using the break and continue commands
+this is because the control goes immediately back to the while statement
+this is because break immediately causes the loop to end
+play with this one enough to really understand what is going on
+in general, the sleep command is used to introduce a delay in the script

@@ -206,11 +206,15 @@ bracket  |ˈbrækɪt| - nawias
 showed  |ʃoʊd| - pokazał
 nested loop
 nest  |nest| - gniazdo
+consult  |kənˈsʌlt| - wprawdzić w
+continues  |kənˈtɪnjuːz| - wykonuje się
+encounter  |ɪnˈkaʊntər| - napotykać, stykać się
 
+if I had not used sleep the output would have scrolled off too quickly to see what was going on - gdfybym nie skorzystał... to bym
 You can nest as many loops as you need
 It ends after the last line
 We start by setting variable x to 1 - zaczynamy
-don't let them scare you - nie pozwul mu cię przestraszyć
+don't let them scare you - nie pozwul im cię przestraszyć
 The "$" means I am running under a guest account
 I need time to  get a feel for the place
 Run this script to get a feel for how the math operations work
