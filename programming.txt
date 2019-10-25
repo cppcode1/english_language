@@ -177,7 +177,7 @@ determine  |dɪˈtɜːrmɪn| - zdecydować
 perform  |pərˈfɔːrm| - wykonywać
 performed on - wykonane nad
 various  |ˈveriəs| - różny
-be passed to |ˈpæst| - przekazać do
+be passed to |ˈpæst| - być przekazanym do
 it was passed to - to było przekazane do
 handle  |ˈhændl| - obchodzić się z
 embed |ɪmˈbed| - wbudowywać
@@ -209,8 +209,12 @@ nest  |nest| - gniazdo
 consult  |kənˈsʌlt| - wprawdzić w
 continues  |kənˈtɪnjuːz| - wykonuje się
 encounter  |ɪnˈkaʊntər| - napotykać, stykać się
+eventually  |ɪˈventʃuəli| - ostatecznie
+the inner  |ˈɪnər| - wewnętrzny
+approaches  |əˈproʊtʃɪz| - zbliża się
 
-if I had not used sleep the output would have scrolled off too quickly to see what was going on - gdfybym nie skorzystał... to bym
+
+if I had not used sleep the output would have scrolled off too quickly to see what was going on - gdybym nie skorzystał... to bym
 You can nest as many loops as you need
 It ends after the last line
 We start by setting variable x to 1 - zaczynamy
@@ -230,7 +234,8 @@ line 13 shows how to determine if the parameter given is an existing file
 there is no reason - nie ma powodu
 there is no reason to continue if the file doesn't exist
 this is a way to pass strings that contain blank characters (sposób na to żeby)
-
+I borrowed the iron from her a while back - ... niedawno
+Eventually go back to the terminal that is running script9 - w końcu
 
 
 

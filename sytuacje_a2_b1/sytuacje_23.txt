@@ -303,6 +303,8 @@ hair  |her| - włosy
 //////////////////////////////////////////
 24 * at a bank
 //////////////////////////////////////////
+I need to find a cashpoint to take out some money
+
 
 it's no use - nie ma sensu
 account  |əˈkaʊnt| - rachunek, konto
@@ -341,3 +343,7 @@ surprise  |sərˈpraɪz| - zaskakiwać
 marital status - stan cywilny
 personality  |ˌpɜːrsəˈnæləti| - osobowość
 warm up |ˈwɔːrm ʌp| - podgrzać
+survive  |sərˈvaɪv| - ocaleć, przetrwać
+persuade  |pərˈsweɪd| - przekonywać
+
+

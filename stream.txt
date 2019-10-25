@@ -124,3 +124,76 @@ this is because the control goes immediately back to the while statement
 this is because break immediately causes the loop to end
 play with this one enough to really understand what is going on
 in general, the sleep command is used to introduce a delay in the script
+when I was at school, I would study for 2 hours every evening - habit zwyczaj
+she was angry with me and she would not speak to me - refusal odmowa
+why are you late? my car wouldn't start - refusal
+last week, I thought I would pass the exam
+he is sure I'll like his house - jest przekonany że mi się podoba
+he was sure I'd like his house - był przekonany że mi się podoba
+she said that she would help me - indirect speech
+would you like a glass of ogange juice?
+would you help me carry my bags? - nieść
+if I had a car I would drive every week - the present
+if I had known her I would have asked her out - gdybym ją znał to bym (the past)
+well I would have live there but - jabym żył tam, ale (the past)
+she doesn't get a question - one nie rozumie pytania
+she gets on well with him
+try to persuade him to come
+They persuaded us that we were wrong
+She'll only take me back if I can persuade her that I've changed
+there's nothing I can do - nie mogę nic zrobić
+Ginny's left me, and there's nothing I can do to persuade her to come back
+I'll see if I can - zobyczymy czy da się 
+Nothing on earth |ɜːrθ| would persuade me - nic nie zmusi mnie
+who do you get on well with? - z kim dogadujeszcz się?
+It is important to quote strings when they contain blank spaces
+Feel free to experiment with this one as ...
+it has a lot of important information in it
+!I could have used the break command as we saw earlier in this chapter.
+I'm not even sure what it stands for
+for each filename given on the command
+Note that this command requires the files be in the current directory
+the variable initialized to zero  |ˈzɪroʊ|
+If a file is not found, it will be set to 1
+You must consider her age - musisz brać pod uwagę jej wiek
+It is needed for your badge - to jest potrzebne do
+take out the chicken after adding the vegetables - wyjmij
+I can't leave her unless I know she's all right.
+I will come unless I change my mind
+I will come till I change my mind
+unless I am mistaken - jeśli się nie mylę
+unless and until - tylko po tym jak
+if you quit smoking, you will feel better
+if you study you will succeed |səkˈsiːd|
+if you don't study you will fail
+unless you study you will fail (unless = if not = jeśli nie)
+unless you quit smoking you will feel bad
+as long as you study you will do well - dopóki
+as long as you smoke you will feel bad
+you can't to to university unless you finish high school
+you can't enter the club unless you have identification 
+you can't visit Italy unless you have visa
+you can't borrow books unless you have library card
+you can't pass the exam unless you prepare |prɪˈper|
+you can't go out unless you clear your room
+you can't improve English unless you read more books
+don't mess it up - nie schrzań
+try not to mess up your new dress before the party
+it's no sense to go there unless she's there
+you won't left work unless you answer emails
+what do you have on right now? - w co jesteś ubrany?
+go to fitting room and try it on to see if you like it
+at the store I tried shorts on 
+she kicked off her shoes - zdjęła (it's specific to shoes)
+my feet hurt and I need to wear my shoes in - założyć wielokrotnie by zostały komfortowe
+don't put your clohes on the floor and hang them up
+go away = be on the vacation
+move away = take everything to new place
+I moved away to Poland when I was 10 - przemieściełem swoje rzeczy 
+turn away = refuce admittance - odmówić wejścia
+the restautant turned me away because it didn't have free tables
+don't turn me away - daj mi wejść
+mind the gap - uważaj na szczelinę
+she had a brilliant mind
+what's on your mind? = what are you thinking about?
+I have a lot on my mind - mam wiele na głowie
