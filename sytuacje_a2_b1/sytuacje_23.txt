@@ -299,13 +299,24 @@ wash smb hair
 wash smb body 
 hair  |her| - włosy
 
-
 //////////////////////////////////////////
 24 * at a bank
 //////////////////////////////////////////
-I need to find a cashpoint to take out some money
+I need to find a cashpoint (bankonat) to take out some money 
+where can I withdraw |wɪðˈdrɔː| (wypłacić) some money?
+how fat the nearest cashpoint is?
+where is the nearest |ˈnɪrəst| cashpoint?
+is there a cashpoint near here?
+I need some cash
+good morning. I would like to take out 100 pounds
+can I see your ID?
+what is your account number?
+which account would you like to take the money out of?
+I'd like to make a transfer to this account
 
 
+
+take out - wypłacić
 it's no use - nie ma sensu
 account  |əˈkaʊnt| - rachunek, konto
 take out - wypłacić
