@@ -101,11 +101,11 @@ I wish it didn't rain - chcę żeby nie padało
 I am here to help answer questions when they arise - ... kiedy one powstaną
 
 can you show me the way to slice onions? - kroić w plasterki cebulę?
-stay here until the danger has passed
+stay here until (aż) the danger has passed
 until recently, Anna worked as a teacher in Japan - do niedawna
 keep going until I tell you to stop
 he did not write to us until last week
-the ticket is valid until March
+the ticket is valid until March |mɑːrtʃ|
 wait until I come - czekaj aż przyjdę
 with a bad temper you can't be here
 during the interview, they asked about my previous jobs - podczas
@@ -113,13 +113,14 @@ he worked in the field during most of the day - ... w ciągu ...
 she swims every other day during the summer - w ciągu całego lata
 I am here to help you to settle in in our company - ... zaaklimatyzować się
 I can’t wait for your first day to meet you
-I look forward to working with you
+I look forward to working with you - czekam na
 it's understandable, given your mother issues - jest to zrozumiałe ...
 I wish I did that - chciałbym to zrobić
 they'll soon settle in — kids are very good at adjusting
 do you feel comfortable with it? - czujesz się dobrze z tym?
-sometimes you encounter a situation where you would like to exit the loop early
-this can be accomplished using the break and continue commands
+sometimes you encounter (napotykać) a situation where you would like to exit the loop early
+this can be accomplished (wykonane) using the break and continue commands
+this is because - to dlatego, że
 this is because the control goes immediately back to the while statement
 this is because break immediately causes the loop to end
 play with this one enough to really understand what is going on
@@ -133,44 +134,44 @@ he was sure I'd like his house - był przekonany że mi się podoba
 she said that she would help me - indirect speech
 would you like a glass of ogange juice?
 would you help me carry my bags? - nieść
-if I had a car I would drive every week - the present
+if I had a car I would drive every week (2) - gdybym miał samochód to bym 
 if I had known her I would have asked her out - gdybym ją znał to bym (the past)
-well I would have live there but - jabym żył tam, ale (the past)
 she doesn't get a question - one nie rozumie pytania
-she gets on well with him
-try to persuade him to come
-They persuaded us that we were wrong
-She'll only take me back if I can persuade her that I've changed
-there's nothing I can do - nie mogę nic zrobić
-Ginny's left me, and there's nothing I can do to persuade her to come back
-I'll see if I can - zobyczymy czy da się 
-Nothing on earth |ɜːrθ| would persuade me - nic nie zmusi mnie
+she gets on well with him - dogaduje się z nim
+try to persuade |pərˈsweɪd| him to come - spróbuj przekonywać
+they persuaded |pərˈsweɪdəd| us that we were wrong
+she'll only take me back if I can persuade her that I've changed
+there is nothing I can do - nie mogę nic zrobić
+Ginny has left me, and there's nothing I can do to persuade her to come back
+I'll see if I can - zobaczymy czy da się 
+nothing on earth |ɜːrθ| would persuade me - nic nie zmusi mnie
 who do you get on well with? - z kim dogadujeszcz się?
-It is important to quote strings when they contain blank spaces
-Feel free to experiment with this one as ...
+it is important to quote |kwoʊt| strings when they contain blank spaces
+feel free to experiment with this one as ...
 it has a lot of important information in it
-!I could have used the break command as we saw earlier in this chapter.
+!I could have used the break command as we saw earlier in this chapter
 I'm not even sure what it stands for
 for each filename given on the command
-Note that this command requires the files be in the current directory
+note that this command requires the files be in the current directory
 the variable initialized to zero  |ˈzɪroʊ|
-If a file is not found, it will be set to 1
-You must consider her age - musisz brać pod uwagę jej wiek
-It is needed for your badge - to jest potrzebne do
+if a file is not found, it will be set to 1
+you must consider her age - musisz brać pod uwagę jej wiek
+it is needed for your badge - to jest potrzebne do
 take out the chicken after adding the vegetables - wyjmij
-I can't leave her unless I know she's all right.
-I will come unless I change my mind
-I will come till I change my mind
+I can't leave her unless I know she's all right - ... jeśli nie ...
+I will come unless I change my mind - ... jeśli nie ...
+I will come till I change my mind ... aż nie zmienię swojego zdania
 unless I am mistaken - jeśli się nie mylę
 unless and until - tylko po tym jak
-if you quit smoking, you will feel better
+if you quit smoking, you will feel better (1)
 if you study you will succeed |səkˈsiːd|
 if you don't study you will fail
 unless you study you will fail (unless = if not = jeśli nie)
 unless you quit smoking you will feel bad
 as long as you study you will do well - dopóki
 as long as you smoke you will feel bad
-you can't to to university unless you finish high school
+you can't go to university unless you finish high school
+you can't go to university if you don't finish high school
 you can't enter the club unless you have identification 
 you can't visit Italy unless you have visa
 you can't borrow books unless you have library card
@@ -202,20 +203,33 @@ if you heat water to 100 degrees, it boils (0)
 I always take an umbrella in case it rains (0) (w przypadku)
 he always learns English in the evening provided that he has time (pod warunkiem, że)
 the lights don't come on unless it gets dark.
-When the sun rises, it becomes light
-Kiedy wschodzi słońce, robi się jasno
-He always answers the phone, provided he is in his office
-Most people check their e-mails as soon as they get to work
+when the sun rises, it becomes light
+kiedy wschodzi słońce, robi się jasno
+he always answers the phone, provided he is in his office
+most people check their e-mails as soon as they get to work
 if you learn English every day, you will make progress
-If you are watching TV, I'll go to the other room.
-If you have finished doing your homework, we can go out.
-If you need any help, call me (1)
-Don't call me unless it is really important |ɪmˈpɔːrtnt| (1)
-Will you let me know as soon as you get the results?
-You should learn English systematically, if you want to pass your exam.
+if you are watching TV, I'll go to the other room.
+if you have finished doing your homework, we can go out.
+if you need any help, call me (1)
+don't call me unless it is really important |ɪmˈpɔːrtnt| (1)
+will you let me know as soon as you get the results?
+you should learn English systematically, if you want to pass your exam.
 if I spoke English better, I would move to Australia. (2)
-If you were studying, I wouldn't disturb you (2)
-If I were you, I wouldn't eat so much chocolate (2)
-If we had a car, we could go to the mountains (2)
-If it wasn't raining, we could go for a walk (2)
-If I were you, I would consult a lawyer |ˈlɔːjər|
+if you were studying, I wouldn't disturb you (2)
+if I were you, I wouldn't eat so much chocolate (2)
+if we had a car, we could go to the mountains (2)
+if it wasn't raining, we could go for a walk (2)
+if I were you, I would consult a lawyer |ˈlɔːjər| (2)
+I wouldn't worry about her so much if she wasn't so careless (2)
+you might have better results in sport if you practiced more (2)
+if we had known about yesterday's party, we would have come (3)
+she had just finished talking on the phone when the guests arrived
+we had learned English for two years before we moved to England
+Ania had already passed her exam, when she was offered a job
+she is talking on the telephone
+she must be in love with a singer - ona na pewno jest
+she could be a dorctor or nurse - ona pewnie jest
+she might have a headache - one możliwie ma? 
+she can't have namy friends - ona na pewno nie ma 
+she might not have a car 
+Unless he was very ill, he would be at work
