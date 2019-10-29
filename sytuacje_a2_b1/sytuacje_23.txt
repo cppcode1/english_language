@@ -313,8 +313,9 @@ can I see your ID?
 what is your account number?
 which account would you like to take the money out of?
 I'd like to make a transfer to this account
-
-
+can I pay my electricity |ɪˌlekˈtrɪsəti| bill here?
+I'd also like to transfer 1000 pounds to my personal account
+I would like make a deposit - wpłacić na konto
 
 take out - wypłacić
 it's no use - nie ma sensu
