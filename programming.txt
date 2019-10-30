@@ -213,6 +213,9 @@ eventually  |ɪˈventʃuəli| - ostatecznie
 the inner  |ˈɪnər| - wewnętrzny
 approaches  |əˈproʊtʃɪz| - zbliża się
 investigate  |ɪnˈvestɪɡeɪt| - badać, ustalać
+scheme  |skiːm| - harmonogram, plan, program
+particular  |pərˈtɪkjələr| - dany
+foreground  |ˈfɔːrɡraʊnd| - pierwszy plan
 
 
 if I had not used sleep the output would have scrolled off too quickly to see what was going on - gdybym nie skorzystał... to bym
