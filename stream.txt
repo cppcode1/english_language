@@ -240,3 +240,6 @@ what do you have in mind? - co masz na myśli?
 it starts with a Usage message as it needs at least one filename to work on
 so doing something like ... will generate an error
 Feel free to name it whatever you like - możesz nazywać ...
+and how they differ from each other
+using the sleep command was also mentioned  |ˈmenʃənd|
+I'll be able to - chciałbym 
