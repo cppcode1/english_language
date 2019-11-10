@@ -1,6 +1,6 @@
-!see if you can determine what is wrong with it
-!okay, so I agree this might not be terribly useful, but it does show a few things
-how long have you been looking for?
+see if (czy) you can determine what is wrong with it
+okay, so I agree this might not be terribly useful, but it does show a few things
+how long have you been looking for it?
 what have you been waiting for?
 I would like you to meet my friend - chciałbym ci przedstawić mego przyjaciekla
 my name's ..., but you can call me ...
@@ -16,16 +16,16 @@ where have you been? - gdzie byłaś?
 I came to work shortly after six o'clock - przyszedłem do pracy tuż po szóstej
 I must deliver dokuments in order to sign the contract
 I knew how to seperate this file - wiedziałem jak rozdzielić ten plik
-I altogether forgot about it - zupełnie o tym zapomniałem
+I altogether/completely forgot about it - zupełnie o tym zapomniałem
 I am unable to do that - nie jestem w stanie tego zrobić
 I want to extend my visa - chcę przedłużyć moją wizę
-please, reply me, as soon, as you can - proszę odpowiedz jak najszybciej
+please, reply [rɪ'plaɪ] me, as soon, as you can - proszę odpowiedz jak najszybciej
 we are no longer friends - już nie jesteśmy przyjaciółmi
 I'd like to sit on the fence - chciałbym nie przyjmować żadnej ze stron
-I have the argument with her - kłócę się z nią
+I have an argument with her - kłócę się z nią
 I go out with her - spotykam się z nią
 I am angry with you - jestem na ciebie zły
-watch the video and then do the 3 exercises at the end
+watch the video and then do the 3 exercises at the end of the video
 there are two of us. I want to book a double room
 when will my life begin?
 this t-shirt fits you well (fit by size) - ta koszulka pasuje ci dobrze
@@ -36,55 +36,55 @@ I realized |ˈriːˌlaɪzd| how important she is for me - zdałem sobie sprawę 
 here is a script that does something a little more useful
 there is no reason to go there - nie ma powodu tam iść
 there is no reason to continue if the file doesn't exist
-where are you heading? - dokąd zmierzasz?
+where are you heading to? - dokąd zmierzasz?
 buy tickets at once otherwise we'll be late - kup bilety natychmiast
 am I free to enter there? - czy jestem uprawniony do tego żeby tam wejść?
-you are tired as I am - jesteś zmęczony jak ja
+you are as tired as I am - jesteś zmęczony jak ja
 once she went there and didn't go back - pewnego razu ona tam poszła i nie wróciła
 I bought all I wanted except for apples - kupiłem wszystco co chciałem oprócz jabłek
 what's more I've never seen her before - ponadto nigdy jej nie widziałem
-in summary they were a great holidays - podsumowując to były dobre święta
+in summary they were great holidays - podsumowując to były dobre święta
 I suggest you avoid our territory - radzę ci omijać nas terytorium
-I can't take it mo more - nie mogę dłużej tego akceptować
-I wish I was rich - chciałbym być bogaty (taraz)
-!if I were to propose, would you accept? - zgodziłbyś się gdybym zaproponował???
+I can't take it any more - nie mogę dłużej tego akceptować
+I wish I was rich - chciałbym być bogaty (teraz)
+if I were to propose, would you accept? - zgodziłbyś się gdybym zaproponował???
 I am going to = I propose |prəˈpoʊz| - zamierzam
 how long will it take? - jak długo to zajmie?
 how long did the flight last? - jak gługo trwał lot?
 can you do it likewise? - możesz zrobić tak samo?
 I will be late today because of my illness - spóźnię się dziś z podowu mojej choroby
-what time will we meet? the 9 pm suit me - o której się spotkamy?
+what time will we meet? the 9 pm suits me - o której się spotkamy?
 I am out of money - nie mam pieniędzy
 I am out of temper - straciłem panowanie
 I had in mind I'd have to hurry  |ˈhɜːri| - miałem na myśli że musiałbym się śpieszyć
-I'm sorry you've waited me for 20 minutes - przepraszam że czekałaś na mnie przed 20 minut
+I'm sorry you've been waiting me for 20 minutes - przepraszam że czekałaś na mnie przed 20 minut
 I arrived shortly after you left
 given my tiredness it's fine that I've got up at all - biorąc pod uwagę moje zmęczenie
 the letter arrived yesterday
-nonetheless she's been being my daughter
+nonetheless she is and she will my daughter
 I saw her many times - widziałem ją wiele razy
 she's gone (be gone) - ona zniknęła 
-everybody has a weaknesses |ˈwiːknəsəz| and strengths |ˈstreŋkθs|
-I met her when going to apply for the visa
-there is no adwantage in eating sugar - nie ma żadnej korzyści w jedzeniu curku
-among advantages of living here is high salary |ˈsæləri|
+everybody has weaknesses |ˈwiːknəsəz| and strengths |ˈstreŋkθs|
+I met her while/when I was going to apply for the visa
+there is no advantage in eating sugar - nie ma żadnej korzyści w jedzeniu curku
+one of the advantages of living here is high salary |ˈsæləri|
 you need to act fast - musisz działać szybko
 speed is the main advantage of this approach - prędkość to największa korzyść tego podejścia
 I'm away - nie ma mnie
 I will compare you against her - będę porównywał ciebie z nią
-can you stand for me jesterday? - możesz mnie zastąpić jutro?
+can you stand for me yesterday? - możesz mnie zastąpić jutro?
 let's take a look at this - zpójżmy na to
-!to help understand this chapter run the script on your system - żeby zrozumieć
+to help understand this chapter run the script on your system - żeby zrozumieć
 is it clear to you? - rozumiesz to?
 it's clear to me - jest to dla mnie zrozumiałe
 it is a good idea to declare all variables before they are used
 my suggestion is to use what you feel most comfortable with
 what do you feel comfortable with?
 the output from both loops is the same
-however, the conditions are the opposite
+however, the conditions are opposite
 where is the loo? |luː| - gdzie jest toaleta?
 she is looking for the job and is becoming frustrated
-she said no. if only she had said yes
+she said no. if only she had said yes - musztarda po obiedzie
 I am a cleaner. if only I had worked harder at school - [zmienić przeszłość]
 if only someone would offer me a job - gdyby tylko ktoś mi zaproponował
 if only someone would come to visit me - gdyby tylko ktoś mnie odwiedził
@@ -242,4 +242,5 @@ so doing something like ... will generate an error
 Feel free to name it whatever you like - możesz nazywać ...
 and how they differ from each other
 using the sleep command was also mentioned  |ˈmenʃənd|
-I'll be able to - chciałbym 
+I'll be able to - będę mógł?
+I wish I knew - chciałbym wiedzieć
