@@ -1,9 +1,9 @@
 how long have you been here? I've been here for 2 days
 can you show me the way to slice onions? - kroić w plasterki cebulę?
-stay here until (aż) the danger has passed
+stay here until (aż) the danger has passed (has = jeszcze nie minęło)
 until recently, Anna worked as a teacher in Japan - do niedawna
-keep going until I tell you to stop
-he did not write to us until last week
+keep going until I tell you to stop (keep + ing)
+he did not write to us until (aż do) last week
 the ticket is valid until March |mɑːrtʃ|
 wait until I come - czekaj aż przyjdę
 with a bad temper you can't be here
@@ -11,7 +11,7 @@ during the interview, they asked about my previous jobs - podczas
 he worked in the field during most of the day - ... w ciągu ...
 she swims every other day during the summer - w ciągu całego lata
 I am here to help you to settle in in our company - ... zaaklimatyzować się
-I can’t wait for your first day to meet you
+I can’t wait for your first day to meet you - nie mogę się doczekać
 I look forward to working with you - czekam na
 it's understandable, given your mother issues - jest to zrozumiałe ...
 I wish I did that - chciałbym to zrobić
@@ -24,10 +24,10 @@ this is because the control goes immediately back to the while statement
 this is because break immediately causes the loop to end
 play with this one enough to really understand what is going on
 in general, the sleep command is used to introduce a delay in the script
-when I was at school, I would study for 2 hours every evening - habit zwyczaj
-she was angry with me and she would not speak to me - refusal odmowa
+when I was at school, I would(nie do stanów)/used to study for 2 hours every evening - habit zwyczaj
+she was angry with me and she would(past will) not speak to me - refusal odmowa
 why are you late? my car wouldn't start - refusal
-last week, I thought I would pass the exam
+last week, I thought I would (=past will) pass the exam
 he is sure I'll like his house - jest przekonany że mi się podoba
 he was sure I'd like his house - był przekonany że mi się podoba
 she said that she would help me - indirect speech
@@ -42,13 +42,13 @@ they persuaded |pərˈsweɪdəd| us that we were wrong
 she'll only take me back if I can persuade her that I've changed
 there is nothing I can do - nie mogę nic zrobić
 Ginny has left me, and there's nothing I can do to persuade her to come back
-I'll see if I can - zobaczymy czy da się 
+I'll see if (czy) I can - zobaczymy czy da się 
 nothing on earth |ɜːrθ| would persuade me - nic nie zmusi mnie
 who do you get on well with? - z kim dogadujeszcz się?
 it is important to quote |kwoʊt| strings when they contain blank spaces
 feel free to experiment with this one as ...
 it has a lot of important information in it
-!I could have used the break command as we saw earlier in this chapter
+I could have (jeden raz) used the break command as (w taki sposób) we saw earlier in this chapter
 I'm not even sure what it stands for
 for each filename given on the command
 note that this command requires the files be in the current directory
@@ -59,11 +59,11 @@ it is needed for your badge - to jest potrzebne do
 take out the chicken after adding the vegetables - wyjmij
 I can't leave her unless I know she's all right - ... jeśli nie ...
 I will come unless I change my mind - ... jeśli nie ...
-I will come till I change my mind ... aż nie zmienię swojego zdania
-unless I am mistaken - jeśli się nie mylę
-unless and until - tylko po tym jak
+I will come untill I change my mind ... aż nie zmienię swojego zdania
+unless I am mistaken (be mistaken = być w błędzię) - jeśli się nie mylę
+unless and untill - tylko po tym jak
 if you quit smoking, you will feel better (1)
-if you study you will succeed |səkˈsiːd|
+if you study, you will succeed |səkˈsiːd| - odnosić sukces
 if you don't study you will fail
 unless you study you will fail (unless = if not = jeśli nie)
 unless you quit smoking you will feel bad
@@ -83,10 +83,10 @@ it's no sense to go there unless she's there
 you won't left work unless you answer emails
 what do you have on right now? - w co jesteś ubrany?
 go to fitting room and try it on to see if you like it
-at the store I tried shorts on 
+at the store I tried some shorts on 
 she kicked off her shoes - zdjęła (it's specific to shoes)
 my feet hurt and I need to wear my shoes in - założyć wielokrotnie by zostały komfortowe
-don't put your clohes on the floor and hang them up
+don't put your clothes on the floor and hang them up
 go away = be on the vacation
 move away = take everything to new place
 I moved away to Poland when I was 10 - przemieściełem swoje rzeczy 
@@ -143,3 +143,6 @@ and how they differ from each other
 using the sleep command was also mentioned  |ˈmenʃənd|
 I'll be able to - będę mógł?
 I wish I knew - chciałbym wiedzieć
+do you know how this is?
+I am wasting my time with you
+what good is a phone call if you're unable to speak 
