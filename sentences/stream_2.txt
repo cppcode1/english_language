@@ -1,0 +1,128 @@
+this tablets makes the backache better
+can you repeat the address?
+is that near the hospital? sure
+you go past the hospital and take the second street
+then turn right at the traffic lights
+how long have you had it?
+does it hurts now? yes, it does
+excuse me, can you help me? sure
+turn rights at the traffic lights and then go straight ahead
+could you repeat that, please?
+where can I buy it? at the drugstore. it's opposite the hotel
+and do you have any caps? yes, they are next to the door
+how much does it cost? that's five fifty. do you take visa?
+would you like a bag? - chce pan reklamówkę?
+where do you live? at 201 Wik street
+I have to go now. What a pity!
+we have to gp now. I'll call a taxi
+thank you for waiting for me
+can I help you? yes, how much are these shoes?
+call him and talk to him
+who is calling? - kto dzwoni?
+can I speak to Tom, please? can you ask Tom to come to the phone?
+ask her to call me after lunch
+how is your headache now? - jak tam twoja ból głowy?
+I always take an umbrella in case it rains (0) (w przypadku)
+he always learns English in the evening provided that he has time (pod warunkiem, że)
+the lights don't come on unless it gets dark.
+when the sun rises, it becomes light
+kiedy wschodzi słońce, robi się jasno
+he always answers the phone, provided he is in his office
+most people check their e-mails as soon as they get to work
+if you learn English every day, you will make progress
+if you are watching TV, I'll go to the other room.
+if you have finished doing your homework, we can go out.
+if you need any help, call me (1)
+don't call me unless it is really important |ɪmˈpɔːrtnt| (1)
+will you let me know as soon as you get the results?
+you should learn English systematically, if you want to pass your exam.
+if I spoke English better, I would move to Australia. (2)
+if you were studying, I wouldn't disturb you (2)
+if I were you, I wouldn't eat so much chocolate (2)
+if we had a car, we could go to the mountains (2)
+if it wasn't raining, we could go for a walk (2)
+if I were you, I would consult a lawyer |ˈlɔːjər| (2)
+I wouldn't worry about her so much if she wasn't so careless (2)
+you might have better results in sport if you practiced more (2)
+if we had known about yesterday's party, we would have come (3)
+she had just finished talking on the phone when the guests arrived
+we had learned English for two years before we moved to England
+Ania had already passed her exam, when she was offered a job
+she is talking on the telephone - ona rozmawia przez telefon
+she must be in love with a singer - ona na pewno jest
+she could be a dorctor or nurse - ona pewnie jest
+she might have a headache - one możliwie ma? 
+she can't have namy friends - ona na pewno nie ma 
+she might not have a car 
+Unless he was very ill, he would be at work
+I can't approve your plan - nie mogę akceptować
+I've booked you in at the Grand Hotel, I hope you approve
+I don't care if all the other parents are letting their kids do it
+what do you have in mind? - co masz na myśli?
+it starts with a Usage message as it needs at least one filename to work on
+so doing something like ... will generate an error
+Feel free to name it whatever you like - możesz nazywać ...
+and how they differ from each other
+using the sleep command was also mentioned  |ˈmenʃənd|
+I'll be able to - będę mógł?
+I wish I knew - chciałbym wiedzieć
+do you know how this is?
+I am wasting my time with you
+what good is a phone call if you're unable to speak 
+we are proud of our culture of respect
+"git restore <file>..." to discard changes in working directory)
+respect is part of our core values and principles
+Who can I go to if I need to speak up?
+your line manager can help clarify anything you're unsure about and answer any questions you might have. 
+remember: line managers are there to support you.
+This is no way to proceed. - W ten sposób nie można kontynuować. 
+In the next step, you may correct bugs if there are any
+! ... but since we're doing this for the first time, we'll create one from scratch - z podowu?
+An important distinction to be aware of when it comes to images is the difference between base and child images
+There are tens of thousands of images available on Docker Hub
+For simplicity, you can think of an image akin to a git repository
+!ID is the corresponding unique identifier for that image
+we'll shortly see how - wkrótce pokażę jak
+in this section we'll dive deeper into what Docker images are
+how do I create my own Docker image?
+This is the question we'll be exploring in the next section.
+I'm sure you agree that was super simple
+To do that, you can run the docker rm command
+Hence, as a rule of thumb, I clean up containers once I'm done with them
+It rained throughout the day
+Might be same, I do not know - być może tak samo
+you need to make sure the firewall is not blocking
+What you can do is - wszystko co możesz zrobić to 
+I am now familiar with the everyday way of working and communication
+Throughout this tutorial, you'll run docker run multiple times 
+and leaving stray containers will eat up disk space
+Just copy the container IDs from above and paste them alongside the command.
+it automatically deletes the container once it's exited from
+
+As a rule of thumb |θʌm|  - z reguły (wielki palec)
+Lastly, you can also delete images that you no longer need by running
+You can think of the registry as a directory of all available Docker images
+The first thing we're going to look at is how we can run a dead-simple static website
+Since our application is written in Python, the base image we're going to use will be Python 3
+!Since the image doesn't exist locally, the client will first fetch the image from the registry and then run the image
+Okay now that the server is running, how to see the website? What port is it running on?
+And more importantly, how do we access the container directly from our host machine? Hit Ctrl+C to stop the container.
+the client is not exposing any ports so we need to re-run the docker to publish ports
+and asked the Docker client to run a container based on that image
+it's time to create our own
+As mentioned above, all user images are based on a base image
+How are we going to do that?
+It's a simple way to automate the image creation process
+The best part is that - najlepsze jest to że
+This means you don't really have to learn new syntax to create your own dockerfiles.
+ If everything went well, your image should be ready
+ Run docker images and see if your image shows.
+ Head over to the URL with port 8888, where your app should be live.
+ What good is an application that can't be shared with friends, right? 
+ There are many different Docker registries you can use (you can even host your own).
+ Provide the same credentials that you used for logging into Docker Hub.
+ Once that is done, you can view your image on Docker Hub
+ One thing that I'd like to clarify before we go ahead is that ...
+ If you don’t want to preface the docker command with sudo, create a Unix group called docker
+ The most memorable command to list all groups a user is a member of is the groups command
+we recommend you keep the default key name unless you have a reason to change it.
