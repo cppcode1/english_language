@@ -1,9 +1,28 @@
-As a rule of thumb |θʌm|  - z reguły (wielki palec)
-Lastly, you can also delete images that you no longer need by running
+you can't mave in untill you rent it
+our plane took out with a small delay
+take out the wallet from the left pocket
+you would have to take out a rubbush every other day
+she wants to take some money out from a cashmashine
+do you have a reason to change it? yes, I do
+where to? - dokąd?
+who to? - do kogo?
+what for? - po co?
+who did you speak to? - z kim rozmawiałeś?
+who are you waiting for? - na kogo czekasz? 
+who does he work for? - dla kogo on pracuje?
+who are you thinking about? - o kim myślisz?
+who did you sta with? - z kim mieszkałes?
+who does the pen belong to? - do kogo należy?
+who is the letter from? - od kogo ten list?
+what did he die of? - na co umarł?
+what are you worried about? - o co się martwisz?
+who are you writing to? - do kogo piszesz?
+as a rule of thumb |θʌm|  - z reguły (wielki palec)
+lastly, you can also delete images that you no longer need by running
 You can think of the registry as a directory of all available Docker images
 The first thing we're going to look at is how we can run a dead-simple static website
-Since our application is written in Python, the base image we're going to use will be Python 3
-!Since the image doesn't exist locally, the client will first fetch the image from the registry and then run the image
+since our application is written in Python, the base image we're going to use will be Python 3
+!since the image doesn't exist locally, the client will first fetch the image from the registry and then run the image
 Okay now that the server is running, how to see the website? What port is it running on?
 And more importantly, how do we access the container directly from our host machine? Hit Ctrl+C to stop the container.
 the client is not exposing any ports so we need to re-run the docker to publish ports
@@ -14,14 +33,14 @@ How are we going to do that?
 It's a simple way to automate the image creation process
 The best part is that - najlepsze jest to że
 This means you don't really have to learn new syntax to create your own dockerfiles.
- If everything went well, your image should be ready
- Run docker images and see if your image shows.
- Head over to the URL with port 8888, where your app should be live.
- What good is an application that can't be shared with friends, right? 
- There are many different Docker registries you can use (you can even host your own).
- Provide the same credentials that you used for logging into Docker Hub.
- Once that is done, you can view your image on Docker Hub
- One thing that I'd like to clarify before we go ahead is that ...
- If you don’t want to preface the docker command with sudo, create a Unix group called docker
- The most memorable command to list all groups a user is a member of is the groups command
+If everything went well, your image should be ready
+Run docker images and see if your image shows.
+Head over to the URL with port 8888, where your app should be live.
+What good is an application that can't be shared with friends, right? 
+There are many different Docker registries you can use (you can even host your own).
+Provide the same credentials that you used for logging into Docker Hub.
+Once that is done, you can view your image on Docker Hub
+One thing that I'd like to clarify before we go ahead is that ...
+If you don’t want to preface the docker command with sudo, create a Unix group called docker
+The most memorable command to list all groups a user is a member of is the groups command
 we recommend you keep the default key name unless you have a reason to change it.
