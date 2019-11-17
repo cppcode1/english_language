@@ -98,3 +98,4 @@ she had a brilliant mind
 what's on your mind? = what are you thinking about?
 I have a lot on my mind - mam wiele na głowie
 if you heat water to 100 degrees, it boils (0)
+// checked
