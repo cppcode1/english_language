@@ -50,4 +50,68 @@ Once that is done, you can view your image on Docker Hub
 One thing that I'd like to clarify before we go ahead is that ...
 If you don’t want to preface the docker command with sudo, create a Unix group called docker
 The most memorable command to list all groups a user is a member of is the groups command
-we recommend you keep the default key name unless you have a reason to change it.
+we recommend you keep the default key name unless you have a reason to change it
+can you tell me the time?
+what's the time? it's 2 o'clock
+it's a quarter past one
+it's a half past two
+it's a quarter to two - 13:45
+when's the meeting? at half past ten
+when does the train leave? at quarter to three
+I'll meet you twenty past ten
+it was at who twenty jesterday
+the meeting is at ten ten this morning
+welcome to the meeting
+your flight leaves at twelve tomorrow evening
+she is happy and he is sad
+she is worried and angry
+sorry. I am late
+you are early - jesteś za wcześnie
+she's waiting for her husband. he's late
+he's very late and she's angry
+my card is not here. I'll go and get it after lunch
+I'll call him and make an appointment
+I left my card in your shop. I thought I lost it.
+thank for calling
+can you come and get it? I'll come at half past two
+is that all right?
+I can't. I have to go to the supermarket
+would you have some lunch now?
+I'll have some lunch first - zjem najpierw obiad
+are you coming? - idziesz?
+we have to go now! sure
+are you going out after lunch?
+you are not allowed to park here
+does this bus go to the drugstore?
+can you tell me when to get off?
+how long does it take to get there?
+there is a timetable above your head
+here you are - masz
+he's waiting for the bus
+he's getting on the bus
+he's going by bus
+she missed the bus
+he's getting off the bus
+a tram, a train, a plane and a ferry (statek)
+does this train go to ...? no, it doesn't
+how much to Crown Road? that's two dollars fifty
+the meeting is in one hour - za godzinę
+how long will it take? two hours
+half an hour - pół godziny
+quarter of an hour - kwadrans
+when does the plane for New York leave? in half an hour
+heat for 20 seconds
+how many hours in one day? twenty four
+how many weeks in one year? 52
+where the timetable is?
+when is the next train to Lublin? in 5 minutes
+here you are and here's your change (reszta)
+you're not allowed to eat on the bus
+you're not allowed to turn left here
+how much is it to ... street?
+I'm sorry. I don't have anything smaller
+when does the restaurant open?
+I wish I could play the piano
+competence in English is opens doors to international communication
+they discover for themseves how English works
+there is a letter for you. who's it from? it's from Ken - od kogo to?
