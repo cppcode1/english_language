@@ -324,6 +324,28 @@ how much money would you like to pay in?
 my card got swallowed by the cash machine
 how can I get it back?
 I've forgotten my PIN number - właśnie zapomniałem
+I've lost my credit card (to lose)
+I'd like to have it blocked, please (gdy ktoś ma to zrobić)
+I'd like to report a stolen card - chcę zgłosić
+a new card will be sent to your address
+we'd like to take out a loan (pożyczka)
+what are the intrest rates?
+we'd like to buy a flat
+we'd like to take out a mortgage
+where can I find something out about terms and conditions?
+can I exchange euros here?
+what's the exchange rate?
+excuse me, the cash machine is broken
+can I make a withdrawal here?
+I'll be able to pay off it - spłacić
+I'd like to make a transfer here
+the text messages aren't getting on my mobile
+I can't maek a transfer
+can I change my mobile number?
+you need to go to the nearest branch to do it
+to be in red - być na minusie
+to be in the black - być na plusie
+
 
 approve  |əˈpruːv| - akceptować, zatwierdzać
 take out - wypłacić
