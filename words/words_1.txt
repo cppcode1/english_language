@@ -1,4 +1,46 @@
+reply  |rɪˈplaɪ| - odpowiedź
 dismiss  |dɪsˈmɪs| - odrzucić
 estimate  |ˈestɪmət| - oszacować
 abandon  |əˈbændən| - porzucić, zrezygnować
+advanced  |ədˈvænst| - zaawansowany
+advanced scripts
+deploy  |dɪˈplɔɪ| - wdrażać
+crucial  |ˈkruːʃl| - kluczowy
+order  |ˈɔːrdər| - zamówienie
+compose  |kəmˈpoʊz| - komponować, tworzyć
+guide  |ɡaɪd| - przewodnik
+sail  |seɪl| - żeglować
+the vote  |voʊt| - głos
+to vote  |voʊt| - głosować
+succeed  |səkˈsiːd| - powieść się, udać się
+time unit - jednostka czasu
+correspond  |ˌkɔːrəˈspɑːnd| - prowadzić korespondencję
+publish  |ˈpʌblɪʃ| - publikować
+retry, retries 
+it causes to happen - podowuje że się zdarza
+causes  |ˈkɑːzəz| - przyczyny
+queued  |kjuːd| - kolejkowane
+practically  |ˈpræktɪkli| - praktycznie, niemal
+credentials - tożsamość
+denote (by yellow) |dɪˈnoʊt| - oznaczać 
+proceed  |proʊˈsiːd| - trwać, toczyć się
+failures  |ˈfeɪljəz| - błędy
+continue  |kənˈtɪnjuː| - kontynuować
+continues  |kənˈtɪnjuːz|
+continuing  |kənˈtɪnjuːɪŋ|
+since - z tego podowu że
+I failed  - nie powiodło mi się 
+plenty  |ˈplenti| - dużo, mnóstwo
+be failing  |ˈfeɪlɪŋ| - kraszować się 
+deployment  |dɪˈplɔɪmənt| - wdrożenie
+at minimum - przynajmniej
+readily  |ˈredɪli| - z łatwością
+proceed  |proʊˈsiːd| - kontyniować
+toggle  |ˈtɑːɡl| - przełącznik
+configure  |kənˈfɪɡjər| - konfigurować
+maintain  |meɪnˈteɪn| - utrzymywać
+utilize  |ˈjuːtəlaɪz| - wykorzystywać
+
+
+
 
