@@ -31,9 +31,12 @@ There are plenty of ways to send notifications
 Now that the team is being notified when things are failing
 The most basic pipeline will have, at minimum, three stages which should be defined 
 This Guided Tour introduced you to the basics of using Jenkins]
-Was this page helpful?
+was this page helpful?
 if you wish to find out more about these core Jenkins features, refer to the relevant topics
 I was assuming I'd been pardoned. - myślałem
+it behaves the same as  - zachowuje się tak samo jak
+If your Dockerfile has another name, you can specify the file name with the filename option
+ou can pass additional arguments to the command
 
 the battery is fully charged - naładowana
 however, feel free to use a different day if that suits you better
