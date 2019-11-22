@@ -1,22 +1,35 @@
+cut off / truncate  |ˈtrʌŋkeɪt| - odciąć
+dash  |dæʃ| - pozioma kreska
+contact smb - skontaktować się
+words  |ˈwɝːdz|
+sail  |seɪl| - żeglować
+publish  |ˈpʌblɪʃ| - publikować
+length  |leŋθ| - długość
+at minimum - przynajmniej
+I failed  - nie powiodło mi się 
+since - z tego podowu że
+time unit - jednostka czasu
+to vote  |voʊt| - głosować
+the vote  |voʊt| - głos
+guide  |ɡaɪd| - przewodnik
+order  |ˈɔːrdər| - zamówienie
+deploy  |dɪˈplɔɪ| - wdrażać
 reply  |rɪˈplaɪ| - odpowiedź
+article  |ˈɑːrtɪkl| - artykuł
+advanced  |ədˈvænst| - zaawansowany
+retry, retries 
+failures  |ˈfeɪljəz| - błędy
+
+obtain  |əbˈteɪn| - otrzymać, uzyskać
+refuse to |rɪˈfjuːz| - odmawiać w
 dismiss  |dɪsˈmɪs| - odrzucić
 estimate  |ˈestɪmət| - oszacować
 abandon  |əˈbændən| - porzucić, zrezygnować
-advanced  |ədˈvænst| - zaawansowany
 advanced scripts
-deploy  |dɪˈplɔɪ| - wdrażać
 crucial  |ˈkruːʃl| - kluczowy
-order  |ˈɔːrdər| - zamówienie
 compose  |kəmˈpoʊz| - komponować, tworzyć
-guide  |ɡaɪd| - przewodnik
-sail  |seɪl| - żeglować
-the vote  |voʊt| - głos
-to vote  |voʊt| - głosować
 succeed  |səkˈsiːd| - powieść się, udać się
-time unit - jednostka czasu
 correspond  |ˌkɔːrəˈspɑːnd| - prowadzić korespondencję
-publish  |ˈpʌblɪʃ| - publikować
-retry, retries 
 it causes to happen - podowuje że się zdarza
 causes  |ˈkɑːzəz| - przyczyny
 queued  |kjuːd| - kolejkowane
@@ -24,27 +37,25 @@ practically  |ˈpræktɪkli| - praktycznie, niemal
 credentials - tożsamość
 denote (by yellow) |dɪˈnoʊt| - oznaczać 
 proceed  |proʊˈsiːd| - trwać, toczyć się
-failures  |ˈfeɪljəz| - błędy
+
 continue  |kənˈtɪnjuː| - kontynuować
 continues  |kənˈtɪnjuːz|
 continuing  |kənˈtɪnjuːɪŋ|
-since - z tego podowu że
-I failed  - nie powiodło mi się 
-plenty  |ˈplenti| - dużo, mnóstwo
+pass arguments to 
+utilize  |ˈjuːtəlaɪz| - wykorzystywać
+
 be failing  |ˈfeɪlɪŋ| - kraszować się 
-deployment  |dɪˈplɔɪmənt| - wdrożenie
-at minimum - przynajmniej
+assume - zakładać
+maintain  |meɪnˈteɪn| - utrzymywać
 readily  |ˈredɪli| - z łatwością
+plenty  |ˈplenti| - dużo, mnóstwo
+contribute  |kənˈtrɪbjuːt| - wnosić wkład
+deployment  |dɪˈplɔɪmənt| - wdrożenie
 proceed  |proʊˈsiːd| - kontyniować
 toggle  |ˈtɑːɡl| - przełącznik
 configure  |kənˈfɪɡjər| - konfigurować
-maintain  |meɪnˈteɪn| - utrzymywać
-utilize  |ˈjuːtəlaɪz| - wykorzystywać
-dash  |dæʃ| - pozioma kreska
 suite  |swiːt| - komplet
-slightly  |ˈslaɪtli| - trochę
-words  |ˈwɝːdz|
-pass arguments to 
+slightly  |ˈslaɪtli| = a bit - trochę
 automate  |ˈɔːtəmeɪt| - automatyczny
 pod - Strąk (legumen) – owoc pojedynczy, suchy pękający
 slave  |sleɪv| - niewolnik
@@ -55,6 +66,69 @@ disadvantage  |ˌdɪsədˈvæntɪdʒ| - minus
 essentially  |ɪˈsenʃəli| - w zasadzie
 rejoice  |rɪˈdʒɔɪs| - cieszyć się, radować się
 cluster  |ˈklʌstər| - grono, kiść
+confuse  |kənˈfjuːz| - mylić, nie rozróżniać
+expose  |ɪkˈspoʊz| - ujawniać, wywieszać
+complex  |kəmˈpleks| - złożony
+conjunction  |kənˈdʒʌŋkʃn| - połączenie
+retrieval  |rɪˈtriːvl| - odzyskanie
+delivered  |dəˈlɪvərd| - ostarczony
+supplied  |səˈplaɪd| - dostarczony
+snooze  |snuːz| - drzemka
+index - spis alfabetyczny
+accordance  |əˈkɔːrdns| - zgodność
+in accordance with - zgodnie z 
+proceed - kontynuować
+summary - strzeszczenie
+in fact - rzeczywistości
+per day - dzienne
+lock and unlock
+newly - najnowszy
+concern - dotyczyć
+employee - pracownik
+lose - stracić
+confluence of - połączenie czegoś
+accordingly  |əˈkɔːrdɪŋli| - odpowiednio, stosownie
+preliminary  |prɪˈlɪmɪneri| - wstępny
+agility  |əˈdʒɪləti| - zręczność, zwinność
+significantly  |sɪɡˈnɪfɪkəntli| - znacznie
+accelerate  |əkˈseləreɪt| - przyspieszać
+distinguish ... from ... |dɪˈstɪŋɡwɪʃ| - rozróżniać
+
+namely  |ˈneɪmli| - mianowicie
+timely  |ˈtaɪmli| - w tej chwili
+
+interact  |ˌɪntərˈækt| - utrzymywać stosunki
+fund  |fʌnd| - fundusz
+distribute  |dɪˈstrɪbjuːt| - rozprowadzić
+configure  |kənˈfɪɡjər| - konfiguracja
+privilege  |ˈprɪvəlɪdʒ| - przywilej
+privileges  |ˈprɪvlədʒəz| - przywileje
+grant - przyznać coś czymś
+pending  |ˈpendɪŋ| - toczący się
+recapture  |ˌriːˈkæptʃər| - odzyskać
+
+sgn in - zalogować się
+sign out - wylogować się
+log out - wylogować się
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
