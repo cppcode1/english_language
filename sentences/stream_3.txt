@@ -11,7 +11,7 @@ She refused to see him - odmówiła w
 Dismiss your fear - zwolnij się od?
 done successfully. no issues found
 I gave him my name
-'m basically happy with the default dark theme, but would like comments in code to stand out more. 
+I'm basically happy with the default dark theme, but would like comments in code to stand out more. 
 Distributed as regular order in the mid of the current quarter.
 You will receive the link for current quarter order soon
 Loading of the card is done at beginning of the second month of the quarter
@@ -25,31 +25,31 @@ Looks good to me, but someone else must approve
 due to the size of our local society we would like to offer you 3 options for joining us at hotel
 Cinema codes are sent via e-mail at the beginning of the second month of the quarter
 these cards are distributed just before the beginning of the quarter
-Please don’t forget to place your order before the deadline
+please don’t forget to place your order before the deadline
 Dear newcomers, please find the link to the short presentation 
 Then use the link received on your mailbox and fill the form. You can fill the form only once!
 after the deadline links still be active and order can be done, but the sport cards cannot be ordered for November timeframe
 then this line is considered as a comment and is ignored before interpreted
 Our mother's illness concerns us.
-This file causes the following build behavior
-Exclude files and directories whose names start with temp in any immediate subdirectory of the root
-Exclude files and directories starting with temp from any subdirectory that is two levels below the root
+this file causes the following build behavior
+exclude files and directories whose names start with temp in any immediate subdirectory of the root
+exclude files and directories starting with temp from any subdirectory that is two levels below the root
 Lines that are blank after preprocessing are ignored
 Lines starting with ! (exclamation mark) can be used to make exceptions to exclusions
 all markdown files except README.md are excluded from the context
 ARG is the only instruction that may precede FROM in the Dockerfile
-If you omit either of them, the builder assumes a latest tag by default
+if you omit either of them, the builder assumes a latest tag by default
 to achieve this, specify * as the first pattern, followed by one or more ! exception patterns
-The decision was consistent with the company's policy - zgodnie z 
-s typically used to address issues with variable names with no whitespace
-This helps to avoid unnecessarily sending large or sensitive files and directories to the daemon
-The FROM instruction specifies the Parent Image from which you are building
+the decision was consistent with the company's policy - zgodnie z 
+is typically used to address issues with variable names with no whitespace
+this helps to avoid unnecessarily sending large or sensitive files and directories to the daemon
+the FROM instruction specifies the Parent Image from which you are building
 Line continuation characters are not supported in comments.
-Therefore, all parser directives must be at the very top of a Dockerfile
-Treated as a comment due to appearing after a builder instruction
+therefore, all parser directives must be at the very top of a Dockerfile
+treated as a comment due to appearing after a builder instruction
 if not specified, the default escape character is \ (backslash)
-Note that regardless of whether the escape parser directive is included in a Dockerfile
-The escape character is used both to escape characters in a line, and to escape a newline
+note that regardless of whether the escape parser directive is included in a Dockerfile
+the escape character is used both to escape characters in a line, and to escape a newline
 Docker treats lines that begin with # as a comment, unless the line is a valid parser directive. 
 A # marker anywhere else in a line is treated as an argument. 
 Docker will re-use the cache, to accelerate the docker build process significantly.
@@ -81,7 +81,7 @@ all the steps in the Pipeline have successfully completed
 when a step fails to execute correctly the Pipeline will fail
 and then waits for up to 3 minutes for the script to execute
 If the health check script does not complete in 3 minutes, the Pipeline will be marked as having failed
-We can compose these steps together.
+we can compose these steps together - komponować
 These actions can be performed in the post section.
 This will run only if failed
 under the hood - pod maską

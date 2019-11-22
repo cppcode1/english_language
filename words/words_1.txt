@@ -1,3 +1,8 @@
+sign in - zalogować się
+sign out - wylogować się
+log out - wylogować się
+
+installed  |ˌɪnˈstɒld| - zainstalowany
 cut off / truncate  |ˈtrʌŋkeɪt| - odciąć
 dash  |dæʃ| - pozioma kreska
 contact smb - skontaktować się
@@ -19,23 +24,23 @@ article  |ˈɑːrtɪkl| - artykuł
 advanced  |ədˈvænst| - zaawansowany
 retry, retries 
 failures  |ˈfeɪljəz| - błędy
+advanced scripts
 
+causes  |ˈkɑːzəz| - przyczyny
+practically  |ˈpræktɪkli| - praktycznie, niemal
 obtain  |əbˈteɪn| - otrzymać, uzyskać
 refuse to |rɪˈfjuːz| - odmawiać w
 dismiss  |dɪsˈmɪs| - odrzucić
 estimate  |ˈestɪmət| - oszacować
 abandon  |əˈbændən| - porzucić, zrezygnować
-advanced scripts
 crucial  |ˈkruːʃl| - kluczowy
 compose  |kəmˈpoʊz| - komponować, tworzyć
 succeed  |səkˈsiːd| - powieść się, udać się
 correspond  |ˌkɔːrəˈspɑːnd| - prowadzić korespondencję
 it causes to happen - podowuje że się zdarza
-causes  |ˈkɑːzəz| - przyczyny
 queued  |kjuːd| - kolejkowane
-practically  |ˈpræktɪkli| - praktycznie, niemal
-credentials - tożsamość
-denote (by yellow) |dɪˈnoʊt| - oznaczać 
+credentials |krəˈdenʃlz| - tożsamość
+denote (by yellow) |dɪˈnoʊt| - oznaczać czymś
 proceed  |proʊˈsiːd| - trwać, toczyć się
 
 continue  |kənˈtɪnjuː| - kontynuować
@@ -57,6 +62,7 @@ configure  |kənˈfɪɡjər| - konfigurować
 suite  |swiːt| - komplet
 slightly  |ˈslaɪtli| = a bit - trochę
 automate  |ˈɔːtəmeɪt| - automatyczny
+cluster  |ˈklʌstər| - grono, kiść
 pod - Strąk (legumen) – owoc pojedynczy, suchy pękający
 slave  |sleɪv| - niewolnik
 thief  |θiːf| - złodziej
@@ -65,7 +71,6 @@ replicas  |ˈrepləkəz| - kopie
 disadvantage  |ˌdɪsədˈvæntɪdʒ| - minus
 essentially  |ɪˈsenʃəli| - w zasadzie
 rejoice  |rɪˈdʒɔɪs| - cieszyć się, radować się
-cluster  |ˈklʌstər| - grono, kiść
 confuse  |kənˈfjuːz| - mylić, nie rozróżniać
 expose  |ɪkˈspoʊz| - ujawniać, wywieszać
 complex  |kəmˈpleks| - złożony
@@ -106,10 +111,9 @@ privileges  |ˈprɪvlədʒəz| - przywileje
 grant - przyznać coś czymś
 pending  |ˈpendɪŋ| - toczący się
 recapture  |ˌriːˈkæptʃər| - odzyskać
+compose  |kəmˈpoʊz| - komponować, tworzyć
 
-sgn in - zalogować się
-sign out - wylogować się
-log out - wylogować się
+
 
 
 
