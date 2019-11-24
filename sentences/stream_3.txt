@@ -1,50 +1,50 @@
 APPLICATION FOR GRANTING THE TEMPORARY RESIDENCE PERMIT TO A FOREIGNER
 I assume his train was late - zakładam, że jego pociąg się spóźnił
-They abandoned their attempt (próba) to recapture the castle.
-How do you utilize this tool? - jak korzystać z tego narzędzia? 
-We must utilize all the tools at our disposal.
-As a child, Angela was abandoned by her mother
-The captain gave the order to abandon |əˈbændən| ship
-That house was abandoned |əˈbændənd| years ago
+they abandoned (upuścili) their attempt (próba) to recapture the castle.
+how do you utilize this tool? - jak korzystać z tego narzędzia? 
+we must utilize all the tools at our disposal
+as a child, Angela was abandoned by her mother
+the captain gave the order to abandon |əˈbændən| ship
+that house was abandoned |əˈbændənd| years ago
 I don't think he's going to abandon his friend in trouble - porzucić/zostawić
-She refused to see him - odmówiła w 
-Dismiss your fear - zwolnij się od?
+she refused to see him - odmówiła w 
+dismiss your fear - uwolnij się od?
 done successfully. no issues found
 I gave him my name
-I'm basically happy with the default dark theme, but would like comments in code to stand out more. 
-Distributed as regular order in the mid of the current quarter.
-You will receive the link for current quarter order soon
-Loading of the card is done at beginning of the second month of the quarter
+I'm basically happy with the default dark theme, but would like comments in code to stand out more. - odroznic sie
+distributed as regular order in the mid of the current quarter - wydawana
+you will receive the link for current quarter order soon
+loading of the card is done at beginning of the second month of the quarter
 cards can be used not only in all bookstores 
 but also to buy tickets for all the cultural events 
-which take place in cinemas, theatres, operas and museums as well as to pay
+which take place in cinemas, theatres, operas and museums as well as to pay - odbywają się
 for the entrance to the sport centres such as Aquapark, etc
 Each person employed at the Company on the basis of an employment contract 
-Who is entitled to use the Fund?
-Looks good to me, but someone else must approve
+who is entitled to use the Fund?
+Looks good to me, but someone else must approve - potwierdzić
 due to the size of our local society we would like to offer you 3 options for joining us at hotel
-Cinema codes are sent via e-mail at the beginning of the second month of the quarter
+cinema codes are sent via e-mail at the beginning of the second month of the quarter
 these cards are distributed just before the beginning of the quarter
 please don’t forget to place your order before the deadline
 Dear newcomers, please find the link to the short presentation 
 Then use the link received on your mailbox and fill the form. You can fill the form only once!
 after the deadline links still be active and order can be done, but the sport cards cannot be ordered for November timeframe
 then this line is considered as a comment and is ignored before interpreted
-Our mother's illness concerns us.
+our mother's illness concerns us
 this file causes the following build behavior
 exclude files and directories whose names start with temp in any immediate subdirectory of the root
 exclude files and directories starting with temp from any subdirectory that is two levels below the root
 Lines that are blank after preprocessing are ignored
 Lines starting with ! (exclamation mark) can be used to make exceptions to exclusions
 all markdown files except README.md are excluded from the context
-ARG is the only instruction that may precede FROM in the Dockerfile
+ARG is the only instruction that may precede FROM in the Dockerfile - poprzedzać
 if you omit either of them, the builder assumes a latest tag by default
 to achieve this, specify * as the first pattern, followed by one or more ! exception patterns
 the decision was consistent with the company's policy - zgodnie z 
 is typically used to address issues with variable names with no whitespace
 this helps to avoid unnecessarily sending large or sensitive files and directories to the daemon
 the FROM instruction specifies the Parent Image from which you are building
-Line continuation characters are not supported in comments.
+line continuation characters are not supported in comments
 therefore, all parser directives must be at the very top of a Dockerfile
 treated as a comment due to appearing after a builder instruction
 if not specified, the default escape character is \ (backslash)
@@ -56,17 +56,17 @@ Docker will re-use the cache, to accelerate the docker build process significant
 The problem concerns |kənˈsɝːnz| us all.
 The Docker daemon runs the instructions in the Dockerfile one-by-one
 as it causes the build to transfer the entire contents of your hard drive to the Docker daemon
-Her ill health concerns me.
+her ill health concerns me.
 it performs a preliminary validation of the Dockerfile and returns an error if the syntax is incorrect
 if a download fails due to a network problem, it will keep retrying until the whole file has been retrieved
 is a free utility for non-interactive download of files from the Web
 Long options are more convenient to remember, but take time to type
-You may freely mix different option styles
+you may freely mix different option styles
 If you use -c on a non-empty file, and the server does not support continued downloading ...
-The space between the option accepting an argument and the argument may be omitted
-The same happens when the file is smaller on the server than locally
-This behavior can be desirable in certain cases
-nother instance where you'll get a garbled file if you try to use -c is if you have a lame HTTP proxy
+the space between the option accepting an argument and the argument may be omitted
+the same happens when the file is smaller on the server than locally
+This behavior can be desirable (porządany) in certain cases
+another instance where you'll get a garbled file if you try to use -c is if you have a lame HTTP proxy
 Server support for continued download is required, otherwise --start-pos cannot help
 Wget will assume that it is the first portion of the remote file
 if there is a file named ls-lR.Z in the current directory
@@ -79,7 +79,7 @@ Think of a "step" like a single command which performs a single action
 when a step succeeds it moves onto the next step - powiódł się 
 all the steps in the Pipeline have successfully completed
 when a step fails to execute correctly the Pipeline will fail
-and then waits for up to 3 minutes for the script to execute
+and then waits for up to (do) 3 minutes for the script to execute
 If the health check script does not complete in 3 minutes, the Pipeline will be marked as having failed
 we can compose these steps together - komponować
 These actions can be performed in the post section.
@@ -94,21 +94,21 @@ and execute the defined steps within it
 most people don’t want to sift through thousands of lines of console output to find information about failing tests
 A Pipeline that has failing tests will be marked as "UNSTABLE", 
 That is distinct from the "FAILED" state, denoted by red. - to się odróznia od
-t is often useful to grab built artifacts from Jenkins
+it is often useful to grab built artifacts from Jenkins
 This is easily done with the archiveArtifacts step, as is demonstrated in the example below
 we’ll talk about how to tell those members of the team what’s been happening in our Pipeline
-Since the post section of a Pipeline is guaranteed to run at the end of a Pipeline’s execution, 
+Since the post section of a Pipeline is guaranteed to run at the end of a Pipeline’s execution 
 we can add some notification or other steps to perform finalization
 There are plenty of ways to send notifications
 Now that the team is being notified when things are failing
 The most basic pipeline will have, at minimum, three stages which should be defined 
-This Guided Tour introduced you to the basics of using Jenkins]
+This Guided Tour introduced you to the basics of using Jenkins
 was this page helpful?
 if you wish to find out more about these core Jenkins features, refer to the relevant topics
-I was assuming I'd been pardoned. - myślałem
+I was assuming I'd been pardoned. - zakladalem
 it behaves the same as  - zachowuje się tak samo jak
 If your Dockerfile has another name, you can specify the file name with the filename option
-ou can pass additional arguments to the command
+you can pass additional arguments to the command
 it's a litte complex
 
 the battery is fully charged - naładowana
