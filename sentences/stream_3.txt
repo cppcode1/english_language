@@ -260,3 +260,12 @@ you can add echo statements before each command of which you are unsure
 I am unsure - nie jestem pewny
 so that you will see exactly where and why things don't work - tak aby 
 In more advanced scripts, the echo can be inserted to display the content of variables at different stages in the script, so that flaws can be detected
+so googletest tests can work with a variety of configurations
+When tests fail, they should provide as much information about the problem as possible
+Thus, you can detect and fix multiple bugs in a single run-edit-compile cycle.
+Since googletest is based on the popular xUnit architecture, you'll feel right at home
+googletest assertions are macros that resemble function calls
+
+
+
+
