@@ -1,20 +1,19 @@
 sign in - zalogować się
 sign out - wylogować się
 log out - wylogować się
-
 resign  |rɪˈzaɪn| - rezygnować
-failure  |ˈfeɪljər| - niepowodzenie, awaria
-failures  |ˈfeɪljəz| - błędy
+failure  |ˈfeɪljər| - niepowodzenie
+failures  |ˈfeɪljəz| - niepowodzenia
+I failed  - nie powiodło mi się 
 installed  |ˌɪnˈstɒld| - zainstalowany
 cut off / truncate  |ˈtrʌŋkeɪt| - odciąć
 dash  |dæʃ| - pozioma kreska
-contact smb - skontaktować się
+contact smb - skontaktować się z
 words  |ˈwɝːdz|
 sail  |seɪl| - żeglować (statek)
 publish  |ˈpʌblɪʃ| - publikować
 length  |leŋθ| - długość
 at minimum - przynajmniej
-I failed  - nie powiodło mi się 
 since - z tego powodu że
 time unit - jednostka czasu
 to vote  |voʊt| - głosować
@@ -29,18 +28,29 @@ advanced scripts
 retry, retries 
 maintain  |meɪnˈteɪn| - utrzymywać
 causes  |ˈkɑːzəz| - przyczyny
+issue  |ˈɪʃuː| - kwestia, sprawa, problem
 ***********************************************
 
-it succeeds  |səkˈsiːdz| - powiodło się
+clone into
+summary - strzeszczenie
+fund  |fʌnd| - fundusz
+succeed  |səkˈsiːd| - powieść się
+plenty  |ˈplenti| - mnóstwo
+in fact - w rzeczywistości
+essentially  |ɪˈsenʃəli| - w zasadzie
+timely  |ˈtaɪmli| - w tej chwili
 practically  |ˈpræktɪkli| - praktycznie, niemal
-obtain  |əbˈteɪn| - otrzymać, uzyskać
+utilize  |ˈjuːtəlaɪz| - wykorzystywać
+it succeeds  |səkˈsiːdz| - powiodło się
+obtain  |əbˈteɪn| - uzyskać
 refuse to |rɪˈfjuːz| - odmawiać w
-dismiss  |dɪsˈmɪs| - odrzucić
 estimate  |ˈestɪmət| - oszacować
-abandon  |əˈbændən| - porzucić, zrezygnować
+abandon  |əˈbændən| - porzucić
+readily  |ˈredɪli| - z łatwością
 crucial  |ˈkruːʃl| - kluczowy
 compose  |kəmˈpoʊz| - komponować, tworzyć
-succeed  |səkˈsiːd| - powieść się, udać się
+succeed  |səkˈsiːd| - powieść się
+it succeeded  |səkˈsiːdəd| - powiodło się
 correspond  |ˌkɔːrəˈspɑːnd| - prowadzić korespondencję
 it causes to happen - podowuje że się zdarza
 queued  |kjuːd| - kolejkowane
@@ -51,13 +61,8 @@ continue  |kənˈtɪnjuː| - kontynuować
 continues  |kənˈtɪnjuːz|
 continuing  |kənˈtɪnjuːɪŋ|
 pass arguments to 
-utilize  |ˈjuːtəlaɪz| - wykorzystywać
-clone into
 be failing  |ˈfeɪlɪŋ| - kraszować się 
 assume - zakładać
-maintain  |meɪnˈteɪn| - utrzymywać
-readily  |ˈredɪli| - z łatwością
-plenty  |ˈplenti| - dużo, mnóstwo
 contribute  |kənˈtrɪbjuːt| - wnosić wkład
 deployment  |dɪˈplɔɪmənt| - wdrożenie
 proceed  |proʊˈsiːd| - kontyniować
@@ -67,13 +72,12 @@ suite  |swiːt| - komplet
 slightly  |ˈslaɪtli| = a bit - trochę
 automate  |ˈɔːtəmeɪt| - automatyczny
 cluster  |ˈklʌstər| - grono, kiść
-pod - Strąk (legumen) – owoc pojedynczy, suchy pękający
+pod - strąk / owoc pojedynczy, suchy pękający
 slave  |sleɪv| - niewolnik
 thief  |θiːf| - złodziej
 replica  |ˈreplɪkə| - kopia
 replicas  |ˈrepləkəz| - kopie
 disadvantage  |ˌdɪsədˈvæntɪdʒ| - minus
-essentially  |ɪˈsenʃəli| - w zasadzie
 rejoice  |rɪˈdʒɔɪs| - cieszyć się, radować się
 confuse  |kənˈfjuːz| - mylić, nie rozróżniać
 expose  |ɪkˈspoʊz| - ujawniać, wywieszać
@@ -86,9 +90,7 @@ snooze  |snuːz| - drzemka
 index - spis alfabetyczny
 accordance  |əˈkɔːrdns| - zgodność
 in accordance with - zgodnie z 
-proceed - kontynuować
-summary - strzeszczenie
-in fact - rzeczywistości
+proceed |proʊˈsiːd| - kontynuować (działanie)
 per day - dzienne
 lock and unlock
 newly - najnowszy
@@ -102,13 +104,10 @@ agility  |əˈdʒɪləti| - zręczność, zwinność
 significantly  |sɪɡˈnɪfɪkəntli| - znacznie
 accelerate  |əkˈseləreɪt| - przyspieszać
 distinguish ... from ... |dɪˈstɪŋɡwɪʃ| - rozróżniać
-
 namely  |ˈneɪmli| - mianowicie
-timely  |ˈtaɪmli| - w tej chwili
-
-succeed  |səkˈsiːd| - powieść się
+dismiss  |dɪsˈmɪs| - odrzucić
+discard / reject  |rɪˈdʒekt| - odrzucać
 interact  |ˌɪntərˈækt| - utrzymywać stosunki
-fund  |fʌnd| - fundusz
 distribute  |dɪˈstrɪbjuːt| - rozprowadzić
 configure  |kənˈfɪɡjər| - konfiguracja
 privilege  |ˈprɪvəlɪdʒ| - przywilej
@@ -130,8 +129,8 @@ corresponds to - jest odpowiednikiem do
 commonly  |ˈkɑːmənli| - powszechnie
 assert  |əˈsɜːrt| - stwierdzać
 assertion  |əˈsɜːrʃn| - twierdzenie
-resemble  |rɪˈzembl| - być podobnym do, przypominać
-yield  |jiːld| - dawac (w efekcie)
+resemble  |rɪˈzembl| - być podobnym do
+yield  |jiːld| - dawać (w efekcie)
 followed by - a następnie
 comment  |ˈkɑːment| - komentarz
 further  |ˈfɜːrðər| - późniejszy
@@ -142,9 +141,12 @@ conference  |ˈkɑːnfərəns| - konferencja
 fair  |fer| - targ
 approval  |əˈpruːvl| - zatwierdzenie, zgoda
 expense  |ɪkˈspens| - koszt
-reject  |rɪˈdʒekt| - odrzucać
 command  |kəˈmænd| - polecenie
 determine  |dɪˈtɜːrmɪn| - określać
+patch  |pætʃ| - łata (fragment materiału przyszyty do tkaniny)
+given - określony
+certain  |ˈsɜːrtn| - określony
+
 
 
 

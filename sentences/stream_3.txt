@@ -266,6 +266,7 @@ Thus, you can detect and fix multiple bugs in a single run-edit-compile cycle.
 Since googletest is based on the popular xUnit architecture, you'll feel right at home
 googletest assertions are macros that resemble function calls
 is submitted to queue
+You've been mentioned in this issue
 
 
 
