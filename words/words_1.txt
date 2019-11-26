@@ -1,3 +1,5 @@
+assert  |əˈsɜːrt| - stwierdzać
+assertion  |əˈsɜːrʃn| - twierdzenie
 sign in - zalogować się
 sign out - wylogować się
 log out - wylogować się
@@ -19,7 +21,7 @@ time unit - jednostka czasu
 to vote  |voʊt| - głosować
 the vote  |voʊt| - głos
 guide  |ɡaɪd| - przewodnik
-order  |ˈɔːrdər| - zamówienie
+the order  |ˈɔːrdər| - zamówienie
 deploy  |dɪˈplɔɪ| - wdrażać
 the reply  |rɪˈplaɪ| - odpowiedź
 article  |ˈɑːrtɪkl| - artykuł
@@ -31,6 +33,8 @@ causes  |ˈkɑːzəz| - przyczyny
 issue  |ˈɪʃuː| - kwestia, sprawa, problem
 ***********************************************
 
+perfectly  |ˈpɜːrfɪktli| - doskonale
+actualize  |ˈæktʃuəlaɪz| - aktualizować
 clone into
 summary - strzeszczenie
 fund  |fʌnd| - fundusz
@@ -127,8 +131,6 @@ confusion  |kənˈfjuːʒn| - niejasność
 whereas  |ˌwerˈæz| - podczas gdy
 corresponds to - jest odpowiednikiem do 
 commonly  |ˈkɑːmənli| - powszechnie
-assert  |əˈsɜːrt| - stwierdzać
-assertion  |əˈsɜːrʃn| - twierdzenie
 resemble  |rɪˈzembl| - być podobnym do
 yield  |jiːld| - dawać (w efekcie)
 followed by - a następnie
@@ -139,7 +141,8 @@ implement  |ˈɪmplɪment| - wprowadzić w czyn
 proper  |ˈprɑːpər| - prawidłowy
 conference  |ˈkɑːnfərəns| - konferencja
 fair  |fer| - targ
-approval  |əˈpruːvl| - zatwierdzenie, zgoda
+approve  |əˈpruːv| - zatwierdzać
+approval  |əˈpruːvl| - zatwierdzenie
 expense  |ɪkˈspens| - koszt
 command  |kəˈmænd| - polecenie
 determine  |dɪˈtɜːrmɪn| - określać
