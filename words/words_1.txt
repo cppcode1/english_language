@@ -31,6 +31,7 @@ maintain  |meɪnˈteɪn| - utrzymywać
 causes  |ˈkɑːzəz| - przyczyny
 ***********************************************
 
+it succeeds  |səkˈsiːdz| - powiodło się
 practically  |ˈpræktɪkli| - praktycznie, niemal
 obtain  |əbˈteɪn| - otrzymać, uzyskać
 refuse to |rɪˈfjuːz| - odmawiać w
@@ -141,6 +142,11 @@ conference  |ˈkɑːnfərəns| - konferencja
 fair  |fer| - targ
 approval  |əˈpruːvl| - zatwierdzenie, zgoda
 expense  |ɪkˈspens| - koszt
+reject  |rɪˈdʒekt| - odrzucać
+command  |kəˈmænd| - polecenie
+determine  |dɪˈtɜːrmɪn| - określać
+
+
 
 
 
