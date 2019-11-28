@@ -1,3 +1,8 @@
+abort  |əˈbɔːrt| - przerwać
+missing  |ˈmɪsɪŋ| - brakujący
+the missing file
+occur |əˈkɜːr| - wydarzyć się
+occurred  |əˈkɝːd| - wydarzyło się
 assert  |əˈsɜːrt| - stwierdzać
 assertion  |əˈsɜːrʃn| - twierdzenie
 sign in - zalogować się
@@ -6,6 +11,8 @@ log out - wylogować się
 resign  |rɪˈzaɪn| - rezygnować
 failure  |ˈfeɪljər| - niepowodzenie
 failures  |ˈfeɪljəz| - niepowodzenia
+fatal  |ˈfeɪtl| - śmiertelny
+fatal failure
 I failed  - nie powiodło mi się 
 installed  |ˌɪnˈstɒld| - zainstalowany
 cut off / truncate  |ˈtrʌŋkeɪt| - odciąć
@@ -23,6 +30,7 @@ the vote  |voʊt| - głos
 guide  |ɡaɪd| - przewodnik
 the order  |ˈɔːrdər| - zamówienie
 deploy  |dɪˈplɔɪ| - wdrażać
+deployment  |dɪˈplɔɪmənt| - wdrożenie
 the reply  |rɪˈplaɪ| - odpowiedź
 article  |ˈɑːrtɪkl| - artykuł
 advanced  |ədˈvænst| - zaawansowany
@@ -31,8 +39,21 @@ retry, retries
 maintain  |meɪnˈteɪn| - utrzymywać
 causes  |ˈkɑːzəz| - przyczyny
 issue  |ˈɪʃuː| - kwestia, sprawa, problem
+achieve  |əˈtʃiːv| - osiągać
+achievement  |əˈtʃiːvmənt| - osiągnięcie
+achieved  |əˈtʃiːvd| - osiągnął
 ***********************************************
 
+tear down - zniszczyć, zburzyć (np. dom)
+guess - domyślić się
+you have probebly guessed
+ in other words - innymi słowy
+empty - opróżnić (kosz)
+utilize  |ˈjuːtəlaɪz| - wykorzystywać
+bin - pojemnik na śmiecie
+given - określony
+certain  |ˈsɜːrtn| - określony
+yield  |jiːld| - dawać (w efekcie)
 perfectly  |ˈpɜːrfɪktli| - doskonale
 actualize  |ˈæktʃuəlaɪz| - aktualizować
 clone into
@@ -42,22 +63,21 @@ succeed  |səkˈsiːd| - powieść się
 plenty  |ˈplenti| - mnóstwo
 in fact - w rzeczywistości
 essentially  |ɪˈsenʃəli| - w zasadzie
-timely  |ˈtaɪmli| - w tej chwili
+timely  |ˈtaɪmli| - na czas
 practically  |ˈpræktɪkli| - praktycznie, niemal
-utilize  |ˈjuːtəlaɪz| - wykorzystywać
-it succeeds  |səkˈsiːdz| - powiodło się
+succeed  |səkˈsiːd| - powieść się
+it succeeds  |səkˈsiːdz| - powodzi się
 obtain  |əbˈteɪn| - uzyskać
 refuse to |rɪˈfjuːz| - odmawiać w
 estimate  |ˈestɪmət| - oszacować
 abandon  |əˈbændən| - porzucić
 readily  |ˈredɪli| - z łatwością
 crucial  |ˈkruːʃl| - kluczowy
-compose  |kəmˈpoʊz| - komponować, tworzyć
-succeed  |səkˈsiːd| - powieść się
+compose  |kəmˈpoʊz| - komponować
 it succeeded  |səkˈsiːdəd| - powiodło się
 correspond  |ˌkɔːrəˈspɑːnd| - prowadzić korespondencję
 it causes to happen - podowuje że się zdarza
-queued  |kjuːd| - kolejkowane
+queued  |kjuːd| - kolejkowany
 credentials |krəˈdenʃlz| - tożsamość
 denote (by yellow) |dɪˈnoʊt| - oznaczać czymś
 proceed  |proʊˈsiːd| - trwać, toczyć się
@@ -68,14 +88,13 @@ pass arguments to
 be failing  |ˈfeɪlɪŋ| - kraszować się 
 assume - zakładać
 contribute  |kənˈtrɪbjuːt| - wnosić wkład
-deployment  |dɪˈplɔɪmənt| - wdrożenie
 proceed  |proʊˈsiːd| - kontyniować
 toggle  |ˈtɑːɡl| - przełącznik
 configure  |kənˈfɪɡjər| - konfigurować
 suite  |swiːt| - komplet
 slightly  |ˈslaɪtli| = a bit - trochę
 automate  |ˈɔːtəmeɪt| - automatyczny
-cluster  |ˈklʌstər| - grono, kiść
+cluster  |ˈklʌstər| - kiść
 pod - strąk / owoc pojedynczy, suchy pękający
 slave  |sleɪv| - niewolnik
 thief  |θiːf| - złodziej
@@ -131,8 +150,7 @@ confusion  |kənˈfjuːʒn| - niejasność
 whereas  |ˌwerˈæz| - podczas gdy
 corresponds to - jest odpowiednikiem do 
 commonly  |ˈkɑːmənli| - powszechnie
-resemble  |rɪˈzembl| - być podobnym do
-yield  |jiːld| - dawać (w efekcie)
+resemble smth |rɪˈzembl| - być podobnym do
 followed by - a następnie
 comment  |ˈkɑːment| - komentarz
 further  |ˈfɜːrðər| - późniejszy
@@ -145,10 +163,36 @@ approve  |əˈpruːv| - zatwierdzać
 approval  |əˈpruːvl| - zatwierdzenie
 expense  |ɪkˈspens| - koszt
 command  |kəˈmænd| - polecenie
+comment  |ˈkɑːment| - komentarz
 determine  |dɪˈtɜːrmɪn| - określać
 patch  |pætʃ| - łata (fragment materiału przyszyty do tkaniny)
-given - określony
-certain  |ˈsɜːrtn| - określony
+commitment  |kəˈmɪtmənt| - zobowiązanie
+discontinue  |ˌdɪskənˈtɪnjuː| - zaprzestać, zakończyć działalność
+assess  |əˈses| - oceniać
+particular  |pərˈtɪkjələr| - konkretny
+return from |rɪˈtɜːrn| - wrócić z 
+returned from |rəˈtɝːnd| - wrócił z
+questions  |ˈkwestʃənz| - pytania
+in this particular case - w tym przypadku
+suitable  |ˈsuːtəbl| - pasujący
+for all of you - dla każdego z was
+corresponding  |ˌkɔːrəˈspɑːndɪŋ| - odpowiedni
+attempt  |əˈtempt| - próbować
+evaluate  |ɪˈvæljueɪt| - oceniać
+rounding  |ˈraʊndɪŋ| - okrąglenie liczby
+in the same way - tak samo
+the same - ten sam
+do you mind? - nie masz nic przeciwko?
+remind me later - przypomnij mi później
+ordinary  |ˈɔːrdneri| - zwykły
+along with - wraz z 
+determine  |dɪˈtɜːrmɪn| - określać
+handle - uchwyt
+
+
+
+
+
 
 
 
