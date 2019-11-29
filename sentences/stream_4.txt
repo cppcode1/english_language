@@ -1,102 +1,100 @@
-how are we going to do that?
-it's time to create our own
-could you repeat that, please?
-you can't mave in untill you rent it
-our plane took out with a small delay
-take out the wallet from the left pocket
-you would have to take out a rubbush every other day
-she wants to take some money out from a cashmashine
-do you have a reason to change it? yes, I do
-where to? - dokąd?
+sorry. I am late
+thank for calling
 who to? - do kogo?
 what for? - po co?
+is that all right?
+where to? - dokąd?
+it's a half past two
+it's a litte complex
+He lied about his age
+close without saveing
+is submitted to queue
+welcome to the meeting
+was this page helpful?
+it's a quarter past one
+she is worried and angry
+so please stay tuned - ?
+how many ... do you have?
+can you tell me the time?
+she is happy and he is sad
+it's time to create our own
+when were you a tour guide?
+don't let this confuse you!
+how are we going to do that?
+we agree with you completely
+it's a quarter to two - 13:45
+I'll meet you twenty past ten
+it is your turn - twoja kolej
+could you repeat that, please?
+it was at who twenty jesterday
+he's very late and she's angry
+I am unsure - nie jestem pewny
+would you have some lunch now?
+what do I do? - co mam zrobić?
+what's the time? it's 2 o'clock
+the two values are almost equal
+what do you do? I'm a taxi driver
+that's correct - to jest poprawne
+we need to dereference the pointer
+what did he die of? - na co umarł?
+I dropped her somewhere about there
+what did you do? I was a tour guide
+for all of you - dla każdego z was
+maybe you think it is too much work
+they belong to the same test suite 
+you've been mentioned in this issue
+you can't mave in untill you rent it
+when's the meeting? at half past ten
+you are early - jesteś za wcześnie
+You must not ignore the return value
+our plane took out with a small delay
+I'll call him and make an appointment
+the object is destructed - zniszczony
+vectors x and y are of unequal length
+what do you do? - czym się zajmujesz?
+the meeting is at ten ten this morning
+they check whether a condition is true
+It didn't exactly turn out as I planned
+it doesn't make sense - to nie ma sensu
+take out the wallet from the left pocket
+it turned out that - stało się tak że
+she's waiting for her husband. he's late
+are you satisfied? - jesteś zadowolony?
+I can't. I have to go to the supermarket
+remind me later - przypomnij mi później
+who did you sta with? - z kim mieszkałes?
+who are you writing to? - do kogo piszesz?
+I'm really worried |ˈwɜːrid| about Jack
+the battery is fully charged - naładowana
+This is mainly useful inside template code
+who is the letter from? - od kogo ten list?
+to assert that types T1 and T2 are the same
+arguments are always evaluated exactly once
+do you have a reason to change it? yes, I do
 who did you speak to? - z kim rozmawiałeś?
 who are you waiting for? - na kogo czekasz? 
 who does he work for? - dla kogo on pracuje?
-who are you thinking about? - o kim myślisz?
-who did you sta with? - z kim mieszkałes?
-who does the pen belong to? - do kogo należy?
-who is the letter from? - od kogo ten list?
-what did he die of? - na co umarł?
-what are you worried about? - o co się martwisz?
-who are you writing to? - do kogo piszesz?
-as a rule of thumb |θʌm|  - z reguły (wielki palec)
-it turned out that - stało się tak że
-He turned out an excellent actor - on okazał się
-The thing about talk shows is that you never know how they will turn out.
-I dropped her somewhere about there
-I'm really worried |ˈwɜːrid| about Jack
-It didn't exactly turn out as I planned
-reply to someone else or start a new conversation
-if you take the first step, everything will turn out just fine
-what do I do? - co mam zrobić?
-what do you do? - czym się zajmujesz?
-what do you do? I'm a taxi driver
-what did you do? I was a tour guide
-when were you a tour guide?
-how many ... do you have?
-can you tell me the time?
-what's the time? it's 2 o'clock
-it's a quarter past one
-it's a half past two
-it's a quarter to two - 13:45
-when's the meeting? at half past ten
-I'll meet you twenty past ten
-it was at who twenty jesterday
-welcome to the meeting
-she is happy and he is sad
-she is worried and angry
-sorry. I am late
-he's very late and she's angry
-the meeting is at ten ten this morning
-you are early - jesteś za wcześnie
-she's waiting for her husband. he's late
-your flight leaves at twelve tomorrow evening
-when does the train leave? at quarter to three
-my card is not here. I'll go and get it after lunch
-I'll call him and make an appointment
-I left my card in your shop. I thought I lost it.
-thank for calling
-can you come and get it? I'll come at half past two
-I was assuming I'd been pardoned. - zakladalem
-you can pass additional arguments to the command
-it's a litte complex
-the battery is fully charged - naładowana
-was this page helpful?
-He lied about his age
-how often does it occur? |əˈkɜːr| - jak często to się wydarza?
-remind me later - przypomnij mi później
-for all of you - dla każdego z was
-it is your turn - twoja kolej
-are you satisfied? - jesteś zadowolony?
-you have probably guessed - domyśliłeś się
 I exited |ˈeksɪtɪd| through a side window
-the two values are almost equal
-If the types are different, the function call will fail
-to assert that types T1 and T2 are the same
-so please stay tuned - ?
-I am unsure - nie jestem pewny
-the object is destructed - zniszczony
-This is mainly useful inside template code
-close without saveing
+who are you thinking about? - o kim myślisz?
+your flight leaves at twelve tomorrow evening
+who does the pen belong to? - do kogo należy?
+when does the train leave? at quarter to three
+I was assuming I'd been pardoned. - zakladalem
+you have probably guessed - domyśliłeś się
+you can pass additional arguments to the command
 do it or the flags won't be properly initialized
-maybe you think it is too much work
-we agree with you completely
-if they are not enough for + ing - jeśli ich nie wystarczy
-they belong to the same test suite 
-don't let this confuse you!
-it doesn't make sense - to nie ma sensu
-we need to dereference the pointer
-You must not ignore the return value
-is submitted to queue
-you've been mentioned in this issue
-they check whether a condition is true
-vectors x and y are of unequal length
-arguments are always evaluated exactly once
-that's correct - to jest poprawne
-is that all right?
-I can't. I have to go to the supermarket
-would you have some lunch now?
 I'll have some lunch first - zjem najpierw obiad
-
-
+what are you worried about? - o co się martwisz?
+reply to someone else or start a new conversation
+I left my card in your shop. I thought I lost it.
+He turned out an excellent actor - on okazał się
+she wants to take some money out from a cashmashine
+my card is not here. I'll go and get it after lunch
+can you come and get it? I'll come at half past two
+you would have to take out a rubbush every other day
+as a rule of thumb |θʌm|  - z reguły (wielki palec)
+If the types are different, the function call will fail
+if they are not enough for + ing - jeśli ich nie wystarczy
+if you take the first step, everything will turn out just fine
+how often does it occur? |əˈkɜːr| - jak często to się wydarza?
+The thing about talk shows is that you never know how they will turn out.
