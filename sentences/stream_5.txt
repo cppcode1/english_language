@@ -1,3 +1,29 @@
+it is your turn - twoja kolej
+the two values are almost equal
+If the types are different, the function call will fail
+to assert that types T1 and T2 are the same
+so please stay tuned - ?
+I am unsure - nie jestem pewny
+the object is destructed - zniszczony
+This is mainly useful inside template code
+close without saveing
+do it or the flags won't be properly initialized
+maybe you think it is too much work
+we agree with you completely
+if they are not enough for + ing - jeśli ich nie wystarczy
+they belong to the same test suite 
+don't let this confuse you!
+it doesn't make sense - to nie ma sensu
+we need to dereference the pointer
+You must not ignore the return value
+If you find the default message |ˈmesɪdʒ| unsatisfactory
+the code will be called right/shortly before the destructor
+You can remove any or all of the  them if their bodies would be empty
+is submitted to queue
+you've been mentioned in this issue
+they check whether a condition is true
+vectors x and y are of unequal length
+arguments are always evaluated exactly once
 that's correct - to jest poprawne
 is that all right?
 I can't. I have to go to the supermarket
@@ -37,42 +63,35 @@ how much is it to ... street?
 I'm sorry. I don't have anything smaller
 when does the restaurant open?
 I wish I could play the piano
-competence in English is opens doors to international communication
-they discover for themseves how English works
-there is a letter for you. who's it from? it's from Ken - od kogo to?
-Are you sure you want to continue connecting?
-Are you staying on the territory of the Republic of Poland?
 All required fields should be filled in.
-close without saveing
+Are you sure you want to continue connecting?
+they discover for themseves how English works
+The function does nothing if the assertion is satisfied (zadowalające)
+If you do not specify a time unit, hour will be assumed
+so googletest tests can work with a variety of configurations
+googletest assertions are macros that resemble function calls
+Inside the class, declare any objects you plan to use.
+other than what's already done by the destructor
+you don't have to re-list all your defined tests in order to run them
+are you staying on the territory of the Republic of Poland?
+competence in English is opens doors to international communication
+there is a letter for you. who's it from? it's from Ken - od kogo to?
 Information about scope and costs of each option is provided below
-If you do not specify a time unit, hour will be assumed. s
-If you wish to enroll to Medical Care Program for the first time please follow these instructions
-Time Spent - the amount of time logged working on the issue so far or while performing this JIRA operation.
-When things don't go according to plan, you need to determine what exactly causes the script to fail
-Using the set Bash built-in you can run in normal mode those portions of the script of which you are sure they are without fault
 and display debugging information only for troublesome zones
 !Say we are not sure what the w command will do in the example
-You can switch debugging mode on and off as many times as you want within the same script
 The dash is used to activate a shell option and a plus to deactivate it. 
-Don't let this confuse you!
 In the example below, we demonstrate these options on the command line
 you can add echo statements before each command of which you are unsure
-I am unsure - nie jestem pewny
 so that you will see exactly where and why things don't work - tak aby 
-In more advanced scripts, the echo can be inserted to display the content of variables at different stages in the script, so that flaws can be detected
-so googletest tests can work with a variety of configurations
-When tests fail, they should provide as much information about the problem as possible
 Thus, you can detect and fix multiple bugs in a single run-edit-compile cycle.
-since googletest is based on the popular xUnit architecture, you'll feel right at home
-googletest assertions are macros that resemble function calls
-is submitted to queue
-you've been mentioned in this issue
-they check whether a condition is true
-vectors x and y are of unequal length
-arguments are always evaluated exactly once
+When tests fail, they should provide as much information about the problem as possible
 if any assertion in the test fails, the entire test fails. Otherwise, it succeeds
-they belong to the same test suite 
-!if you find yourself writing two or more tests that operate on similar data, you can use a test fixture
-Inside the class, declare any objects you plan to use.
 In this case, TearDown() is not needed since we don't have to clean up after each test
-other than what's already done by the destructor.
+since googletest is based on the popular xUnit architecture, you'll feel right at home
+You can switch debugging mode on and off as many times as you want within the same script
+If you wish to enroll to Medical Care Program for the first time please follow these instructions
+When things don't go according to plan, you need to determine what exactly causes the script to fail
+Time Spent - the amount of time logged working on the issue so far or while performing this JIRA operation.
+Using the set Bash built-in you can run in normal mode those portions of the script of which you are sure they are without fault
+In more advanced scripts, the echo can be inserted to display the content of variables at different stages in the script, so that flaws can be detected
+!if you find yourself writing two or more tests that operate on similar data, you can use a test fixture
