@@ -1,33 +1,5 @@
-we can add some notification or other steps to perform finalization
-There are plenty of ways to send notifications
-Now that the team is being notified when things are failing
-The most basic pipeline will have, at minimum, three stages which should be defined 
-This Guided Tour introduced you to the basics of using Jenkins
-was this page helpful?
-if you wish to find out more about these core Jenkins features, refer to the relevant topics
-I was assuming I'd been pardoned. - zakladalem
-it behaves the same as  - zachowuje się tak samo jak
-If your Dockerfile has another name, you can specify the file name with the filename option
-you can pass additional arguments to the command
-it's a litte complex
-the battery is fully charged - naładowana
-however, feel free to use a different day if that suits you better
-If the list for particular day is full, we will disable the option in the form
-it turned out that - stało się tak że
-He turned out an excellent actor - on okazał się
-The thing about talk shows is that you never know how they will turn out.
-He lied about his age
-I dropped her somewhere about there
-I'm really worried |ˈwɜːrid| about Jack
-It didn't exactly turn out as I planned
-reply to someone else or start a new conversation
-if you take the first step, everything will turn out just fine
-what do I do? - co mam zrobić?
-what do you do? - czym się zajmujesz?
-what do you do? I'm a taxi driver
-what did you do? I was a tour guide
-when were you a tour guide?
-how many ... do you have?
+how are we going to do that?
+it's time to create our own
 could you repeat that, please?
 you can't mave in untill you rent it
 our plane took out with a small delay
@@ -49,53 +21,82 @@ what did he die of? - na co umarł?
 what are you worried about? - o co się martwisz?
 who are you writing to? - do kogo piszesz?
 as a rule of thumb |θʌm|  - z reguły (wielki palec)
-lastly, you can also delete images that you no longer need by running
-You can think of the registry as a directory of all available Docker images
-The first thing we're going to look at is how we can run a dead-simple static website
-since our application is written in Python, the base image we're going to use will be Python 3
-!since the image doesn't exist locally, the client will first fetch the image from the registry and then run the image
-Okay now that the server is running, how to see the website? What port is it running on?
-And more importantly, how do we access the container directly from our host machine? Hit Ctrl+C to stop the container.
-the client is not exposing any ports so we need to re-run the docker to publish ports
-and asked the Docker client to run a container based on that image
-it's time to create our own
-As mentioned above, all user images are based on a base image
-How are we going to do that?
-It's a simple way to automate the image creation process
-The best part is that - najlepsze jest to że
-This means you don't really have to learn new syntax to create your own dockerfiles.
-If everything went well, your image should be ready
-Run docker images and see if your image shows.
-Head over to the URL with port 8888, where your app should be live.
-What good is an application that can't be shared with friends, right? 
-There are many different Docker registries you can use (you can even host your own).
-Provide the same credentials that you used for logging into Docker Hub.
-Once that is done, you can view your image on Docker Hub
-One thing that I'd like to clarify before we go ahead is that ...
-If you don’t want to preface the docker command with sudo, create a Unix group called docker
-The most memorable command to list all groups a user is a member of is the groups command
-we recommend you keep the default key name unless you have a reason to change it
+it turned out that - stało się tak że
+He turned out an excellent actor - on okazał się
+The thing about talk shows is that you never know how they will turn out.
+I dropped her somewhere about there
+I'm really worried |ˈwɜːrid| about Jack
+It didn't exactly turn out as I planned
+reply to someone else or start a new conversation
+if you take the first step, everything will turn out just fine
+what do I do? - co mam zrobić?
+what do you do? - czym się zajmujesz?
+what do you do? I'm a taxi driver
+what did you do? I was a tour guide
+when were you a tour guide?
+how many ... do you have?
 can you tell me the time?
 what's the time? it's 2 o'clock
 it's a quarter past one
 it's a half past two
 it's a quarter to two - 13:45
 when's the meeting? at half past ten
-when does the train leave? at quarter to three
 I'll meet you twenty past ten
 it was at who twenty jesterday
-the meeting is at ten ten this morning
 welcome to the meeting
-your flight leaves at twelve tomorrow evening
 she is happy and he is sad
 she is worried and angry
 sorry. I am late
+he's very late and she's angry
+the meeting is at ten ten this morning
 you are early - jesteś za wcześnie
 she's waiting for her husband. he's late
-he's very late and she's angry
+your flight leaves at twelve tomorrow evening
+when does the train leave? at quarter to three
 my card is not here. I'll go and get it after lunch
 I'll call him and make an appointment
 I left my card in your shop. I thought I lost it.
 thank for calling
 can you come and get it? I'll come at half past two
+I was assuming I'd been pardoned. - zakladalem
+you can pass additional arguments to the command
+it's a litte complex
+the battery is fully charged - naładowana
+was this page helpful?
+He lied about his age
+how often does it occur? |əˈkɜːr| - jak często to się wydarza?
+remind me later - przypomnij mi później
+for all of you - dla każdego z was
+it is your turn - twoja kolej
+are you satisfied? - jesteś zadowolony?
+you have probably guessed - domyśliłeś się
+I exited |ˈeksɪtɪd| through a side window
+the two values are almost equal
+If the types are different, the function call will fail
+to assert that types T1 and T2 are the same
+so please stay tuned - ?
+I am unsure - nie jestem pewny
+the object is destructed - zniszczony
+This is mainly useful inside template code
+close without saveing
+do it or the flags won't be properly initialized
+maybe you think it is too much work
+we agree with you completely
+if they are not enough for + ing - jeśli ich nie wystarczy
+they belong to the same test suite 
+don't let this confuse you!
+it doesn't make sense - to nie ma sensu
+we need to dereference the pointer
+You must not ignore the return value
+is submitted to queue
+you've been mentioned in this issue
+they check whether a condition is true
+vectors x and y are of unequal length
+arguments are always evaluated exactly once
+that's correct - to jest poprawne
+is that all right?
+I can't. I have to go to the supermarket
+would you have some lunch now?
+I'll have some lunch first - zjem najpierw obiad
+
 

@@ -1,3 +1,9 @@
+be failing  |ˈfeɪlɪŋ| - kraszować się 
+readily  |ˈredɪli| - z łatwością
+between  |bɪˈtwiːn| - pomiędzy
+succeed  |səkˈsiːd| - powieść się
+it succeeds  |səkˈsiːdz| - powodzi się
+it succeeded  |səkˈsiːdəd| - powiodło się
 abort  |əˈbɔːrt| - przerwać
 missing  |ˈmɪsɪŋ| - brakujący
 the missing file
@@ -40,9 +46,20 @@ maintain  |meɪnˈteɪn| - utrzymywać
 causes  |ˈkɑːzəz| - przyczyny
 issue  |ˈɪʃuː| - kwestia, sprawa, problem
 achieve  |əˈtʃiːv| - osiągać
-achievement  |əˈtʃiːvmənt| - osiągnięcie
 achieved  |əˈtʃiːvd| - osiągnął
+achievement  |əˈtʃiːvmənt| - osiągnięcie
 ***********************************************
+continue  |kənˈtɪnjuː| - kontynuować
+continues  |kənˈtɪnjuːz|
+continuing  |kənˈtɪnjuːɪŋ|
+continued  |kənˈtɪnjuːd|
+handle - uchwyt
+pass arguments to 
+bright  |braɪt| - jaskrawy
+brightness  |ˈbraɪtnəs| - jasność
+actualize  |ˈæktʃuəlaɪz| - aktualizować
+plenty  |ˈplenti| - mnóstwo
+entry  |ˈentri| - wpis
 exited  |ˈeksɪtɪd| - wyszedł
 verbose  |vɜːrˈboʊs| - gadatliwy
 satisfied  |ˈsætɪsfaɪd| - zadowolony
@@ -52,51 +69,41 @@ unsatisfactory  - niezadowalający
 stay tuned - следите за новостями
 verify  |ˈverɪfaɪ| - weryfikować
 verifying  |ˈverəˌfaɪɪŋ|
-in favor of - na korzyść
+in favor of |ˈfeɪvər| - na korzyść
 unlike with - w przeciwieństwie do
-reveal  |rɪˈviːl| - ujawnić
+in contrast to - w przeciwieństwie do
 tear down - zniszczyć, zburzyć (np. dom)
 guess - domyślić się
 you have probably guessed - domyśliłeś się
 in other words - innymi słowy
-empty - opróżnić (kosz)
+yield  |jiːld| - dawać (w efekcie)
 utilize  |ˈjuːtəlaɪz| - wykorzystywać
+to empty - opróżnić (kosz)
 bin - pojemnik na śmiecie
 given - określony
 certain  |ˈsɜːrtn| - określony
-yield  |jiːld| - dawać (w efekcie)
+be certain - być pewnym
 perfectly  |ˈpɜːrfɪktli| - doskonale
-actualize  |ˈæktʃuəlaɪz| - aktualizować
 clone into
 summary - strzeszczenie
 fund  |fʌnd| - fundusz
-succeed  |səkˈsiːd| - powieść się
-plenty  |ˈplenti| - mnóstwo
 in fact - w rzeczywistości
 essentially  |ɪˈsenʃəli| - w zasadzie
 timely  |ˈtaɪmli| - na czas
 practically  |ˈpræktɪkli| - praktycznie, niemal
-succeed  |səkˈsiːd| - powieść się
-it succeeds  |səkˈsiːdz| - powodzi się
+cluster  |ˈklʌstər| - kiść
 obtain  |əbˈteɪn| - uzyskać
+compose  |kəmˈpoʊz| - komponować
 refuse to |rɪˈfjuːz| - odmawiać w
 estimate  |ˈestɪmət| - oszacować
 abandon  |əˈbændən| - porzucić
-readily  |ˈredɪli| - z łatwością
 crucial  |ˈkruːʃl| - kluczowy
-compose  |kəmˈpoʊz| - komponować
-it succeeded  |səkˈsiːdəd| - powiodło się
 correspond  |ˌkɔːrəˈspɑːnd| - prowadzić korespondencję
 it causes to happen - podowuje że się zdarza
 queued  |kjuːd| - kolejkowany
 credentials |krəˈdenʃlz| - tożsamość
 denote (by yellow) |dɪˈnoʊt| - oznaczać czymś
 proceed  |proʊˈsiːd| - trwać, toczyć się
-continue  |kənˈtɪnjuː| - kontynuować
-continues  |kənˈtɪnjuːz|
-continuing  |kənˈtɪnjuːɪŋ|
-pass arguments to 
-be failing  |ˈfeɪlɪŋ| - kraszować się 
 assume - zakładać
 contribute  |kənˈtrɪbjuːt| - wnosić wkład
 proceed  |proʊˈsiːd| - kontyniować
@@ -105,7 +112,6 @@ configure  |kənˈfɪɡjər| - konfigurować
 suite  |swiːt| - komplet
 slightly  |ˈslaɪtli| = a bit - trochę
 automate  |ˈɔːtəmeɪt| - automatyczny
-cluster  |ˈklʌstər| - kiść
 pod - strąk / owoc pojedynczy, suchy pękający
 slave  |sleɪv| - niewolnik
 thief  |θiːf| - złodziej
@@ -186,19 +192,20 @@ returned from |rəˈtɝːnd| - wrócił z
 questions  |ˈkwestʃənz| - pytania
 in this particular case - w tym przypadku
 suitable  |ˈsuːtəbl| - pasujący
+remind me later - przypomnij mi później
 for all of you - dla każdego z was
 corresponding  |ˌkɔːrəˈspɑːndɪŋ| - odpowiedni
 attempt  |əˈtempt| - próbować
 evaluate  |ɪˈvæljueɪt| - oceniać
 rounding  |ˈraʊndɪŋ| - okrąglenie liczby
-in the same way - tak samo
 the same - ten sam
+in the same way - tak samo
 do you mind? - nie masz nic przeciwko?
-remind me later - przypomnij mi później
+determine  |dɪˈtɜːrmɪn| - określać
 ordinary  |ˈɔːrdneri| - zwykły
 along with - wraz z 
-determine  |dɪˈtɜːrmɪn| - określać
-handle - uchwyt
+reveal  |rɪˈviːl| - ujawnić
+as a rule of thumb |θʌm|  - z reguły 
 
 
 
