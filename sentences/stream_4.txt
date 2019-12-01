@@ -1,32 +1,33 @@
+checked
 sorry. I am late
-thank for calling
+thank you for calling
 who to? - do kogo?
 what for? - po co?
 is that all right?
 where to? - dokąd?
 it's a half past two
 it's a litte complex
-He lied about his age
-close without saveing
-is submitted to queue
+he lied about his age
+close without saving
+it is submitted (składać do) to queue
 welcome to the meeting
 was this page helpful?
 it's a quarter past one
 she is worried and angry
-so please stay tuned - ?
+so please stay tuned - zostańcie z nami
 how many ... do you have?
 can you tell me the time?
 she is happy and he is sad
 it's time to create our own
 when were you a tour guide?
-don't let this confuse you!
+don't let this confuse you! - zmylić
 how are we going to do that?
 we agree with you completely
 it's a quarter to two - 13:45
 I'll meet you twenty past ten
 it is your turn - twoja kolej
 could you repeat that, please?
-it was at who twenty jesterday
+it was at two twenty yesterday
 he's very late and she's angry
 I am unsure - nie jestem pewny
 would you have some lunch now?
@@ -43,18 +44,18 @@ for all of you - dla każdego z was
 maybe you think it is too much work
 they belong to the same test suite 
 you've been mentioned in this issue
-you can't mave in untill you rent it
+you can't have it until you rent it
 when's the meeting? at half past ten
 you are early - jesteś za wcześnie
-You must not ignore the return value
-our plane took out with a small delay
+you must not ignore the return value
+our plane took off with a small delay
 I'll call him and make an appointment
 the object is destructed - zniszczony
 vectors x and y are of unequal length
 what do you do? - czym się zajmujesz?
 the meeting is at ten ten this morning
 they check whether a condition is true
-It didn't exactly turn out as I planned
+it didn't exactly turn out as I planned
 it doesn't make sense - to nie ma sensu
 take out the wallet from the left pocket
 it turned out that - stało się tak że
@@ -62,14 +63,14 @@ she's waiting for her husband. he's late
 are you satisfied? - jesteś zadowolony?
 I can't. I have to go to the supermarket
 remind me later - przypomnij mi później
-who did you sta with? - z kim mieszkałes?
+who did you stay with? - z kim mieszkałes?
 who are you writing to? - do kogo piszesz?
 I'm really worried |ˈwɜːrid| about Jack
 the battery is fully charged - naładowana
-This is mainly useful inside template code
+this is mainly useful inside template code
 who is the letter from? - od kogo ten list?
 to assert that types T1 and T2 are the same
-arguments are always evaluated exactly once
+arguments are always evaluated exactly once - oszacowywanie
 do you have a reason to change it? yes, I do
 who did you speak to? - z kim rozmawiałeś?
 who are you waiting for? - na kogo czekasz? 
@@ -86,12 +87,12 @@ do it or the flags won't be properly initialized
 I'll have some lunch first - zjem najpierw obiad
 what are you worried about? - o co się martwisz?
 reply to someone else or start a new conversation
-I left my card in your shop. I thought I lost it.
-He turned out an excellent actor - on okazał się
+I left my card in your shop. I thought I lost it
+he turned out an excellent actor - on okazał się
 she wants to take some money out from a cashmashine
 my card is not here. I'll go and get it after lunch
 can you come and get it? I'll come at half past two
-you would have to take out a rubbush every other day
+you would have to take out a rubbish every other day
 as a rule of thumb |θʌm|  - z reguły (wielki palec)
 If the types are different, the function call will fail
 if they are not enough for + ing - jeśli ich nie wystarczy
