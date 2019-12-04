@@ -1,16 +1,25 @@
-be failing  |ˈfeɪlɪŋ| - kraszować się 
+continue  |kənˈtɪnjuː| - kontynuować
+continues  |kənˈtɪnjuːz|
+continuing  |kənˈtɪnjuːɪŋ|
+continued  |kənˈtɪnjuːd|
 readily  |ˈredɪli| - z łatwością
+feedback  |ˈfiːdbæk| - odzew
+assert  |əˈsɜːrt| - stwierdzać
+assertion  |əˈsɜːrʃn| - twierdzenie
+trash  |træʃ| - chłam
+be failing  |ˈfeɪlɪŋ| - kraszować się 
+helm  |helm| - ster (pod spodem u statka, kieruje nim)
 between  |bɪˈtwiːn| - pomiędzy
 succeed  |səkˈsiːd| - powieść się
 it succeeds  |səkˈsiːdz| - powodzi się
 it succeeded  |səkˈsiːdəd| - powiodło się
 abort  |əˈbɔːrt| - przerwać
+terminate  |ˈtɜːrmeɪt| - zakończyć
 missing  |ˈmɪsɪŋ| - brakujący
 the missing file
 occur |əˈkɜːr| - wydarzyć się
 occurred  |əˈkɝːd| - wydarzyło się
-assert  |əˈsɜːrt| - stwierdzać
-assertion  |əˈsɜːrʃn| - twierdzenie
+how often does it occur?
 sign in - zalogować się
 sign out - wylogować się
 log out - wylogować się
@@ -22,38 +31,46 @@ fatal failure
 I failed  - nie powiodło mi się 
 installed  |ˌɪnˈstɒld| - zainstalowany
 cut off / truncate  |ˈtrʌŋkeɪt| - odciąć
+split  |splɪt| - rozdzielić
 dash  |dæʃ| - pozioma kreska
 contact smb - skontaktować się z
 words  |ˈwɝːdz|
 sail  |seɪl| - żeglować (statek)
 publish  |ˈpʌblɪʃ| - publikować
 length  |leŋθ| - długość
+high  |haɪ| - wysokość
+width  |wɪdθ| - szerokość
 at minimum - przynajmniej
 since - z tego powodu że
 time unit - jednostka czasu
 to vote  |voʊt| - głosować
 the vote  |voʊt| - głos
 guide  |ɡaɪd| - przewodnik
+manual  |ˈmænjuəl| - instrukcja
 the order  |ˈɔːrdər| - zamówienie
 deploy  |dɪˈplɔɪ| - wdrażać
 deployment  |dɪˈplɔɪmənt| - wdrożenie
+deployer - wdrożający
 the reply  |rɪˈplaɪ| - odpowiedź
 article  |ˈɑːrtɪkl| - artykuł
+intermediate  |ˌɪntərˈmiːdiət| - środkowy
 advanced  |ədˈvænst| - zaawansowany
 advanced scripts
 retry, retries 
 maintain  |meɪnˈteɪn| - utrzymywać
+cause  |kɔːz| - przyczyna
 causes  |ˈkɑːzəz| - przyczyny
 issue  |ˈɪʃuː| - kwestia, sprawa, problem
 achieve  |əˈtʃiːv| - osiągać
 achieved  |əˈtʃiːvd| - osiągnął
 achievement  |əˈtʃiːvmənt| - osiągnięcie
+secure  |səˈkjʊr| - bezpieczny
+garbage  |ˈɡɑːrbɪdʒ| -  [am.] śmieci
+lose - stracić
+laboratory  |ˈlæbrətɔːri| - laboratorium
+remind me later - przypomnij mi później
 ***********************************************
 process  |ˈprɑːses| - przetwarzać (plik) (zmieniać, nadając inne właściwości) /  przekształcać
-continue  |kənˈtɪnjuː| - kontynuować
-continues  |kənˈtɪnjuːz|
-continuing  |kənˈtɪnjuːɪŋ|
-continued  |kənˈtɪnjuːd|
 handle - uchwyt
 pass arguments to 
 bright  |braɪt| - jaskrawy
@@ -137,7 +154,6 @@ lock and unlock
 newly - najnowszy
 concern - dotyczyć
 employee - pracownik
-lose - stracić
 confluence of - połączenie czegoś
 accordingly  |əˈkɔːrdɪŋli| - odpowiednio, stosownie
 preliminary  |prɪˈlɪmɪneri| - wstępny
@@ -149,6 +165,7 @@ namely  |ˈneɪmli| - mianowicie
 dismiss  |dɪsˈmɪs| - odrzucić
 discard / reject  |rɪˈdʒekt| - odrzucać
 interact  |ˌɪntərˈækt| - utrzymywać stosunki
+appliance  |əˈplaɪəns| - urządzenie
 distribute  |dɪˈstrɪbjuːt| - rozprowadzić
 configure  |kənˈfɪɡjər| - konfiguracja
 privilege  |ˈprɪvəlɪdʒ| - przywilej
@@ -193,7 +210,6 @@ returned from |rəˈtɝːnd| - wrócił z
 questions  |ˈkwestʃənz| - pytania
 in this particular case - w tym przypadku
 suitable  |ˈsuːtəbl| - pasujący
-remind me later - przypomnij mi później
 for all of you - dla każdego z was
 corresponding  |ˌkɔːrəˈspɑːndɪŋ| - odpowiedni
 attempt  |əˈtempt| - próbować
@@ -207,6 +223,16 @@ ordinary  |ˈɔːrdneri| - zwykły
 along with - wraz z 
 reveal  |rɪˈviːl| - ujawnić
 as a rule of thumb |θʌm|  - z reguły 
+chart  |tʃɑːrt| - wykres
+node  |noʊd| - węzeł
+substitute  |ˈsʌbstɪtuːt| - zastępować
+superior  |suːˈpɪriər| - przełożyny
+supervisor  |ˈsuːpərvaɪzər| - kierownik, nadzorca
+amount  |əˈmaʊnt| - ilość
+pass - zdać (np. egzamin)
+passed - zdałem
+
+
 
 
 
