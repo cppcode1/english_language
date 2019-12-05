@@ -1,10 +1,25 @@
+further  |ˈfɜːrðər| - dodatkowy
+with - za pomocą
+suppress  |səˈpres| - stłumić
+be prefixed - poprzedzić coś czymś
+consist of |kənˈsɪst| - składać się (z)
+typically  |ˈtɪpɪkli| - zwykle
+letter - literka
+lowercase letters
+issue -  opublikować (jakiś tekst)
+file located on the file system
+recognize  |ˈrekəɡnaɪz| - rozpoznać, uznać za
+recognizing  |ˈrekəgˌnaɪzɪŋ| - uznawać
+recognized  |ˈrekəgˌnaɪzd| - uznany za
+repeatedly  |rɪˈpiːtɪdli| - wielokrotnie
+
 ten tips for a successful meeting
 be well prepared
-a good plan can singnificantly reducethe lenth of any meeting
+a good plan can singnificantly reduce the length of any meeting
 write the purpose of the meeting in the invitation agenda
-invite only the necessary people
+invite only the necessary |ˈnesəseri| people
 make sure that you allow due time to obtain all the information you need ahead of the meeting
-be concise and specific and statementstry not to use the phone or laptop
+try not to use the phone or laptop
 just focus on the meeting
 not all guests to attend the entire meeting
 those who no longer need may leave early
@@ -12,13 +27,14 @@ don't be late for a meeting
 always create a summary of the meeting
 the issue is still there - problem jest nadal tu
 this chapter intoduces the bash command
-this chapter demonstrates essential basic commands
+this chapter demonstrates essential (podstawowe) basic commands
+the issue with the missing file has been resolved |rɪˈzɑːlvd|
+here's what changed in this issue in the last few minutes
 if you have comments, please let me know
-Let your team know what you want to achieve
+let your team know what you want to achieve
 you can see its version information
-Beware Unix is case-sensitive so commands must use only lowercase letters
-Now, issue a clear command (or press Ctrl + L keys) to clear the terminal screen
-Here's what changed in this issue in the last few minutes
+beware (uwaga)! Unix is case-sensitive so commands must use only lowercase letters
+now, issue a clear command (or press Ctrl + L keys) to clear the terminal screen
 Type whoami then hit Return to see your user name
 Finally issue an exit command (or press Ctrl + D keys) to end the session
 This should respond with the directory location of the Bash program
@@ -30,16 +46,16 @@ The interpreter next examines the first token to see if it is one of the command
 or an executable program located on the file system
 Don't Forget. Each Unix program can accept standard input
 it searches through the directories on a specified path to find a program of that name
-The Bash type command can be used to determine whether a token is recognized as a built-in shell command
+The Bash 'type' command can be used to determine whether a token is recognized as a built-in shell command
 it can display a message if none can be found
 there are files on the file system
-type type clear then hit Return to see the location of the clear program
-type type exit then hit Return to discover that exit is in fact a built-in shell command
+type 'type clear' then hit Return to see the location of the 'clear' program
+type 'type exit' then hit Return to discover that exit is in fact a built-in shell command
 this token cannot be found
-it then prints them unless they are recognized as a command “option”
+it prints them unless they are recognized as a command “option”
 Many built-in commands and programs accept one or more options
 options specify how the programs should be executed (wykonywane)
-Typically, an option consists of a dash followed by a letter
+Typically (zazwyczaj), an option consists of a dash followed by a letter
 there is a dash followed by a letter
 type "echo -n" to see that text printed with an added newline
 type echo -n followed by some text - przed jakimś tekstem
@@ -101,19 +117,5 @@ A Terminal window can be cleared using the clear command
 Standard input can be printed on standard output using the shell built-in echo command
 
 
-further  |ˈfɜːrðər| - dodatkowy
-with - za pomocą
-suppress  |səˈpres| - stłumić
-be prefixed - poprzedzić coś czymś
-consist of |kənˈsɪst| - składać się (z)
-typically  |ˈtɪpɪkli| - zwykle
-letter - literka
-lowercase letters
-issue -  opublikować (jakiś tekst)
-file located on the file system
-recognize  |ˈrekəɡnaɪz| - rozpoznać, uznać za
-recognizing  |ˈrekəgˌnaɪzɪŋ| - uznawać
-recognized  |ˈrekəgˌnaɪzd| - uznany za
-repeatedly  |rɪˈpiːtɪdli| - wielokrotnie
 
 
