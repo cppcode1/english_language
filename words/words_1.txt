@@ -1,3 +1,8 @@
+replica  |ˈreplɪkə| - kopia
+replicas  |ˈrepləkəz| - kopie
+exam  |ɪɡˈzæm| - egzamin
+pass (the exam) - zdać (np. egzamin)
+passed - zdałem
 continue  |kənˈtɪnjuː| - kontynuować
 continues  |kənˈtɪnjuːz|
 continuing  |kənˈtɪnjuːɪŋ|
@@ -62,20 +67,28 @@ cause  |kɔːz| - przyczyna
 causes  |ˈkɑːzəz| - przyczyny
 issue  |ˈɪʃuː| - kwestia, sprawa, problem
 achieve  |əˈtʃiːv| - osiągać
-achieved  |əˈtʃiːvd| - osiągnął
+achieved  |əˈtʃiːvd| - osiągnąłem
 achievement  |əˈtʃiːvmənt| - osiągnięcie
 secure  |səˈkjʊr| - bezpieczny
 garbage  |ˈɡɑːrbɪdʒ| -  [am.] śmieci
 lose - stracić
 laboratory  |ˈlæbrətɔːri| - laboratorium
 remind me later - przypomnij mi później
+deprecate |ˈdeprəkeɪt| - uznawać za niewłaściwe
 ***********************************************
+agenda  |əˈdʒendə| - ustalony plan jakiegoś spotkania
+major  |ˈmeɪdʒər| - ważny, znaczny
+velocity  |vəˈlɑːsəti| - prędkość
+bourne  |ˈbɔːrn| - urodzony
+essential  |ɪˈsenʃl| - podstawowy, zasadniczy
+chapter  |ˈtʃæptər| - rozdział (książki)
+configure  |kənˈfɪɡjər| - konfigurować
+actualize  |ˈæktʃuəlaɪz| - aktualizować
+pass arguments to - przekazać
 process  |ˈprɑːses| - przetwarzać (plik) (zmieniać, nadając inne właściwości) /  przekształcać
 handle - uchwyt
-pass arguments to 
 bright  |braɪt| - jaskrawy
 brightness  |ˈbraɪtnəs| - jasność
-actualize  |ˈæktʃuəlaɪz| - aktualizować
 plenty  |ˈplenti| - mnóstwo
 entry  |ˈentri| - wpis
 exited  |ˈeksɪtɪd| - wyszedł
@@ -92,12 +105,13 @@ unlike with - w przeciwieństwie do
 in contrast to - w przeciwieństwie do
 tear down - zniszczyć, zburzyć (np. dom)
 guess - domyślić się
+probably  |ˈprɑːbəbli| - prawdopodobnie
 you have probably guessed - domyśliłeś się
 in other words - innymi słowy
 yield  |jiːld| - dawać (w efekcie)
 utilize  |ˈjuːtəlaɪz| - wykorzystywać
 to empty - opróżnić (kosz)
-bin - pojemnik na śmiecie
+(dust)bin - pojemnik na śmiecie
 given - określony
 certain  |ˈsɜːrtn| - określony
 be certain - być pewnym
@@ -121,20 +135,16 @@ it causes to happen - podowuje że się zdarza
 queued  |kjuːd| - kolejkowany
 credentials |krəˈdenʃlz| - tożsamość
 denote (by yellow) |dɪˈnoʊt| - oznaczać czymś
-proceed  |proʊˈsiːd| - trwać, toczyć się
+proceed  |proʊˈsiːd| - trwać, toczyć się, kontyniować
 assume - zakładać
 contribute  |kənˈtrɪbjuːt| - wnosić wkład
-proceed  |proʊˈsiːd| - kontyniować
 toggle  |ˈtɑːɡl| - przełącznik
-configure  |kənˈfɪɡjər| - konfigurować
 suite  |swiːt| - komplet
 slightly  |ˈslaɪtli| = a bit - trochę
 automate  |ˈɔːtəmeɪt| - automatyczny
 pod - strąk / owoc pojedynczy, suchy pękający
 slave  |sleɪv| - niewolnik
 thief  |θiːf| - złodziej
-replica  |ˈreplɪkə| - kopia
-replicas  |ˈrepləkəz| - kopie
 disadvantage  |ˌdɪsədˈvæntɪdʒ| - minus
 rejoice  |rɪˈdʒɔɪs| - cieszyć się, radować się
 confuse  |kənˈfjuːz| - mylić, nie rozróżniać
@@ -229,9 +239,7 @@ substitute  |ˈsʌbstɪtuːt| - zastępować
 superior  |suːˈpɪriər| - przełożyny
 supervisor  |ˈsuːpərvaɪzər| - kierownik, nadzorca
 amount  |əˈmaʊnt| - ilość
-pass - zdać (np. egzamin)
-passed - zdałem
-
+hyphen  |ˈhaɪfn| - pozioma kreska
 
 
 

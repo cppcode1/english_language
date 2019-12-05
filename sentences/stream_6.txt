@@ -1,0 +1,118 @@
+ten tips for a successful meeting
+be well prepareda good plan can singnificantly reducethe lenth of any meeting
+write the purpose of the meeting in the invitation agenda
+invite only the necessary people
+make sure that you allow due time to obtain all the information you need ahead of the meeting
+be concise and specific and statementstry not to use the phone or laptop
+just focus on the meeting
+not all guests to attend the entire meeting
+those who no longer need may leave early
+don't be late for a meeting
+always create a summary of the meeting
+the issue is still there - problem jest nadal tu
+this chapter intoduces the bash command
+this chapter demonstrates essential basic commands
+if you have comments, please let me know
+Let your team know what you want to achieve
+you can see its version information
+Beware Unix is case-sensitive so commands must use only lowercase letters
+Now, issue a clear command (or press Ctrl + L keys) to clear the terminal screen
+Here's what changed in this issue in the last few minutes
+Type whoami then hit Return to see your user name
+Finally issue an exit command (or press Ctrl + D keys) to end the session
+This should respond with the directory location of the Bash program
+user hits the Return key after typing a command at a shell prompt
+it adds a final invisible newline character
+and then splits it into separate words broken by spaces or tabs
+Each of these words is known as a “token”
+The interpreter next examines the first token to see if it is one of the commands
+or an executable program located on the file system
+Don't Forget. Each Unix program can accept standard input
+it searches through the directories on a specified path to find a program of that name
+The Bash type command can be used to determine whether a token is recognized as a built-in shell command
+it can display a message if none can be found
+there are files on the file system
+type type clear then hit Return to see the location of the clear program
+type type exit then hit Return to discover that exit is in fact a built-in shell command
+this token cannot be found
+it then prints them unless they are recognized as a command “option”
+Many built-in commands and programs accept one or more options
+options specify how the programs should be executed (wykonywane)
+Typically, an option consists of a dash followed by a letter
+there is a dash followed by a letter
+type "echo -n" to see that text printed with an added newline
+type echo -n followed by some text - przed jakimś tekstem
+that text printed without an added newline
+These are named “containers” that each store a piece of information - one są nazywane
+their names use all uppercase characters
+To access the information stored within a variable its name must be prefixed with a $ dollar sign
+You will often want to suppress the automatic newline when printing a request for user input
+please, issue any command
+the shell will search directories to find your program's location
+You can also use this command to discover which directories it searches when you issue any command
+you can always list the contents of any directory with the ls command
+type it to see the absolute path address of your location
+type ls then hit Return to see the contents of the current directory
+specify the relative address of a nested sub-directory to the ls command
+type pwd then hit Return to confirm the absolute path address of that new location
+type cd .. then hit Return to move to the parent directory
+type cd ~ then hit Return to go back to your home directory
+You can also use this command to return to the previous directory you were located in
+this command will list all files and folders in the current or specified directory
+it will list files except (z wyjątkiem) special hidden files
+typically the system files are hidden
+Hidden files can be included in the list displayed by the ls command by adding -a option
+If you wish to delete a directory remember that it may contain hidden files
+Optionally, a filename pattern can be supplied to the ls command
+it will list only filenames matching the specified pattern
+Special “wildcard” characters, described in the table below
+the wildcard can be used to specify the filename pattern to be matched
+The ? wildcard is used to print filenames out where only one single character may be unknown
+the * wildcard is used to specify a pattern that matches filenames where multiple characters may be unknown
+Placing an exclamation mark at the start of a set pattern lists files not matched.
+You can include a hyphen in the set pattern by placing it first or last in the list within the square brackets
+that command can produce the error message
+there is no such file or directory
+Type ls at the prompt then hit Return to see all unhidden files
+there are the unhidden files in the current working directory
+type it to see all files named “doc” that have a single-letter file extension
+type it to see all files of any name that have a “.c” file extension
+there are no matches (dopasowywania)
+Additionally, brace expansion can produce a sequence of letters
+type it to see four expanded strings – both appended and prepended
+type echo {a..z} then hit Return to see an expanded letter sequence of the lowercase alphabet
+type echo {1..20} then hit Return to see an expanded numeric sequence from 1 to 20
+Beware There must be no spaces within the braces or between the braces and each specified prefix and suffix
+version 4 introduced zero-padded brace expansion so that echo {001..3} produces 001 002 003
+semi-colon ; character allows two commands to be issued on the same line
+type it then hit Return to see the shell variable printed literally in output
+Always enclose phrases you want to use literally within single quotes to avoid interpretation
+The newline \n and tab \t sequences can be included in phrases if preceded by a backslash.
+the shell prompt string changes to a > to indicate it is awaiting further input
+Hit Return to scroll down the screen one line at a time
+The | character is a “pipe” that allows output to be redirected
+type man ps then hit Return to see the manual page for the ps command
+You can use the type command to discover whether a command is a shell built-in or its filesystem location.
+You can also use the info command as an alternative to man
+The command ps $$ displays the current process information
+User and host names can be displayed with the whoami and hostname commands
+A Terminal window can be cleared using the clear command
+Standard input can be printed on standard output using the shell built-in echo command
+
+
+further  |ˈfɜːrðər| - dodatkowy
+with - za pomocą
+suppress  |səˈpres| - stłumić
+be prefixed - poprzedzić coś czymś
+consist of |kənˈsɪst| - składać się (z)
+typically  |ˈtɪpɪkli| - zwykle
+letter - literka
+lowercase letters
+issue -  opublikować (jakiś tekst)
+file located on the file system
+recognize  |ˈrekəɡnaɪz| - rozpoznać, uznać za
+recognizing  |ˈrekəgˌnaɪzɪŋ| - uznawać
+recognized  |ˈrekəgˌnaɪzd| - uznany za
+repeatedly  |rɪˈpiːtɪdli| - wielokrotnie
+
+
