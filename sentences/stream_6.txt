@@ -16,8 +16,26 @@ token  |ˈtoʊkən| - symboliczny
 colon  |ˈkoʊlən| - dwukropek
 followed by - po którym następuje
 asterisk  |ˈæstərɪsk| - gwiazdka
+simultaneously  |ˌsɪmlˈteɪnɪəsli| - jednocześnie
+underlying  |ˌʌndərˈlaɪɪŋ| - podstawowy
+be responsible for - być odpowiedzilnym za
+rapidly  |ˈræpɪdli| - szybko
+develop  |dɪˈveləp| - rozwijać
+spawn  |spɔːn| -  ?
 
-
+w can develop and maintan any applications
+we develop an package and run anywhere
+it is easy to package an application within a container
+in the similar manner
+there are rules for both the file one and file two - zarówna dla ... jak i dla
+typicall it is named Dockerfile but it doesn't have to
+the context is a set of files within the local file system
+the docker deamon is responsible for running containers
+a container doesn't container all operating system like virtual machine does\
+so they are smaller and quicker
+a container container an application and its settings
+a container provide an application isolation
+a container is instance of an image
 please, issue any command - wydawać polecenie
 the command is prefixed with 'sudo' (super user do)
 ten tips for a successful meeting
