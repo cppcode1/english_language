@@ -6,7 +6,7 @@ consist of |kənˈsɪst| - składać się z
 typically  |ˈtɪpɪkli| - zwykle
 letter - literka
 lowercase letters
-issue an command - wydać rozkaz
+issue a command - wydać rozkaz
 the file located on the file system
 recognize  |ˈrekəɡnaɪz| - rozpoznać, uznać za
 recognizing  |ˈrekəgˌnaɪzɪŋ|
@@ -21,21 +21,21 @@ underlying  |ˌʌndərˈlaɪɪŋ| - podstawowy
 be responsible for - być odpowiedzilnym za
 rapidly  |ˈræpɪdli| - szybko
 develop  |dɪˈveləp| - rozwijać
-spawn  |spɔːn| -  ?
+spawn  |spɔːn| -  powodować, płodzić
 
-w can develop and maintan any applications
-we develop an package and run anywhere
+we can develop and maintan any applications
+we develop a package and run anywhere
 it is easy to package an application within a container
 in the similar manner
 there are rules for both the file one and file two - zarówna dla ... jak i dla
-typicall it is named Dockerfile but it doesn't have to
+typically it is named/called Dockerfile but it doesn't have to
 the context is a set of files within the local file system
 the docker deamon is responsible for running containers
-a container doesn't container all operating system like virtual machine does\
+a container doesn't contain all operating system like virtual machine does
 so they are smaller and quicker
-a container container an application and its settings
-a container provide an application isolation
-a container is instance of an image
+a container containes an application and its settings
+a container provides an application isolation
+a container is an instance of an image
 please, issue any command - wydawać polecenie
 the command is prefixed with 'sudo' (super user do)
 ten tips for a successful meeting
@@ -43,7 +43,7 @@ be well prepared
 a good plan can singnificantly reduce the length of any meeting
 write the purpose of the meeting in the invitation agenda
 invite only the necessary |ˈnesəseri| people
-make sure that you allow due time to obtain all the information you need ahead of the meeting
+//make sure that you allow due time to obtain all the information you need ahead of the meeting
 try not to use the phone or laptop
 just focus on the meeting
 not all guests to attend the entire meeting
@@ -52,7 +52,7 @@ don't be late for a meeting
 always create a summary of the meeting
 the issue is still there - problem jest nadal tu
 this chapter intoduces the bash command
-this chapter demonstrates essential (podstawowe) basic commands
+this chapter demonstrates essential (najważniejsze) basic commands
 the issue with the missing file has been resolved |rɪˈzɑːlvd|
 here's what changed in this issue in the last few minutes
 if you have comments, please let me know
@@ -81,7 +81,7 @@ this token cannot be found
 it prints them unless they are recognized as a command “option”
 many built-in commands and programs accept one or more options
 options specify how the programs should be executed |ˈeksəˌkjuːtəd| (wykonywane)
-typically (zazwyczaj), an option consists of a dash followed by (po którym następuje) a letter
+typically (zazwyczaj), an option consists of a dash followed by a letter
 there is a dash followed by a letter
 that text printed without an added newline
 type "echo -n" to see that text printed without an added newline
@@ -142,7 +142,7 @@ you can also use the 'info' command as an alternative to 'man'
 the command ps $$ displays the current process information
 user and host names can be displayed with the 'whoami' and 'hostname' commands
 a Terminal window can be cleared |ˈklɪrd| using the 'clear' command
-standard input can be printed on standard output using the shell built-in echo command
+standard input can be printed on standard output using the shell built-in 'echo' command
 
 
 

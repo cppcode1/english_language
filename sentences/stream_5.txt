@@ -34,7 +34,7 @@ he's getting on the bus
 he's going by bus
 she missed the bus
 he's getting off the bus
-a tram, a train, a plane and a ferry (statek)
+a tram, a train, a plane and a ferry (prom)
 does this train go to ...? no, it doesn't
 how much to Crown Road? that's two dollars fifty
 the meeting is in one hour - za godzinę
@@ -45,7 +45,7 @@ when does the plane for New York leave? in half an hour
 heat for 20 seconds
 how many hours in one day? twenty four
 how many weeks in one year? 52
-where the timetable is?
+where is the timetable?
 when is the next train to Lublin? in 5 minutes
 We would like her to stay in the hospital tonight under evaluation. - Chcielibyśmy, żeby została w szpitalu na obserwacji. 
 here you are and here's your change (reszta)
@@ -64,7 +64,7 @@ they discover for themseves how English works
 I was trying to reproduce the issue on Wednesday 
 If you find the default message |ˈmesɪdʒ| unsatisfactory
 the code will be called right/shortly before the destructor
-You can remove any or all of the  them if their bodies would be empty
+You can remove any or all of them if their bodies would be empty
 The function does nothing if the assertion is satisfied (zadowalające)
 If you do not specify a time unit, hour will be assumed
 so googletest tests can work with a variety of configurations
@@ -77,7 +77,7 @@ competence in English is opens doors to international communication
 there is a letter for you. who's it from? it's from Ken - od kogo to?
 Information about scope and costs of each option is provided below
 and display debugging information only for troublesome zones
-!Say we are not sure what the w command will do in the example
+we are not sure what the w command will do in the example
 The dash is used to activate a shell option and a plus to deactivate it. 
 In the example below, we demonstrate these options on the command line
 you can add echo statements before each command of which you are unsure
@@ -93,14 +93,16 @@ it behaves the same as  - zachowuje się tak samo jak
 If your Dockerfile has another name, you can specify the file name with the filename option
 however, feel free to use a different day if that suits you better
 If the list for particular day is full, we will disable the option in the form
-lastly, you can also delete images that you no longer need by running
+lastly, you can also delete images that you no longer need
 You can think of the registry as a directory of all available Docker images
 The first thing we're going to look at is how we can run a dead-simple static website
 since our application is written in Python, the base image we're going to use will be Python 3
-!since the image doesn't exist locally, the client will first fetch the image from the registry and then run the image
+since the image doesn't exist locally, the client will first fetch the image from the registry and then run the image
 Okay now that the server is running, how to see the website? What port is it running on?
-And more importantly, how do we access the container directly from our host machine? Hit Ctrl+C to stop the container.
-the client is not exposing any ports so we need to re-run the docker to publish ports
+And more importantly, how do we access the container directly from our host machine? 
+Hit Ctrl+C to stop the container.
+the client is not exposing any ports
+we need to re-run the docker to publish ports
 and asked the Docker client to run a container based on that image
 As mentioned above, all user images are based on a base image
 It's a simple way to automate the image creation process
@@ -127,4 +129,5 @@ When things don't go according to plan, you need to determine what exactly cause
 Time Spent - the amount of time logged working on the issue so far or while performing this JIRA operation.
 Using the set Bash built-in you can run in normal mode those portions of the script of which you are sure they are without fault
 In more advanced scripts, the echo can be inserted to display the content of variables at different stages in the script, so that flaws can be detected
-!if you find yourself writing two or more tests that operate on similar data, you can use a test fixture
+if you find yourself - jeśli zdarzy ci się
+if you find yourself writing two or more tests that operate on similar data, you can use a test fixture
