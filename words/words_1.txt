@@ -1,3 +1,5 @@
+significantly  |sɪɡˈnɪfɪkəntli| - znacznie
+in fact - w rzeczywistości
 replica  |ˈreplɪkə| - kopia
 replicas  |ˈrepləkəz| - kopie
 exam  |ɪɡˈzæm| - egzamin
@@ -78,6 +80,9 @@ laboratory  |ˈlæbrətɔːri| - laboratorium
 remind me later - przypomnij mi później
 deprecate |ˈdeprəkeɪt| - uznawać za niewłaściwe
 ***********************************************
+hyphen  |ˈhaɪfn| - pozioma kreska
+provide  |prəˈvaɪd| - dostarczać
+in accordance with - zgodnie z 
 images  |ˈɪmədʒəz| - obrazy
 configure  |kənˈfɪɡjər| - konfigurować
 actualize  |ˈæktʃuəlaɪz| - aktualizować
@@ -92,6 +97,7 @@ yield  |jiːld| - dawać (w efekcie)
 utilize  |ˈjuːtəlaɪz| - wykorzystywać
 to empty - opróżnić (kosz)
 
+tear down - zniszczyć, zburzyć (np. dom)
 agenda  |əˈdʒendə| - ustalony plan jakiegoś spotkania
 major  |ˈmeɪdʒər| - ważny, znaczny
 velocity  |vəˈlɑːsəti| - prędkość
@@ -112,7 +118,6 @@ verifying  |ˈverəˌfaɪɪŋ|
 in favor of |ˈfeɪvər| - na korzyść
 unlike with - w przeciwieństwie do
 in contrast to - w przeciwieństwie do
-tear down - zniszczyć, zburzyć (np. dom)
 guess - domyślić się
 probably  |ˈprɑːbəbli| - prawdopodobnie
 you have probably guessed - domyśliłeś się
@@ -123,7 +128,6 @@ perfectly  |ˈpɜːrfɪktli| - doskonale
 clone into
 summary - strzeszczenie
 fund  |fʌnd| - fundusz
-in fact - w rzeczywistości
 essentially  |ɪˈsenʃəli| - w zasadzie
 timely  |ˈtaɪmli| - na czas
 practically  |ˈpræktɪkli| - praktycznie, niemal
@@ -161,7 +165,6 @@ supplied  |səˈplaɪd| - dostarczony
 snooze  |snuːz| - drzemka
 index - spis alfabetyczny
 accordance  |əˈkɔːrdns| - zgodność
-in accordance with - zgodnie z 
 proceed |proʊˈsiːd| - kontynuować (działanie)
 per day - dzienne
 lock and unlock
@@ -172,7 +175,6 @@ confluence of - połączenie czegoś
 accordingly  |əˈkɔːrdɪŋli| - odpowiednio, stosownie
 preliminary  |prɪˈlɪmɪneri| - wstępny
 agility  |əˈdʒɪləti| - zręczność, zwinność
-significantly  |sɪɡˈnɪfɪkəntli| - znacznie
 accelerate  |əkˈseləreɪt| - przyspieszać
 distinguish ... from ... |dɪˈstɪŋɡwɪʃ| - rozróżniać
 namely  |ˈneɪmli| - mianowicie
@@ -190,7 +192,6 @@ recapture  |ˌriːˈkæptʃər| - odzyskać
 compose  |kəmˈpoʊz| - komponować, tworzyć
 consistency  |kənˈsɪstənsi| - spójność
 variety of |vəˈraɪəti| - różnorodność
-provide  |prəˈvaɪd| - dostarczać
 thus  |ðʌs| - i tak, stąd
 cycle  |ˈsaɪkl| - cykl
 beware  |bɪˈwer| -  strzec się
@@ -239,10 +240,9 @@ reveal  |rɪˈviːl| - ujawnić
 as a rule of thumb |θʌm|  - z reguły 
 node  |noʊd| - węzeł
 substitute  |ˈsʌbstɪtuːt| - zastępować
-superior  |suːˈpɪriər| - przełożyny
+superior  |suːˈpɪriər| - przełożony
 supervisor  |ˈsuːpərvaɪzər| - kierownik, nadzorca
 amount  |əˈmaʊnt| - ilość
-hyphen  |ˈhaɪfn| - pozioma kreska
 infinite  |ˈɪnfɪnət| - nieskończony
 
 
