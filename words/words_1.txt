@@ -39,6 +39,8 @@ cut off / truncate  |ˈtrʌŋkeɪt| - odciąć
 split  |splɪt| - rozdzielić
 dash  |dæʃ| - pozioma kreska
 contact smb - skontaktować się z
+join smb - dołączyć się do
+watch smb  |wɑːtʃ| - obserwować kogoś
 words  |ˈwɝːdz|
 sail  |seɪl| - żeglować (statek)
 publish  |ˈpʌblɪʃ| - publikować
@@ -76,26 +78,33 @@ laboratory  |ˈlæbrətɔːri| - laboratorium
 remind me later - przypomnij mi później
 deprecate |ˈdeprəkeɪt| - uznawać za niewłaściwe
 ***********************************************
+images  |ˈɪmədʒəz| - obrazy
+configure  |kənˈfɪɡjər| - konfigurować
+actualize  |ˈæktʃuəlaɪz| - aktualizować
+pass arguments to - przekazać
+plenty  |ˈplenti| - mnóstwo
+handle - uchwyt
+in other words - innymi słowy
+(dust)bin - pojemnik na śmiecie
+chart  |tʃɑːrt| - wykres
+chapter  |ˈtʃæptər| - rozdział (książki)
+yield  |jiːld| - dawać (w efekcie)
+utilize  |ˈjuːtəlaɪz| - wykorzystywać
+to empty - opróżnić (kosz)
+
 agenda  |əˈdʒendə| - ustalony plan jakiegoś spotkania
 major  |ˈmeɪdʒər| - ważny, znaczny
 velocity  |vəˈlɑːsəti| - prędkość
 bourne  |ˈbɔːrn| - urodzony
 essential  |ɪˈsenʃl| - podstawowy, zasadniczy
-chapter  |ˈtʃæptər| - rozdział (książki)
-configure  |kənˈfɪɡjər| - konfigurować
-actualize  |ˈæktʃuəlaɪz| - aktualizować
-pass arguments to - przekazać
 process  |ˈprɑːses| - przetwarzać (plik) (zmieniać, nadając inne właściwości) /  przekształcać
-handle - uchwyt
 bright  |braɪt| - jaskrawy
 brightness  |ˈbraɪtnəs| - jasność
-plenty  |ˈplenti| - mnóstwo
 entry  |ˈentri| - wpis
 exited  |ˈeksɪtɪd| - wyszedł
 verbose  |vɜːrˈboʊs| - gadatliwy
 satisfied  |ˈsætɪsfaɪd| - zadowolony
 indeed  |ɪnˈdiːd| - rzeczywiście
-images  |ˈɪmədʒəz| - obrazy
 unsatisfactory  - niezadowalający
 stay tuned - следите за новостями
 verify  |ˈverɪfaɪ| - weryfikować
@@ -107,11 +116,6 @@ tear down - zniszczyć, zburzyć (np. dom)
 guess - domyślić się
 probably  |ˈprɑːbəbli| - prawdopodobnie
 you have probably guessed - domyśliłeś się
-in other words - innymi słowy
-yield  |jiːld| - dawać (w efekcie)
-utilize  |ˈjuːtəlaɪz| - wykorzystywać
-to empty - opróżnić (kosz)
-(dust)bin - pojemnik na śmiecie
 given - określony
 certain  |ˈsɜːrtn| - określony
 be certain - być pewnym
@@ -233,7 +237,6 @@ ordinary  |ˈɔːrdneri| - zwykły
 along with - wraz z 
 reveal  |rɪˈviːl| - ujawnić
 as a rule of thumb |θʌm|  - z reguły 
-chart  |tʃɑːrt| - wykres
 node  |noʊd| - węzeł
 substitute  |ˈsʌbstɪtuːt| - zastępować
 superior  |suːˈpɪriər| - przełożyny
