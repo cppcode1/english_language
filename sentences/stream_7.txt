@@ -1,0 +1,92 @@
+let it be - niech będzie
+I don't think I love it
+I'd want to have it cutted
+a table has records
+a record has own column and row
+a variable is a named value
+a variable is basic thing in programming
+a function does only one task
+a function contains many variables
+There are still many features with no information 
+remove an intermediate element of the list
+copy the public key from your local computer to the remote server
+empty your dustbin to clean up on your file system
+we coudn't find what you was looking for
+this chapter demonstrates how to manipulate directories and files
+specify an absolute path to create a directory
+this command extracts the program name from the path
+this command to extracts the parent directory of your program
+type this command to display the contents of a directory
+you can create a new directory within a current directory
+directories can be removed in the shell using the 'rmdir' command
+this takes the directory name as its argument 
+and it will instantly remove an empty directory
+it will simply warn you that the directory is not empty if it contains any files
+when all files have been deleted it asks if you want to delete the directory
+enter this command to remove the directory that you have just created
+you'll see a warning if you try to remove this file
+reply 'yes' to each question
+the directory is now completely empty
+an output is describing what is happening
+if a directory contains nothing you will miss ...
+you can use the rm command with just a -r option to instantly delete a directory
+use with care
+this command lets you easily move files around your filesystem
+this command requires |riˈkwaɪərz| two arguments
+it is a name of the file to be moved
+it is a destination to which it should be moved
+the file is no longer in your home directory. it moved
+interestingly  |ˈɪntrəstɪŋli|, this command can also be used to rename a file
+type it to confirm the file has been renamed
+this command will overwrite a file without any warning, by default
+if you wish to copy, rather than move, a file to a new location ...
+This command can accept one or more files to be copied as its arguments
+the * wildcard can also be used to delete all files in a directory
+type command to copy the file in the Documents directory to your home directory
+a copy of the file is now in both directories
+can you confirm that both directories contain that file?
+the 'rm' command can be used to delete one or more files
+the semi-colon ; character allows two commands to be issued on the same line
+The wildcard * should be used with caution
+so ... you may inadvertently (nieumyślnie) remove hidden files
+text contained within a plain text file can be displayed in the Terminal screen
+use 'cat' (concatenate) command to display a simple text
+issue the command 'cat' to display a contents of a file
+the full path address of the file must be specified
+a link to any file can be created by specifying the target filename and a link filename
+a link file has been created
+display text contents via the link
+links are created as individual files that are not automatically deleted
+an another link file has been created alongside the text file
+there are soft and hard links
+there is a difference between hard and soft links
+a hard link will continue to point to the data when the original file is removed
+you can use readlink to identify a missing target file
+the 'stat' command that lists every important attribute of the file
+the 'file' command reports what type of file a file is
+the -n option will add line numbers to the output for clarity
+type it to discover that file’s line count, word count, and byte count
+the date format required for the 'touch' command can vary on different systems
+use the command 'man touch' to check the manual page for details
+The Bash shell provides several ways to compare two files
+You can check to see if two files are identical with the 'cmp' command
+If they are indeed identical the command reports nothing
+if they differ it reports the location of the first difference
+there are lines found in the second file, but not the first
+the 'cmp' command can also be used to compare binary files - such as image files
+this line is common to both files
+It can also be used to compare two directories to reveal unique files
+the user can ensure that a downloaded file is intact (nienaruszony)
+The 'md5sum' command produces a 32-byte checksum for the file specified as its argument
+you can discover more about the diff command output using man diff
+locating a file on your system can be achieved  using the find command
+this command has over 50 possible options
+it is a point from which to begin searching
+type it o seek all files in your home directory whose names begin with 'hello'
+add a -L option to also report the location of any softlinks to the files
+you can specify -type d to the find command to seek directories
+how to unhide all columns?
+removal effort?
+would it be possible to add it
+I agree that we should use a separate branch 
+it copies the sequence of characters

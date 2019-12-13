@@ -38,7 +38,7 @@ fatal failure
 I failed  - nie powiodło mi się 
 installed  |ˌɪnˈstɒld| - zainstalowany
 cut off / truncate  |ˈtrʌŋkeɪt| - odciąć
-split  |splɪt| - rozdzielić
+split in |splɪt| - rozdzielić na
 dash  |dæʃ| - pozioma kreska
 contact smb - skontaktować się z
 join smb - dołączyć się do
@@ -80,6 +80,8 @@ laboratory  |ˈlæbrətɔːri| - laboratorium
 remind me later - przypomnij mi później
 deprecate |ˈdeprəkeɪt| - uznawać za niewłaściwe
 ***********************************************
+mock  |mɑːk| - symulować
+injection  |ɪnˈdʒekʃn| - zastrzyk
 hyphen  |ˈhaɪfn| - pozioma kreska
 provide  |prəˈvaɪd| - dostarczać
 in accordance with - zgodnie z 
@@ -244,6 +246,32 @@ superior  |suːˈpɪriər| - przełożony
 supervisor  |ˈsuːpərvaɪzər| - kierownik, nadzorca
 amount  |əˈmaʊnt| - ilość
 infinite  |ˈɪnfɪnət| - nieskończony
+honestly  |ˈɑːnɪstli| - szczerze
+resume  |rɪˈzuːm| - wznowić
+scenario  |səˈnærioʊ| - scenariusz
+warn smb  |wɔːrn| - ostrzec
+attempt  |əˈtempt| - próbować
+interestingly  |ˈɪntrəstɪŋli| - co ciekawe
+attic  |ˈætɪk| - strych / mansarda
+stamp  |stæmp| - pieczęć
+column  |ˈkɑːləm| - kolumna
+intact  |ɪnˈtækt| - nienaruszony
+alternative  |ɔːlˈtɜːrnətɪv| - alternatywa
+coverage  |ˈkʌvərɪdʒ| - pokrycie
+priority  |praɪˈɔːrəti| - priorytet
+priorities  |praˈjɔːrətiz| - priorytety
+snap  |snæp| - fotografia (najczęściej amatorska), zdjęcie
+environment  |ɪnˈvaɪrənmənt| - środowisko
+machine  |məˈʃiːn| - maszyna
+status  |ˈsteɪtəs| - status
+resolution  |ˌrezəˈluːʃn| - rozwiązanie
+event  |ɪˈvent| - przypadek, zdarzenie
+register  |ˈredʒɪstər| - rejestrować
+mock  |mɑːk| - udawany, nieprawdziwy
+survey  |ˈsɜːrveɪ| - badanie
+
+
+
 
 
 
