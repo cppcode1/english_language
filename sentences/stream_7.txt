@@ -2,11 +2,12 @@ let it be - niech będzie
 I don't think I love it
 I'd want to have it cutted
 a table has records
-a record has own column and row
+a record has own column's and row's number
 a variable is a named value
 a variable is basic thing in programming
 a function does only one task
 a function contains many variables
+a function is a banch of code that performs one task
 There are still many features with no information 
 remove an intermediate element of the list
 copy the public key from your local computer to the remote server
