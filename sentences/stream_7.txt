@@ -1,10 +1,10 @@
 let it be - niech będzie
 I don't think I love it
-I'd want to have it cutted
+I'd want to have it cut
 a table has records
 a record has own column's and row's number
 a variable is a named value
-a variable is basic thing in programming
+a variable is a basic thing in programming
 a function does only one task
 a function contains many variables
 a function is a banch of code that performs one task
@@ -12,11 +12,11 @@ There are still many features with no information
 remove an intermediate element of the list
 copy the public key from your local computer to the remote server
 empty your dustbin to clean up on your file system
-we coudn't find what you was looking for
+we coudn't find what you were looking for
 this chapter demonstrates how to manipulate directories and files
 specify an absolute path to create a directory
 this command extracts the program name from the path
-this command to extracts the parent directory of your program
+this command extracts the parent directory of your program
 type this command to display the contents of a directory
 you can create a new directory within a current directory
 directories can be removed in the shell using the 'rmdir' command
@@ -62,7 +62,7 @@ an another link file has been created alongside the text file
 there are soft and hard links
 there is a difference between hard and soft links
 a hard link will continue to point to the data when the original file is removed
-you can use readlink to identify a missing target file
+you can use 'readlink' to identify a missing target file
 the 'stat' command that lists every important attribute of the file
 the 'file' command reports what type of file a file is
 the -n option will add line numbers to the output for clarity
@@ -83,24 +83,24 @@ you can discover more about the diff command output using man diff
 locating a file on your system can be achieved  using the find command
 this command has over 50 possible options
 it is a point from which to begin searching
-type it o seek all files in your home directory whose names begin with 'hello'
+type it to seek all files in your home directory whose names begin with 'hello'
 add a -L option to also report the location of any softlinks to the files
 you can specify -type d to the find command to seek directories
 how to unhide all columns?
-removal effort?
-would it be possible to add it
+removal effort? - usunięcie, wysiłek
+would it be possible to add it?
 I agree that we should use a separate branch 
 it copies the sequence of characters
 
 
 
-She's taking her time making up the reasons
+She's taking her time making up the reasons - rozważnię, nie spiesze się
 To justify all the hurt inside, guess she knows
 From the smiles and the look in their eyes
 Everyone's got a theory about the bitter one, they're saying
 Mama never loved her much and
-Daddy never keeps in touch
-That's why she shies away from human affection, but
+Daddy never keeps in touch - być w kontakcie
+That's why she shies away from human affection, but - odsuwać się / sympatia
 Somewhere in a private place
 She packs her bags for outer space
 And now she's waiting for the right kind of pilot to come
@@ -111,11 +111,12 @@ I've got a ticket for a world where we belong
 So would you be my baby?
 She can't remember a time when she felt needed
 If love was red then she was color-blind
-All her friends, they've been tried for treason
+All her friends, they've been tried for treason - zdrada
+been tried for - sprawdzić pod kontem
 And crimes that were never defined
-She's saying, love is like a barren place
-And reaching out for human faith is
-Is like a journey I just don't have a map for
+She's saying, love is like a barren (bezpłone) place
+And reaching out for human faith is - sięgać po
+Is like a journey I just don't have a map for - podróż do której
 So baby gonna take a dive and push the shift to overdrive
 Send a signal that she's hanging all her hopes on the stars
 What a pleasant dream (just saying)
