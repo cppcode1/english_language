@@ -1,0 +1,29 @@
+//////////////////////////////////////////
+25 * opening and using a bank account
+//////////////////////////////////////////
+ask about the conditions
+I'd like to open a bank account
+what kind of account are you interested in?
+what fees/charges will I have to pay?
+there are no fees with this particular account
+how much do you charge for running the account?
+can I use the online banking to pay my bills?
+is a credit card included?
+how long does it take to get a card?
+how much will I have to pay for the card?
+the card is free if you spend over 100 pounds a month
+how much money can I withdraw from a cash machine daily?
+what's the limit?
+how much do you charge if I use different atm?
+is there any commission?
+do yu have an online service?
+how can I access it?
+I don't use this account and I want to close it
+I've seen in my statement that there's a 15 euro charge 
+what is it for?
+there is extra charge on my credit card
+he goes from the station to the office on foot
+
+statement - wyciąg z konta
+to charge - pobierać opłatę
+the charge - opłata
