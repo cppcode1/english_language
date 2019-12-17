@@ -1,5 +1,8 @@
+reinterpret  |ˌriːɪnˈtɜːrprɪt| - traktowac
 significantly  |sɪɡˈnɪfɪkəntli| - znacznie
+react to  |riˈækt| - reagować na 
 in fact - w rzeczywistości
+gain an objective  |əbˈdʒektɪv| - osiągnąć cel
 replica  |ˈreplɪkə| - kopia
 replicas  |ˈrepləkəz| - kopie
 exam  |ɪɡˈzæm| - egzamin
@@ -43,7 +46,7 @@ dash  |dæʃ| - pozioma kreska
 contact smb - skontaktować się z
 join smb - dołączyć się do
 watch smb  |wɑːtʃ| - obserwować kogoś
-words  |ˈwɝːdz|
+words  |ˈwɝːdz| - słowa
 sail  |seɪl| - żeglować (statek)
 publish  |ˈpʌblɪʃ| - publikować
 length  |leŋθ| - długość
@@ -79,13 +82,16 @@ lose - stracić
 laboratory  |ˈlæbrətɔːri| - laboratorium
 remind me later - przypomnij mi później
 deprecate |ˈdeprəkeɪt| - uznawać za niewłaściwe
-***********************************************
 alias  |ˈeɪliəs| - przezwisko
-mock  |mɑːk| - symulować
-injection  |ɪnˈdʒekʃn| - zastrzyk
-hyphen  |ˈhaɪfn| - pozioma kreska
-provide  |prəˈvaɪd| - dostarczać
+via  |ˈvaɪə| - przez, za pośrednictwem
+retrieve  |rɪˈtriːv| - uzyskać
+***********************************************
+populate  |ˈpɑːpjuleɪt| - zaludnić
 in accordance with - zgodnie z 
+hyphen  |ˈhaɪfn| - pozioma kreska
+injection  |ɪnˈdʒekʃn| - zastrzyk
+mock  |mɑːk| - symulować
+provide  |prəˈvaɪd| - dostarczać
 images  |ˈɪmədʒəz| - obrazy
 configure  |kənˈfɪɡjər| - konfigurować
 actualize  |ˈæktʃuəlaɪz| - aktualizować
@@ -270,6 +276,8 @@ event  |ɪˈvent| - przypadek, zdarzenie
 register  |ˈredʒɪstər| - rejestrować
 mock  |mɑːk| - udawany, nieprawdziwy
 survey  |ˈsɜːrveɪ| - badanie
+whistle  |ˈwɪsl| - gwizd
+duty  |ˈduːti| - obowiązek
 
 
 
