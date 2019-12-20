@@ -1,9 +1,12 @@
+readily  |ˈredɪli| - z łatwością
+correct |kəˈrekt| - poprawić
+investigate  |ɪnˈvestɪɡeɪt| / examin - badać
+indent |ɪnˈdent| - wczęcie (w tekscie)
 occur |əˈkɜːr| - wydarzyć się
 occurred  |əˈkɝːd| - wydarzyło się
 how often does it occur?
 response  |rɪˈspɑːns| - odpowiedź
 non-existent |nɒnɪɡˈzɪstənt| - nieistniejący
-readily  |ˈredɪli| - z łatwością
 reinterpret  |ˌriːɪnˈtɜːrprɪt| - traktować
 significantly  |sɪɡˈnɪfɪkəntli| - znacznie
 react to  |riˈækt| - reagować na 
@@ -81,7 +84,7 @@ achieve  |əˈtʃiːv| - osiągać
 achieved  |əˈtʃiːvd| - osiągnąłem
 achievement  |əˈtʃiːvmənt| - osiągnięcie
 secure  |səˈkjʊr| - bezpieczny
-garbage  |ˈɡɑːrbɪdʒ| -  [am.] śmieci
+garbage  |ˈɡɑːrbɪdʒ| - [am.] śmieci
 lose - stracić
 laboratory  |ˈlæbrətɔːri| - laboratorium
 remind me later - przypomnij mi później
@@ -283,6 +286,19 @@ whistle  |ˈwɪsl| - gwizd
 duty  |ˈduːti| - obowiązek
 dispatch  |dɪˈspætʃ| - wysłać
 excellence  |ˈeksələns| - doskonałość, znakomitość
+abbreviation  |əˌbriviˈeɪʃən| - skrót
+acronym  |ˈækrənɪm| - skrótowiec
+distinctive  |dɪˈstɪŋktɪv| - charakterystyczny
+delimit  by |diˈlɪmɪt| - ustanawiać granice
+also delimited by double quotes
+obligatory  |əˈblɪɡətɔːri| - obowiązkowy
+class definition -> class implementetion
+prohibit  |prəˈhɪbɪt| - zakazywać
+facilitate  |fəˈsɪlɪteɪt| - ułatwiać
+legal in |ˈliːɡl| - dopuszczalny w 
+conditional statement
+
+
 
 
 

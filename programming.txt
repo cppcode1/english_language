@@ -72,7 +72,7 @@ mail  |meɪl| - wysyłać pocztą
 wipe  |waɪp| - wytrzeć
 terminate  |ˈtɜːrmeɪt| - zakończyć
 packages  |ˈpækədʒəz| - pakiety
-layer  |ˈler| - warstwa
+layer  |ˈleier| - warstwa
 region  |ˈriːdʒən| - region
 evaluate  |ɪˈvæljueɪt| - oceniać
 numbered  |ˈnʌmbr̩d| - ponumerowany
@@ -213,7 +213,7 @@ eventually  |ɪˈventʃuəli| - ostatecznie
 the inner  |ˈɪnər| - wewnętrzny
 approaches  |əˈproʊtʃɪz| - zbliża się
 investigate  |ɪnˈvestɪɡeɪt| - badać, ustalać
-scheme  |skiːm| - harmonogram, plan, program
+scheme  |skiːm| - harmonogram
 particular  |pərˈtɪkjələr| - dany
 foreground  |ˈfɔːrɡraʊnd| - pierwszy plan
 
@@ -240,7 +240,11 @@ there is no reason to continue if the file doesn't exist
 this is a way to pass strings that contain blank characters (sposób na to żeby)
 I borrowed the iron from her a while back - ... niedawno
 Eventually go back to the terminal that is running script9 - w końcu
-
+This rule improves the code readability
+Programmers must resist the temptation to implement functions within class definitions 
+legal in both C and C++ 
+The problem occurs when the variable is first initialized within the conditional statement
+the initialization to 0 may be skipped if the initialization to the real value is done before the first use of the variable
 
 
 
