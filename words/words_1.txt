@@ -1,4 +1,10 @@
-reinterpret  |ˌriːɪnˈtɜːrprɪt| - traktowac
+occur |əˈkɜːr| - wydarzyć się
+occurred  |əˈkɝːd| - wydarzyło się
+how often does it occur?
+response  |rɪˈspɑːns| - odpowiedź
+non-existent |nɒnɪɡˈzɪstənt| - nieistniejący
+readily  |ˈredɪli| - z łatwością
+reinterpret  |ˌriːɪnˈtɜːrprɪt| - traktować
 significantly  |sɪɡˈnɪfɪkəntli| - znacznie
 react to  |riˈækt| - reagować na 
 in fact - w rzeczywistości
@@ -12,7 +18,6 @@ continue  |kənˈtɪnjuː| - kontynuować
 continues  |kənˈtɪnjuːz|
 continuing  |kənˈtɪnjuːɪŋ|
 continued  |kənˈtɪnjuːd|
-readily  |ˈredɪli| - z łatwością
 feedback  |ˈfiːdbæk| - odzew
 assert  |əˈsɜːrt| - stwierdzać
 assertion  |əˈsɜːrʃn| - twierdzenie
@@ -27,9 +32,6 @@ abort  |əˈbɔːrt| - przerwać
 terminate  |ˈtɜːrmeɪt| - zakończyć
 missing  |ˈmɪsɪŋ| - brakujący
 the missing file
-occur |əˈkɜːr| - wydarzyć się
-occurred  |əˈkɝːd| - wydarzyło się
-how often does it occur?
 sign in - zalogować się
 sign out - wylogować się
 log out - wylogować się
@@ -42,10 +44,12 @@ I failed  - nie powiodło mi się
 installed  |ˌɪnˈstɒld| - zainstalowany
 cut off / truncate  |ˈtrʌŋkeɪt| - odciąć
 split in |splɪt| - rozdzielić na
+hyphen  |ˈhaɪfn| - pozioma kreska
 dash  |dæʃ| - pozioma kreska
 contact smb - skontaktować się z
 join smb - dołączyć się do
 watch smb  |wɑːtʃ| - obserwować kogoś
+call smb - zadzwonić do
 words  |ˈwɝːdz| - słowa
 sail  |seɪl| - żeglować (statek)
 publish  |ˈpʌblɪʃ| - publikować
@@ -88,7 +92,6 @@ retrieve  |rɪˈtriːv| - uzyskać
 ***********************************************
 populate  |ˈpɑːpjuleɪt| - zaludnić
 in accordance with - zgodnie z 
-hyphen  |ˈhaɪfn| - pozioma kreska
 injection  |ɪnˈdʒekʃn| - zastrzyk
 mock  |mɑːk| - symulować
 provide  |prəˈvaɪd| - dostarczać
@@ -278,7 +281,8 @@ mock  |mɑːk| - udawany, nieprawdziwy
 survey  |ˈsɜːrveɪ| - badanie
 whistle  |ˈwɪsl| - gwizd
 duty  |ˈduːti| - obowiązek
-
+dispatch  |dɪˈspætʃ| - wysłać
+excellence  |ˈeksələns| - doskonałość, znakomitość
 
 
 
