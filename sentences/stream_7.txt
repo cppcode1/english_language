@@ -92,8 +92,6 @@ would it be possible to add it?
 I agree that we should use a separate branch 
 it copies the sequence of characters
 
-
-
 She's taking her time making up the reasons - rozważnię, nie spiesze się
 To justify all the hurt inside, guess she knows
 From the smiles and the look in their eyes
