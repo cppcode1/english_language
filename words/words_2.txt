@@ -1,11 +1,28 @@
+rapidly  |ˈræpɪdli| - szybko
+a tool that captures and analyzes packets 
+colon  |ˈkoʊlən| - dwukropek
+turn out that - okazać się że
+at the given moment - w tym momencie
+take up a lot of space - zajmować
+cycle  |ˈsaɪkl| - cykl
+command  |kəˈmænd| - polecenie
+comment  |ˈkɑːment| - komentarz
+determine  |dɪˈtɜːrmɪn| - określać
+in other words - innymi słowy
+newly |ˈnuːli| - najnowszy
+zeroed  |ˈzɪəroʊd| - wyzerowany
+yield  |jiːld| - dawać (w efekcie)
+laboratory  |ˈlæbrətɔːri| - laboratorium
 provide  |prəˈvaɪd| - dostarczać
 configure  |kənˈfɪɡjər| - konfigurować
 actualize  |ˈæktʃuəlaɪz| - aktualizować
-pass arguments to - przekazać
+pass arguments to - przekazać do
 in accordance with - zgodnie z 
 alias  |ˈeɪliəs| - przezwisko
+clone into
+unlike with - w przeciwieństwie do
+in contrast to - w przeciwieństwie do
 employee - pracownik
-laboratory  |ˈlæbrətɔːri| - laboratorium
 injection  |ɪnˈdʒekʃn| - zastrzyk
 images  |ˈɪmədʒəz| - obrazy
 remind me later - przypomnij mi później
@@ -16,48 +33,45 @@ populate  |ˈpɑːpjuleɪt| - zaludnić
 mock  |mɑːk| - symulować
 plenty  |ˈplenti| - mnóstwo
 handle - uchwyt
-in other words - innymi słowy
 (dust)bin - pojemnik na śmiecie
 chart  |tʃɑːrt| - wykres
 chapter  |ˈtʃæptər| - rozdział (książki)
-yield  |jiːld| - dawać (w efekcie)
 utilize  |ˈjuːtəlaɪz| - wykorzystywać
 to empty - opróżnić (kosz)
-
 tear down - zniszczyć, zburzyć (np. dom)
 agenda  |əˈdʒendə| - ustalony plan jakiegoś spotkania
 major  |ˈmeɪdʒər| - ważny, znaczny
-velocity  |vəˈlɑːsəti| - prędkość
-bourne  |ˈbɔːrn| - urodzony
-essential  |ɪˈsenʃl| - podstawowy, zasadniczy
-process  |ˈprɑːses| - przetwarzać (plik) (zmieniać, nadając inne właściwości) /  przekształcać
+stay tuned - czekać na dalsze informacje / nie zmieniać stacji 
+slightly  |ˈslaɪtli| - trochę
+slave  |sleɪv| - niewolnik
 bright  |braɪt| - jaskrawy
 brightness  |ˈbraɪtnəs| - jasność
+summary - strzeszczenie
 entry  |ˈentri| - wpis
 exited  |ˈeksɪtɪd| - wyszedł
+verify  |ˈverɪfaɪ| - weryfikować
+given - określony
+guess - domyślić się
+practically  |ˈpræktɪkli| - niemal
+
+***********************************************
+velocity  |vəˈlɑːsəti| - prędkość
+essential  |ɪˈsenʃl| - podstawowy, zasadniczy
+process  |ˈprɑːses| - przetwarzać (plik) (zmieniać, nadając inne właściwości) /  przekształcać
 verbose  |vɜːrˈboʊs| - gadatliwy
 satisfied  |ˈsætɪsfaɪd| - zadowolony
 indeed  |ɪnˈdiːd| - rzeczywiście
 unsatisfactory  - niezadowalający
-stay tuned - следите за новостями
-verify  |ˈverɪfaɪ| - weryfikować
 verifying  |ˈverəˌfaɪɪŋ|
 in favor of |ˈfeɪvər| - na korzyść
-unlike with - w przeciwieństwie do
-in contrast to - w przeciwieństwie do
-guess - domyślić się
 probably  |ˈprɑːbəbli| - prawdopodobnie
 you have probably guessed - domyśliłeś się
-given - określony
 certain  |ˈsɜːrtn| - określony
 be certain - być pewnym
 perfectly  |ˈpɜːrfɪktli| - doskonale
-clone into
-summary - strzeszczenie
 fund  |fʌnd| - fundusz
 essentially  |ɪˈsenʃəli| - w zasadzie
-timely  |ˈtaɪmli| - na czas
-practically  |ˈpræktɪkli| - praktycznie, niemal
+timely  |ˈtaɪmli| - w pasujący moment
 cluster  |ˈklʌstər| - kiść
 obtain  |əbˈteɪn| - uzyskać
 compose  |kəmˈpoʊz| - komponować
@@ -75,10 +89,8 @@ assume - zakładać
 contribute  |kənˈtrɪbjuːt| - wnosić wkład
 toggle  |ˈtɑːɡl| - przełącznik
 suite  |swiːt| - komplet
-slightly  |ˈslaɪtli| = a bit - trochę
 automate  |ˈɔːtəmeɪt| - automatyczny
 pod - strąk / owoc pojedynczy, suchy pękający
-slave  |sleɪv| - niewolnik
 thief  |θiːf| - złodziej
 disadvantage  |ˌdɪsədˈvæntɪdʒ| - minus
 rejoice  |rɪˈdʒɔɪs| - cieszyć się, radować się
@@ -95,9 +107,7 @@ accordance  |əˈkɔːrdns| - zgodność
 proceed |proʊˈsiːd| - kontynuować (działanie)
 per day - dzienne
 lock and unlock
-newly - najnowszy
 concern - dotyczyć
-***********************************************
 confluence of - połączenie czegoś
 accordingly  |əˈkɔːrdɪŋli| - odpowiednio, stosownie
 preliminary  |prɪˈlɪmɪneri| - wstępny
@@ -120,7 +130,6 @@ compose  |kəmˈpoʊz| - komponować, tworzyć
 consistency  |kənˈsɪstənsi| - spójność
 variety of |vəˈraɪəti| - różnorodność
 thus  |ðʌs| - i tak, stąd
-cycle  |ˈsaɪkl| - cykl
 beware  |bɪˈwer| -  strzec się
 term  |tɜːrm| - termin
 confusion  |kənˈfjuːʒn| - niejasność
@@ -139,11 +148,9 @@ fair  |fer| - targ
 approve  |əˈpruːv| - zatwierdzać
 approval  |əˈpruːvl| - zatwierdzenie
 expense  |ɪkˈspens| - koszt
-command  |kəˈmænd| - polecenie
-comment  |ˈkɑːment| - komentarz
-determine  |dɪˈtɜːrmɪn| - określać
 patch  |pætʃ| - łata (fragment materiału przyszyty do tkaniny)
 commitment  |kəˈmɪtmənt| - zobowiązanie
+bourne  |ˈbɔːrn| - urodzony
 discontinue  |ˌdɪskənˈtɪnjuː| - zaprzestać, zakończyć działalność
 assess  |əˈses| - oceniać
 particular  |pərˈtɪkjələr| - konkretny
@@ -223,11 +230,10 @@ recognizing  |ˈrekəgˌnaɪzɪŋ|
 recognized  |ˈrekəgˌnaɪzd| - uznany za
 repeatedly  |rɪˈpiːtɪdli| - wielokrotnie
 token  |ˈtoʊkən| - symboliczny
-colon  |ˈkoʊlən| - dwukropek
 followed by - po którym następuje
 asterisk  |ˈæstərɪsk| - gwiazdka
 simultaneously  |ˌsɪmlˈteɪnɪəsli| - jednocześnie
 underlying  |ˌʌndərˈlaɪɪŋ| - podstawowy
 be responsible for - być odpowiedzilnym za
-rapidly  |ˈræpɪdli| - szybko
 spawn  |spɔːn| -  powodować, płodzić
+shark  |ʃɑːrk| - [zool.] rekin
