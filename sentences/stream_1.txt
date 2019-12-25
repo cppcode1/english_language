@@ -19,14 +19,14 @@ I wish I did that - chciałbym to zrobić
 they'll soon settle in — kids are very good at adjusting
 do you feel comfortable with it? - czujesz się dobrze z tym?
 sometimes you encounter (napotykać) a situation where you would like to exit the loop early
-this can be accomplished (wykonane) using the break and continue commands
+this can be accomplished (wykonane) using the 'break' and 'continue' commands
 this is because - to dlatego, że
-this is because the control goes immediately back to the while statement
-this is because break immediately causes the loop to end
+this is because the control goes immediately back to the 'while' statement
+this is because 'break' immediately causes the loop to end
 play with this one enough to really understand what is going on
 in general, the sleep command is used to introduce a delay in the script
 when I was at school, I would(nie do stanów)/used to study for 2 hours every evening - habit zwyczaj
-she was angry with me and she would(past will) not speak to me - refusal odmowa
+she was angry with me and she would (past will) not speak to me - refusal odmowa
 why are you late? my car wouldn't start - refusal
 last week, I thought I would (=past will) pass the exam
 he is sure I'll like his house - jest przekonany że mi się podoba
@@ -47,7 +47,7 @@ I'll see if (czy) I can - zobaczymy czy da się
 nothing on earth |ɜːrθ| would persuade me - nic nie zmusi mnie
 who do you get on well with? - z kim dogadujeszcz się?
 it is important to quote |kwoʊt| strings when they contain blank spaces
-feel free to experiment with this one as ...
+feel free to experiment with this one
 it has a lot of important information in it
 I could have (jeden raz) used the break command as (w taki sposób) we saw earlier in this chapter
 I'm not even sure what it stands for
@@ -60,9 +60,9 @@ it is needed for your badge - to jest potrzebne do
 take out the chicken after adding the vegetables - wyjmij
 I can't leave her unless I know she's all right - ... jeśli nie ...
 I will come unless I change my mind - ... jeśli nie ...
-I will come untill I change my mind ... aż nie zmienię swojego zdania
+I will be coming until I change my mind ... aż nie zmienię swojego zdania
 unless I am mistaken (be mistaken = być w błędzię) - jeśli się nie mylę
-unless and untill - tylko po tym jak
+unless and until - tylko po tym jak
 if you quit smoking, you will feel better (1)
 if you study, you will succeed |səkˈsiːd| - odnosić sukces
 if you don't study you will fail
@@ -80,7 +80,7 @@ you can't go out unless you clear your room
 you can't improve English unless you read more books
 don't mess it up - nie schrzań
 try not to mess up your new dress before the party
-it's no sense to go there unless she's there
+it's no sense to go there unless she is there
 you won't left work unless you answer emails
 what do you have on right now? - w co jesteś ubrany?
 go to fitting room and try it on to see if you like it
@@ -91,7 +91,7 @@ don't put your clothes on the floor and hang them up
 go away = be on the vacation
 move away = take everything to new place
 I moved away to Poland when I was 10 - przemieściełem swoje rzeczy 
-turn away = refuce admittance - odmówić wejścia
+turn away = refuse admittance - odmówić wejścia
 the restautant turned me away because it didn't have free tables
 don't turn me away - daj mi wejść
 mind the gap - uważaj na szczelinę
@@ -99,4 +99,3 @@ she had a brilliant mind
 what's on your mind? = what are you thinking about?
 I have a lot on my mind - mam wiele na głowie
 if you heat water to 100 degrees, it boils (0)
-// checked

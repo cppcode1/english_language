@@ -27,3 +27,30 @@ he goes from the station to the office on foot
 statement - wyciąg z konta
 to charge - pobierać opłatę
 the charge - opłata
+//////////////////////////////////////////
+26 * at the post office
+//////////////////////////////////////////
+I'd like to send a package 
+what can I do for you?
+I'd like to send a letter
+how much will it cost to send this letter?
+does it contain anything valuable?
+how much does it weigh?
+the postage for a registered letter is 2 pounds
+I'd like to send this parcel by airmail
+could you put it on the scales, please?
+I need to check how much it weighs
+it weighs more than 5 kilograms
+that will be 10 pounds
+would first class be much more expensive?
+it will be 3 pounds more expensive
+make it first class then, please
+when will it get there?
+how long will it take to get there?
+it will take around 10 working days
+would you like any insurance?
+is not it insured?
+can you please put the retuan address on it, just in case?
+this it your confirmation note
+put a postcode on the package
+do you need a proof of delivery? (dowód doręczenia)
