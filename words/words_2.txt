@@ -1,4 +1,6 @@
 rapidly  |ˈræpɪdli| - szybko
+register - rejestrować
+analyse - analizować
 a tool that captures and analyzes packets 
 colon  |ˈkoʊlən| - dwukropek
 turn out that - okazać się że
@@ -17,6 +19,7 @@ provide  |prəˈvaɪd| - dostarczać
 configure  |kənˈfɪɡjər| - konfigurować
 actualize  |ˈæktʃuəlaɪz| - aktualizować
 pass arguments to - przekazać do
+collect from - odebrać od
 in accordance with - zgodnie z 
 alias  |ˈeɪliəs| - przezwisko
 clone into
@@ -237,3 +240,176 @@ underlying  |ˌʌndərˈlaɪɪŋ| - podstawowy
 be responsible for - być odpowiedzilnym za
 spawn  |spɔːn| -  powodować, płodzić
 shark  |ʃɑːrk| - [zool.] rekin
+ignored  |ɪgˈnɔːrd| - ignorowany
+skip - pomijać
+zone  |zoʊn| - strefa
+exclamation mark - wykrzyknik
+subject  |ˈsʌbdʒɪkt| - temat (wiadomości na przykład)
+particular  |pərˈtɪkjələr| - szczególny
+morph  |mɔːrf| - forma, postać
+accomplish  |əˈkɑːmplɪʃ| - wykonać
+photo  |ˈfoʊtoʊ| - zdjęcie
+picture  |ˈpɪktʃər| - obraz
+image  |ˈɪmɪdʒ| - obraz, zdjęcie
+figure  |ˈfɪɡjər| - zdjęcie
+arbitrarily  |ˌɑːrbəˈtrerəli| - losowo
+range between - wachać się pomiędzy
+appropriate  |əˈproʊpriət| - właściwy
+stretch  |stretʃ| - rozciągnąć
+stretched or squashed
+width  |wɪdθ| - szerokość
+desired  |dɪˈzɑɪərd| - pożądany 
+scale  |skeɪl| - zmieniać rozmiar
+average  |ˈævərɪdʒ| - średnia
+reuse  |ˌriːˈjuːs| - powtórnie wykorzystać
+non-negative integer value
+distinct  |dɪˈstɪŋkt| - odrębny, różny
+underly  |ˌəndərˈlaɪ| - podstawowy, zasadniczy
+mail  |meɪl| - wysyłać pocztą
+wipe  |waɪp| - wytrzeć
+terminate  |ˈtɜːrmeɪt| - zakończyć
+packages  |ˈpækədʒəz| - pakiety
+layer  |ˈleier| - warstwa
+region  |ˈriːdʒən| - region
+evaluate  |ɪˈvæljueɪt| - oceniać
+numbered  |ˈnʌmbr̩d| - ponumerowany
+cursor  |ˈkɜːrsər| 
+append  |əˈpend| - dołączać, załączać
+monitor  |ˈmɑːnɪtər| - monitor
+content  |ˈkɑːntent| - treść, zawartość
+be gone - zniknąć
+establish  |ɪˈstæblɪʃ| - nawiązać (połączenie)
+trace  |treɪs| - lokalizować, namierzać
+minus  |ˈmaɪnəs| - minus
+processes  |ˈproʊsesɪz| - procesy
+equation  |ɪˈkweɪʒn| - [mat.] równanie
+symbol  |ˈsɪmbl| - symbol
+condition  |kənˈdɪʃn| - warunek
+parameter  |pəˈræmɪtər| - parametr
+transparent  |trænsˈpærənt| - przejrzysty
+used  |juːst| - używany
+be used - służyć
+is used to - służy do
+hit  |hɪt| - nacisnąć
+digit  |ˈdɪdʒɪt| - cyfra
+backward  |ˈbækwərd| - wsteczny
+refer  |rɪˈfɜːr| - odnosić się
+browse  |braʊz| - [inf.] przeglądać
+besides / apart of |əˈpɑːrt| - oprócz
+cut off - odciąć
+trigger  |ˈtrɪɡər| - wywołać coś
+give and take away - dać i zabrać
+slide  |slaɪd| - slajd, osuwanie się 
+exclude  |ɪkˈskluːd| - wyłączać, wykluczyć
+disconnect  |ˌdɪskəˈnekt| - odłączać
+column  |ˈkɑːləm| - kolumna
+columns  |ˈkɑːləmz| - kolumny
+remote  |rɪˈmoʊt| - zdalny
+I received  |rəˈsiːvd| - dostałem
+suspend  |səˈspend| - zawieszać
+bottom  |ˈbɑːtəm| - dno, spód
+continue  |kənˈtɪnjuː| - kontynuować
+continuing  |kənˈtɪnjuːɪŋ| - kontynuacja
+maintenance  |ˈmeɪntənəns| - utrzymanie, konserwacja
+persist  |pərˈsɪst| - upierać się przy czymś, obstawać, nie ustawać
+remain  |rɪˈmeɪn| - pozostawać
+customize  |ˈkʌstəmaɪz| - dostosowywać do potrzeb
+adjust - dostosowywać
+dangle  |ˈdæŋɡl| - zwisać, wisieć
+unspecified  |ˌʌnˈspesɪfaɪd| - nieokreślony
+lookup  - przegląd
+go ahead - iść naprzód
+disappear  |ˌdɪsəˈpɪr| - znikać
+instantly  |ˈɪnstəntli| - niezwłocznie
+person and people
+dependence  |dɪˈpendəns| - zależność
+dependencies  |dəˈpendənsiz| - zależności
+restrict  |rɪˈstrɪkt| - ograniczać
+wide  |waɪd| - szeroki
+split  |splɪt| - podzielić
+squeeze  |skwiːz| - scisnąć
+omit  |əˈmɪt| - pomijać
+schedule  |ˈskedʒuːl| - planować, harmonogram
+junior  |ˈdʒuːniər| - młodszy
+senior  |ˈsiːniər| - starszy
+sort by  - sortować po
+middle  |ˈmɪdl| - środek
+turn off - wyłączyć
+identifier  |aɪˈdentɪfaɪər| - identyfikator
+anything  |ˈeniθɪŋ| - coś (w zdaniach pytających i przeczących)
+anythig but - wszystko za wyjątkiem
+digit  |ˈdɪdʒɪt| - cyfra
+except  |ɪkˈsept| - z wyjątkiem, z zastrzeżeniem
+underscore  |ˌʌndərˈskɔːr| - znak podkreślenia
+separate |ˈseprət| - rozdzielać
+equal  |ˈiːkwəl| - równy
+installed  |ˌɪnˈstɒld| - zainstalowany
+
+make executable
+assume that |əˈsuːm| - zakładać, że
+at the beginning of - na początku
+run a script prepend ./ to the filename
+it is suggested that - propunuje się żeby
+specifically for |spɪˈsɪfɪkli| - specjalnie dla
+deem  |diːm| - uważać za coś
+appropriate  |əˈproʊpriət| - stosowny, właściwy
+deem appropriate - uważać za potrzebne
+dependable  |dɪˈpendəbl| - niezawodny
+claim  |kleɪm| - żądać
+here is an explanation for each line
+either in ... or in ... - albo w ... albo w 
+highly recommended - bardzo polecane
+blank  |blæŋk| - pusty
+using - za pomocą
+copy into - skopiować do
+preceding  |priˈsiːdɪŋ| - uprzedni
+precede  |prɪˈsiːd| - poprzedzać
+one time - jeden raz
+failure  |ˈfeɪljər| - niepowodzenie
+more useful  |ˈjuːsfl| - więcej przydatnego
+statement  |ˈsteɪtmənt| - oświadczenie / polecenie
+lines 6 through 9 are executed
+explanation  |ˌekspləˈneɪʃn| - objaśnienie
+determine  |dɪˈtɜːrmɪn| - zdecydować
+perform  |pərˈfɔːrm| - wykonywać
+performed on - wykonane nad
+various  |ˈveriəs| - różny
+be passed to |ˈpæst| - być przekazanym do
+it was passed to - to było przekazane do
+handle  |ˈhændl| - obchodzić się z
+embed |ɪmˈbed| - wbudowywać
+indent  |ɪnˈdent| - wcięcie
+exit  |ˈeksɪt| - wyjście
+failure  |ˈfeɪljər| - niepowodzenie
+placeholder - zastępująca metka
+quote strings - cytować
+validate  |ˈvælɪdeɪt| - sprawdzać ważność
+stands for - zastępować
+greater than  |ˈɡreɪtər| - większy niż
+less than - mniejszy niż
+the negation operator - negacja 
+affect the output - wpływać na wyjście
+reminder  |rɪˈmaɪndər| - przypomnienie
+negate  |nɪˈɡeɪt| - negować
+clarification  |ˌklærəfɪˈkeɪʃn| - wyjaśnienie
+attempt  |əˈtempt| - próba
+the shorthand way of doing - krótszy sposób na to żeby
+get a feel for - wczuć się w coś, jakiś proces
+change some of the values
+quantity  |ˈkwɑːntəti| - ilość
+handy  |ˈhændi| - zręczny
+suppose  |səˈpoʊz| - przypuszczać
+bracket  |ˈbrækɪt| - nawias
+showed  |ʃoʊd| - pokazał
+nested loop
+nest  |nest| - gniazdo
+consult  |kənˈsʌlt| - wprawdzić w
+continues  |kənˈtɪnjuːz| - wykonuje się
+encounter  |ɪnˈkaʊntər| - napotykać, stykać się
+eventually  |ɪˈventʃuəli| - ostatecznie
+the inner  |ˈɪnər| - wewnętrzny
+approaches  |əˈproʊtʃɪz| - zbliża się
+investigate  |ɪnˈvestɪɡeɪt| - badać, ustalać
+scheme  |skiːm| - harmonogram
+particular  |pərˈtɪkjələr| - dany
+foreground  |ˈfɔːrɡraʊnd| - pierwszy plan
