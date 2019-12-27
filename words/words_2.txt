@@ -1,19 +1,22 @@
 rapidly  |ˈræpɪdli| - szybko
+slightly  |ˈslaɪtli| - trochę
+yield  |jiːld| - dawać (w efekcie)
+in other words - innymi słowy
 register - rejestrować
-analyse - analizować
+analyse |ˈænəlˌɑɪz| - analizować
+initial - początkowy
+capture  |ˈkæptʃər| - łapać
 a tool that captures and analyzes packets 
 colon  |ˈkoʊlən| - dwukropek
 turn out that - okazać się że
-at the given moment - w tym momencie
-take up a lot of space - zajmować
+at the moment - w tym momencie
+take up (a lot of space) - zajmować
 cycle  |ˈsaɪkl| - cykl
 command  |kəˈmænd| - polecenie
 comment  |ˈkɑːment| - komentarz
 determine  |dɪˈtɜːrmɪn| - określać
-in other words - innymi słowy
 newly |ˈnuːli| - najnowszy
 zeroed  |ˈzɪəroʊd| - wyzerowany
-yield  |jiːld| - dawać (w efekcie)
 laboratory  |ˈlæbrətɔːri| - laboratorium
 provide  |prəˈvaɪd| - dostarczać
 configure  |kənˈfɪɡjər| - konfigurować
@@ -45,7 +48,6 @@ tear down - zniszczyć, zburzyć (np. dom)
 agenda  |əˈdʒendə| - ustalony plan jakiegoś spotkania
 major  |ˈmeɪdʒər| - ważny, znaczny
 stay tuned - czekać na dalsze informacje / nie zmieniać stacji 
-slightly  |ˈslaɪtli| - trochę
 slave  |sleɪv| - niewolnik
 bright  |braɪt| - jaskrawy
 brightness  |ˈbraɪtnəs| - jasność
