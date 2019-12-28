@@ -27,6 +27,7 @@ he goes from the station to the office on foot
 statement - wyciąg z konta
 to charge - pobierać opłatę
 the charge - opłata
+
 //////////////////////////////////////////
 26 * at the post office
 //////////////////////////////////////////
@@ -77,3 +78,33 @@ when will the money appear in his account?
 it should reach him by the end of the day - do końca dnia
 we have finally reached our destination (dotarliśmy do)
 it reached me - do mnie dotarło
+
+//////////////////////////////////////////
+27 * renting an apartment
+//////////////////////////////////////////
+I'm looking for a flat to rent
+have you seen this ad (advert)?
+one cosy bedroom, furnished, balcony, garage
+shall we call?
+this is a shared flat (współwynajmowane)
+shared flat, brand new bathroom, all kitchen appliances (urządzenia)
+two minutes' walk from the tube. bargin! (okazja!)
+students only
+viewing possible on Saturday
+available form August. 800 pounds per calendar month
+I'm interested in 3-bedroom flat in this 4-storey building
+is it still available?
+how many bedrooms are there?
+the flat just has been repainted and refitted
+I'm calling about a flat that I saw in the Internet
+I'm calling about a roon to let
+can I see it, please?
+would it be possible this afternoon?
+could you please text me the exact address?
+what's the best way to get there?
+where is the kitchen?
+is it fully-equipped?
+who else is living here now?
+there are an oven, fridge and kettle in the kitchen
+
+brand new - ?
