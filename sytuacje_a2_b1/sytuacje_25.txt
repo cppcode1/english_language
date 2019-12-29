@@ -14,7 +14,7 @@ how much will I have to pay for the card?
 the card is free if you spend over 100 pounds a month
 how much money can I withdraw from a cash machine daily?
 what's the limit?
-how much do you charge if I use different atm?
+how much do you charge if I use different ATM?
 is there any commission?
 do you have an online service?
 how can I access it?
@@ -51,8 +51,8 @@ how long will it take to get there?
 it will take around 10 working days
 would you like any insurance?
 is not it insured?
-can you please put the retuan address on it, just in case?
-this it your confirmation note
+can you please put the return address on it, just in case?
+this is your confirmation note
 put a postcode on the package
 do you need a proof of delivery? (dowód doręczenia)
 the total comes to 21 pounds, please
@@ -82,6 +82,34 @@ it reached me - do mnie dotarło
 //////////////////////////////////////////
 27 * renting an apartment
 //////////////////////////////////////////
+
+pillow - poduszka
+bed linen - pościel
+spare - zapasowy
+be due - być płytnym do
+broken - zepsuty
+out of order - zepsuty
+tenant - najemca 
+landlord / landlady - właściciel
+agreement - zgoda
+advert - ogłoszenie
+tenancy agreement - umowa najmu
+be supposed (to do) - mieć (np. coś zrobić)
+break down - popsuć
+break up - rozbić
+in advance - z góry
+to rent - wynająć 
+a rent - czynsz (miesięczna opłata)
+deposit - kaucja
+refundable - zwrotna
+put in - zainstalować
+move in - wprowadzić się
+move out - wyprowadzić się
+brand new - nowiutki
+utilities - media (telewizja, radio, internet)
+notice period - okres wypowiedzenia
+central heating - centralne ogrzewanie
+
 I'm looking for a flat to rent
 have you seen this ad (advert)?
 one cosy bedroom, furnished, balcony, garage
@@ -95,8 +123,8 @@ available form August. 800 pounds per calendar month
 I'm interested in 3-bedroom flat in this 4-storey building
 is it still available?
 how many bedrooms are there?
-the flat just has been repainted and refitted
-I'm calling about a flat that I saw in the Internet
+the flat has just been repainted and refitted
+I'm calling about a flat that I saw on the Internet
 I'm calling about a roon to let
 can I see it, please?
 would it be possible this afternoon?
@@ -106,5 +134,32 @@ where is the kitchen?
 is it fully-equipped?
 who else is living here now?
 there are an oven, fridge and kettle in the kitchen
-
-brand new - ?
+when can we move in?
+is there only one bathroom here?
+yes, we have just put in a new shower
+how much is the deposit?
+is it refundable?
+how much is the monthly rent?
+is it negotiable?
+it's non-negotiable
+I'd like you to pay in advance by the 10th month
+what if I have a problem with electricity or water supply
+what if something breaks down?
+what if something breaks up?
+am I supposed? - mam?
+what am I supposed to do? - co mam robić?
+am I supposed to pay the bills?
+the utilities come to around 50 pounds month
+should I transfer money to your account?
+what's the notice period?
+you have a month's notice
+do you have a spare set of keys?
+does this flat come fully furnished?
+when can we sing a tenancy agreement?
+no guests after 10 pm, please
+also, take out the rubbish every day
+the list is out of order
+the central heating is broken
+call the landlord - zadzwoń do właściciela
+the landlady is coming to pick up the rent this week
+the electricity bill is due to next week - ... jest płatny do
