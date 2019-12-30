@@ -86,13 +86,19 @@ envy  |ˈenvi| - zazdrość, zawiść
 envy sb - zazdrościć
 certain  |ˈsɜːrtn| - określony
 refuse to |rɪˈfjuːz| - odmawiać w
-
+verbose  |vɜːrˈboʊs| - gadatliwy
+crucial  |ˈkruːʃl| - kluczowy
+not needed 
+explicitly  |ɪkˈsplɪsɪtli| - jawnie
+identation - wcięcie / a space at the beginning of a line
+exceed  |ɪkˈsiːd| - przekraczać
+efficient  |ɪˈfɪʃnt| - wydajny
 
 ***********************************************
 velocity  |vəˈlɑːsəti| - prędkość
 essential  |ɪˈsenʃl| - podstawowy, zasadniczy
 process  |ˈprɑːses| - przetwarzać (plik) (zmieniać, nadając inne właściwości) /  przekształcać
-verbose  |vɜːrˈboʊs| - gadatliwy
+processed  |ˈprəʊsest| - przetwarzyłem
 indeed  |ɪnˈdiːd| - rzeczywiście
 unsatisfactory  - niezadowalający
 in favor of |ˈfeɪvər| - na korzyść
@@ -105,7 +111,6 @@ obtain  |əbˈteɪn| - uzyskać
 compose  |kəmˈpoʊz| - komponować
 estimate  |ˈestɪmət| - oszacować
 abandon  |əˈbændən| - porzucić
-crucial  |ˈkruːʃl| - kluczowy
 correspond  |ˌkɔːrəˈspɑːnd| - prowadzić korespondencję
 it causes to happen - podowuje że się zdarza
 queued  |kjuːd| - kolejkowany

@@ -1,3 +1,4 @@
+a variable must be explicitly (jawnie) initialized before is used
 does everyone can her me?
 please, sit down. she sat down
 come in. make yourself at home
@@ -26,7 +27,7 @@ she needs me
 give me that wallet. it's mine!
 Go away and leave me alone! - odejdź
 He went away without a word
- Click on this link. (Kliknij ten odnośnik.)
+Click on this link. (Kliknij ten odnośnik.)
 Will you send me that link? (Wyślesz mi ten odnośnik?) 
 We linked the camera to the computer with a USB cable. (Połączyliśmy aparat z komputerem kablem USB.)
 I was able to link all the facts together. (Byłem w stanie powiązać ze sobą wszystkie fakty.)
@@ -41,3 +42,31 @@ The experiment yielded an answer the scientists have been looking for. (Eksperym
 You will share his fate if you continue doing that. (Podzielisz jego los, jeśli będziesz nadal to robił.)
 I always wanted to be in control of my fate. (Zawsze chciałem mieć kontrolę nad moim losem.)
 They both suffered the same fate. (Ich oboje spotkał taki sam los.) 
+They processed the used bottles into a work of art. (Oni przerobili zużyte butelki w dzieło sztuki.)
+This waste paper will be processed into toilet paper. (Ta makulatura zostanie przerobiona na papier toaletowy.) 
+ssThe mother motioned the priest to enter the anteroom. (Matka skinęła, żeby ksiądz wszedł do przedpokoju.)
+She motioned me to sit by her. (Ona dała mi znak, abym usiadł przy niej.) 
+She started to feel really nervous. (Ona zaczęła się czuć naprawdę zdenerwowana.) 
+His new job makes him really nervous. (Jego nowa praca czyni go bardzo nerwowym.) 
+The distinction between the two was often far from clear. (Różnica między tymi dwoma była często niejasna.)
+What is the distinction between a flat and a sharp? (Jaka jest różnica między bemolem a krzyżykiem?)
+There is no distinction between you and your mom. (Nie ma różnicy pomiędzy tobą a twoją mamą.) 
+The weight of the letter should not exceed 500 grams. (Waga listu nie powinna przekraczać 500 gramów.)
+I am totally convinced that Europe will exceed our expectations. (Jestem całkowicie przekonany, że Europa przekroczy nasze oczekiwania.)
+You exceeded the speed limit. (Przekroczyłeś limit prędkości.)
+Don't exceed the time limit or I'll have to fail you. (Nie przekraczaj limitu czasu, albo będę musiał cię oblać.)
+Align this header to the left. (Wyrównaj ten nagłówek do lewej.) 
+ This car is superior in quality to that one. (Ten samochód jest jakościowo lepszy niż tamten.)
+My new phone is superior to the old one, it has more functions. (Mój nowy telefon jest lepszy od starego, ma więcej funkcji.)
+This product was of superior quality. (Ten produkt był ponadprzeciętnej jakości.)
+It was a symbol of superior social status. (To był symbol ponadprzeciętnego statusu społecznego.)
+Your son has some superior abilities, you should be proud of him. (Pana syn ma pewne wybitne zdolności, powinien pan być z niego dumny.) 
+ Did you ever consider that possibility? (Czy kiedykolwiek wziąłeś pod uwagę tamtą możliwość?)
+I should have considered that. (Powinienem był wziąć to pod uwagę.)
+All things considered, that wasn't too bad. (Biorąc pod uwagę wszystko, nie było tak źle.)
+We hope that you will consider our request favourably. (Mamy nadzieję, że rozpatrzą Państwo naszę prośbę pozytywnie.)
+You didn't even consider my feelings. (Nawet nie wziąłeś pod uwagę tego, co czuję.) 
+ Back in my days, cars weren't so efficient. (W moich czasach samochody nie były tak wydajne.)
+This coffee machine is quite efficient. (Ten automat do kawy jest dość wydajny.) 
+She's not a very efficient worker. (Ona nie jest bardzo wydajnym pracownikiem.) 
+This coffee machine is quite efficient. (Ten automat do kawy jest dość wydajny.) 
