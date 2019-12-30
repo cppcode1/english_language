@@ -1,5 +1,13 @@
 rapidly  |ˈræpɪdli| - szybko
 slightly  |ˈslaɪtli| - trochę
+along with - wraz z 
+link - odnośnik
+couse smth - spowodowąć coś
+concern sb - dotyczyć kogoś
+care about - martwić się z powodu czegoś
+duty  |ˈduːti| - obowiązek
+mock  |mɑːk| - symulować
+things go accoring to my plan
 yield  |jiːld| - dawać (w efekcie)
 in other words - innymi słowy
 register - rejestrować
@@ -9,6 +17,7 @@ capture  |ˈkæptʃər| - łapać
 a tool that captures and analyzes packets 
 colon  |ˈkoʊlən| - dwukropek
 turn out that - okazać się że
+it turned out that - okazało się że
 at the moment - w tym momencie
 take up (a lot of space) - zajmować
 cycle  |ˈsaɪkl| - cykl
@@ -22,6 +31,9 @@ provide  |prəˈvaɪd| - dostarczać
 configure  |kənˈfɪɡjər| - konfigurować
 actualize  |ˈæktʃuəlaɪz| - aktualizować
 pass arguments to - przekazać do
+neither ... nor - ani ... ani ...
+hand over to - przekazać do
+collect - zbierać, kolekcjonować
 collect from - odebrać od
 in accordance with - zgodnie z 
 alias  |ˈeɪliəs| - przezwisko
@@ -30,13 +42,13 @@ unlike with - w przeciwieństwie do
 in contrast to - w przeciwieństwie do
 employee - pracownik
 injection  |ɪnˈdʒekʃn| - zastrzyk
+installed  |ˌɪnˈstɒld| - zainstalowany
 images  |ˈɪmədʒəz| - obrazy
 remind me later - przypomnij mi później
 deprecate |ˈdeprəkeɪt| - uznawać za niewłaściwe
 via  |ˈvaɪə| - przez, za pośrednictwem
-retrieve  |rɪˈtriːv| - uzyskać
+retrieve |rɪˈtriːv| - odzyskać, odnaleźć
 populate  |ˈpɑːpjuleɪt| - zaludnić
-mock  |mɑːk| - symulować
 plenty  |ˈplenti| - mnóstwo
 handle - uchwyt
 (dust)bin - pojemnik na śmiecie
@@ -51,6 +63,7 @@ stay tuned - czekać na dalsze informacje / nie zmieniać stacji
 slave  |sleɪv| - niewolnik
 bright  |braɪt| - jaskrawy
 brightness  |ˈbraɪtnəs| - jasność
+upload - załadować
 summary - strzeszczenie
 entry  |ˈentri| - wpis
 exited  |ˈeksɪtɪd| - wyszedł
@@ -58,29 +71,38 @@ verify  |ˈverɪfaɪ| - weryfikować
 given - określony
 guess - domyślić się
 practically  |ˈpræktɪkli| - niemal
+satisfied  |ˈsætɪsfaɪd| - zadowolony
+be pleased - być zadowolonym
+be satisfied - być zadowolonym
+be certain - być pewnym
+pod - strąk
+verifying  |ˈverəˌfaɪɪŋ|
+proceed |proʊˈsiːd| - kontynuować (działanie)
+proceed |proʊˈsiːd| - zabrać się za coś
+storey  |ˈstɔːri| / floor - piętro
+probably  |ˈprɑːbəbli| - prawdopodobnie
+fund  |fʌnd| - fundusz
+envy  |ˈenvi| - zazdrość, zawiść
+envy sb - zazdrościć
+certain  |ˈsɜːrtn| - określony
+refuse to |rɪˈfjuːz| - odmawiać w
+
 
 ***********************************************
 velocity  |vəˈlɑːsəti| - prędkość
 essential  |ɪˈsenʃl| - podstawowy, zasadniczy
 process  |ˈprɑːses| - przetwarzać (plik) (zmieniać, nadając inne właściwości) /  przekształcać
 verbose  |vɜːrˈboʊs| - gadatliwy
-satisfied  |ˈsætɪsfaɪd| - zadowolony
 indeed  |ɪnˈdiːd| - rzeczywiście
 unsatisfactory  - niezadowalający
-verifying  |ˈverəˌfaɪɪŋ|
 in favor of |ˈfeɪvər| - na korzyść
-probably  |ˈprɑːbəbli| - prawdopodobnie
 you have probably guessed - domyśliłeś się
-certain  |ˈsɜːrtn| - określony
-be certain - być pewnym
 perfectly  |ˈpɜːrfɪktli| - doskonale
-fund  |fʌnd| - fundusz
 essentially  |ɪˈsenʃəli| - w zasadzie
 timely  |ˈtaɪmli| - w pasujący moment
 cluster  |ˈklʌstər| - kiść
 obtain  |əbˈteɪn| - uzyskać
 compose  |kəmˈpoʊz| - komponować
-refuse to |rɪˈfjuːz| - odmawiać w
 estimate  |ˈestɪmət| - oszacować
 abandon  |əˈbændən| - porzucić
 crucial  |ˈkruːʃl| - kluczowy
@@ -95,7 +117,6 @@ contribute  |kənˈtrɪbjuːt| - wnosić wkład
 toggle  |ˈtɑːɡl| - przełącznik
 suite  |swiːt| - komplet
 automate  |ˈɔːtəmeɪt| - automatyczny
-pod - strąk / owoc pojedynczy, suchy pękający
 thief  |θiːf| - złodziej
 disadvantage  |ˌdɪsədˈvæntɪdʒ| - minus
 rejoice  |rɪˈdʒɔɪs| - cieszyć się, radować się
@@ -109,10 +130,8 @@ supplied  |səˈplaɪd| - dostarczony
 snooze  |snuːz| - drzemka
 index - spis alfabetyczny
 accordance  |əˈkɔːrdns| - zgodność
-proceed |proʊˈsiːd| - kontynuować (działanie)
 per day - dzienne
 lock and unlock
-concern - dotyczyć
 confluence of - połączenie czegoś
 accordingly  |əˈkɔːrdɪŋli| - odpowiednio, stosownie
 preliminary  |prɪˈlɪmɪneri| - wstępny
@@ -174,7 +193,6 @@ in the same way - tak samo
 do you mind? - nie masz nic przeciwko?
 determine  |dɪˈtɜːrmɪn| - określać
 ordinary  |ˈɔːrdneri| - zwykły
-along with - wraz z 
 reveal  |rɪˈviːl| - ujawnić
 as a rule of thumb |θʌm|  - z reguły 
 node  |noʊd| - węzeł
@@ -206,7 +224,6 @@ register  |ˈredʒɪstər| - rejestrować
 mock  |mɑːk| - udawany, nieprawdziwy
 survey  |ˈsɜːrveɪ| - badanie
 whistle  |ˈwɪsl| - gwizd
-duty  |ˈduːti| - obowiązek
 dispatch  |dɪˈspætʃ| - wysłać
 excellence  |ˈeksələns| - doskonałość, znakomitość
 abbreviation  |əˌbriviˈeɪʃən| - skrót
@@ -345,7 +362,7 @@ except  |ɪkˈsept| - z wyjątkiem, z zastrzeżeniem
 underscore  |ˌʌndərˈskɔːr| - znak podkreślenia
 separate |ˈseprət| - rozdzielać
 equal  |ˈiːkwəl| - równy
-installed  |ˌɪnˈstɒld| - zainstalowany
+care for - dbać o
 
 make executable
 assume that |əˈsuːm| - zakładać, że
@@ -367,12 +384,11 @@ copy into - skopiować do
 preceding  |priˈsiːdɪŋ| - uprzedni
 precede  |prɪˈsiːd| - poprzedzać
 one time - jeden raz
-failure  |ˈfeɪljər| - niepowodzenie
 more useful  |ˈjuːsfl| - więcej przydatnego
 statement  |ˈsteɪtmənt| - oświadczenie / polecenie
 lines 6 through 9 are executed
 explanation  |ˌekspləˈneɪʃn| - objaśnienie
-determine  |dɪˈtɜːrmɪn| - zdecydować
+determine  |dɪˈtɜːrmɪn| - ustalać coś
 perform  |pərˈfɔːrm| - wykonywać
 performed on - wykonane nad
 various  |ˈveriəs| - różny
@@ -415,4 +431,3 @@ investigate  |ɪnˈvestɪɡeɪt| - badać, ustalać
 scheme  |skiːm| - harmonogram
 particular  |pərˈtɪkjələr| - dany
 foreground  |ˈfɔːrɡraʊnd| - pierwszy plan
-upload - załadować

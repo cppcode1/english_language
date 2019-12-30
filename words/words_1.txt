@@ -11,6 +11,7 @@ she shook her head - ona pokręciła głową
 turn away - odwrócić się
 walk away - odejść
 work as - pracować jako
+work for - pracować dla
 action  |ˈækʃn| - działanie
 explain my actions to smb - wyjaśnić moje działania komuś
 correct |kəˈrekt| - poprawić
@@ -60,10 +61,12 @@ fatal failure
 I failed  - nie powiodło mi się 
 installed  |ˌɪnˈstɒld| - zainstalowany
 cut off / truncate  |ˈtrʌŋkeɪt| - odciąć
+cut out - wyciąć
 split in |splɪt| - rozdzielić na
 hyphen  |ˈhaɪfn| - pozioma kreska
 dash  |dæʃ| - pozioma kreska
 contact smb - skontaktować się z
+bind (bound) - połączyć coś z czymś
 join smb - dołączyć się do
 watch smb  |wɑːtʃ| - obserwować kogoś
 call smb - zadzwonić do
