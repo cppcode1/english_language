@@ -2,7 +2,7 @@ rapidly  |ˈræpɪdli| - szybko
 slightly  |ˈslaɪtli| - trochę
 along with - wraz z 
 link - odnośnik
-couse smth - spowodowąć coś
+couse smth - spowodować coś
 concern sb - dotyczyć kogoś
 care about - martwić się z powodu czegoś
 duty  |ˈduːti| - obowiązek
@@ -93,8 +93,14 @@ explicitly  |ɪkˈsplɪsɪtli| - jawnie
 identation - wcięcie / a space at the beginning of a line
 exceed  |ɪkˈsiːd| - przekraczać
 efficient  |ɪˈfɪʃnt| - wydajny
+augment  |ɔːɡˈment| - zwiększać
+mismatch  |ˌmɪsˈmætʃ| - rozbieżność
+discard / reject  |rɪˈdʒekt| - odrzucać
+assumption  |əˈsʌmpʃn| - założenie, przypuszczenie
+lock and unlock
 
 ***********************************************
+you have probably guessed - domyśliłeś się
 velocity  |vəˈlɑːsəti| - prędkość
 essential  |ɪˈsenʃl| - podstawowy, zasadniczy
 process  |ˈprɑːses| - przetwarzać (plik) (zmieniać, nadając inne właściwości) /  przekształcać
@@ -102,7 +108,6 @@ processed  |ˈprəʊsest| - przetwarzyłem
 indeed  |ɪnˈdiːd| - rzeczywiście
 unsatisfactory  - niezadowalający
 in favor of |ˈfeɪvər| - na korzyść
-you have probably guessed - domyśliłeś się
 perfectly  |ˈpɜːrfɪktli| - doskonale
 essentially  |ɪˈsenʃəli| - w zasadzie
 timely  |ˈtaɪmli| - w pasujący moment
@@ -136,7 +141,6 @@ snooze  |snuːz| - drzemka
 index - spis alfabetyczny
 accordance  |əˈkɔːrdns| - zgodność
 per day - dzienne
-lock and unlock
 confluence of - połączenie czegoś
 accordingly  |əˈkɔːrdɪŋli| - odpowiednio, stosownie
 preliminary  |prɪˈlɪmɪneri| - wstępny
@@ -145,7 +149,6 @@ accelerate  |əkˈseləreɪt| - przyspieszać
 distinguish ... from ... |dɪˈstɪŋɡwɪʃ| - rozróżniać
 namely  |ˈneɪmli| - mianowicie
 dismiss  |dɪsˈmɪs| - odrzucić
-discard / reject  |rɪˈdʒekt| - odrzucać
 interact  |ˌɪntərˈækt| - utrzymywać stosunki
 appliance  |əˈplaɪəns| - urządzenie
 distribute  |dɪˈstrɪbjuːt| - rozprowadzić
