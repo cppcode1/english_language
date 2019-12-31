@@ -12,11 +12,12 @@ turn away - odwrócić się
 walk away - odejść
 work as - pracować jako
 work for - pracować dla
+work on - placować nad
 action  |ˈækʃn| - działanie
 explain my actions to smb - wyjaśnić moje działania komuś
 correct |kəˈrekt| - poprawić
 investigate  |ɪnˈvestɪɡeɪt| - badać
-examin - badać
+examine - badać
 indent |ɪnˈdent| - wcięcie (w tekscie)
 occur |əˈkɜːr| - wydarzyć się
 occurred  |əˈkɝːd| - wydarzyło się
@@ -66,6 +67,7 @@ split in |splɪt| - rozdzielić na
 hyphen  |ˈhaɪfn| - pozioma kreska
 dash  |dæʃ| - pozioma kreska
 contact smb - skontaktować się z
+tie - zawiązywać (sznurówki)
 bind (bound) - połączyć coś z czymś
 join smb - dołączyć się do
 watch smb  |wɑːtʃ| - obserwować kogoś

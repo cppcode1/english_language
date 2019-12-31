@@ -1,6 +1,7 @@
 rapidly  |ˈræpɪdli| - szybko
 slightly  |ˈslaɪtli| - trochę
-along with - wraz z 
+assume - zakładać
+assumption  |əˈsʌmpʃn| - założenie, przypuszczenie
 link - odnośnik
 couse smth - spowodować coś
 concern sb - dotyczyć kogoś
@@ -17,6 +18,7 @@ capture  |ˈkæptʃər| - łapać
 a tool that captures and analyzes packets 
 colon  |ˈkoʊlən| - dwukropek
 turn out that - okazać się że
+come out that - okazać się że
 it turned out that - okazało się że
 at the moment - w tym momencie
 take up (a lot of space) - zajmować
@@ -33,7 +35,7 @@ actualize  |ˈæktʃuəlaɪz| - aktualizować
 pass arguments to - przekazać do
 neither ... nor - ani ... ani ...
 hand over to - przekazać do
-collect - zbierać, kolekcjonować
+collect |kəˈlekt| - zbierać, kolekcjonować
 collect from - odebrać od
 in accordance with - zgodnie z 
 alias  |ˈeɪliəs| - przezwisko
@@ -55,7 +57,8 @@ handle - uchwyt
 chart  |tʃɑːrt| - wykres
 chapter  |ˈtʃæptər| - rozdział (książki)
 utilize  |ˈjuːtəlaɪz| - wykorzystywać
-to empty - opróżnić (kosz)
+empty - opróżnić (kosz)
+empty - pusty
 tear down - zniszczyć, zburzyć (np. dom)
 agenda  |əˈdʒendə| - ustalony plan jakiegoś spotkania
 major  |ˈmeɪdʒər| - ważny, znaczny
@@ -88,7 +91,6 @@ certain  |ˈsɜːrtn| - określony
 refuse to |rɪˈfjuːz| - odmawiać w
 verbose  |vɜːrˈboʊs| - gadatliwy
 crucial  |ˈkruːʃl| - kluczowy
-not needed 
 explicitly  |ɪkˈsplɪsɪtli| - jawnie
 identation - wcięcie / a space at the beginning of a line
 exceed  |ɪkˈsiːd| - przekraczać
@@ -96,346 +98,4 @@ efficient  |ɪˈfɪʃnt| - wydajny
 augment  |ɔːɡˈment| - zwiększać
 mismatch  |ˌmɪsˈmætʃ| - rozbieżność
 discard / reject  |rɪˈdʒekt| - odrzucać
-assumption  |əˈsʌmpʃn| - założenie, przypuszczenie
-lock and unlock
 
-***********************************************
-you have probably guessed - domyśliłeś się
-velocity  |vəˈlɑːsəti| - prędkość
-essential  |ɪˈsenʃl| - podstawowy, zasadniczy
-process  |ˈprɑːses| - przetwarzać (plik) (zmieniać, nadając inne właściwości) /  przekształcać
-processed  |ˈprəʊsest| - przetwarzyłem
-indeed  |ɪnˈdiːd| - rzeczywiście
-unsatisfactory  - niezadowalający
-in favor of |ˈfeɪvər| - na korzyść
-perfectly  |ˈpɜːrfɪktli| - doskonale
-essentially  |ɪˈsenʃəli| - w zasadzie
-timely  |ˈtaɪmli| - w pasujący moment
-cluster  |ˈklʌstər| - kiść
-obtain  |əbˈteɪn| - uzyskać
-compose  |kəmˈpoʊz| - komponować
-estimate  |ˈestɪmət| - oszacować
-abandon  |əˈbændən| - porzucić
-correspond  |ˌkɔːrəˈspɑːnd| - prowadzić korespondencję
-it causes to happen - podowuje że się zdarza
-queued  |kjuːd| - kolejkowany
-credentials |krəˈdenʃlz| - tożsamość
-denote (by yellow) |dɪˈnoʊt| - oznaczać czymś
-proceed  |proʊˈsiːd| - trwać, toczyć się, kontyniować
-assume - zakładać
-contribute  |kənˈtrɪbjuːt| - wnosić wkład
-toggle  |ˈtɑːɡl| - przełącznik
-suite  |swiːt| - komplet
-automate  |ˈɔːtəmeɪt| - automatyczny
-thief  |θiːf| - złodziej
-disadvantage  |ˌdɪsədˈvæntɪdʒ| - minus
-rejoice  |rɪˈdʒɔɪs| - cieszyć się, radować się
-confuse  |kənˈfjuːz| - mylić, nie rozróżniać
-expose  |ɪkˈspoʊz| - ujawniać, wywieszać
-complex  |kəmˈpleks| - złożony
-conjunction  |kənˈdʒʌŋkʃn| - połączenie
-retrieval  |rɪˈtriːvl| - odzyskanie
-delivered  |dəˈlɪvərd| - dostarczony
-supplied  |səˈplaɪd| - dostarczony
-snooze  |snuːz| - drzemka
-index - spis alfabetyczny
-accordance  |əˈkɔːrdns| - zgodność
-per day - dzienne
-confluence of - połączenie czegoś
-accordingly  |əˈkɔːrdɪŋli| - odpowiednio, stosownie
-preliminary  |prɪˈlɪmɪneri| - wstępny
-agility  |əˈdʒɪləti| - zręczność, zwinność
-accelerate  |əkˈseləreɪt| - przyspieszać
-distinguish ... from ... |dɪˈstɪŋɡwɪʃ| - rozróżniać
-namely  |ˈneɪmli| - mianowicie
-dismiss  |dɪsˈmɪs| - odrzucić
-interact  |ˌɪntərˈækt| - utrzymywać stosunki
-appliance  |əˈplaɪəns| - urządzenie
-distribute  |dɪˈstrɪbjuːt| - rozprowadzić
-configure  |kənˈfɪɡjər| - konfiguracja
-privilege  |ˈprɪvəlɪdʒ| - przywilej
-privileges  |ˈprɪvlədʒəz| - przywileje
-grant - przyznać coś czymś
-pending  |ˈpendɪŋ| - toczący się
-recapture  |ˌriːˈkæptʃər| - odzyskać
-compose  |kəmˈpoʊz| - komponować, tworzyć
-consistency  |kənˈsɪstənsi| - spójność
-variety of |vəˈraɪəti| - różnorodność
-thus  |ðʌs| - i tak, stąd
-beware  |bɪˈwer| -  strzec się
-term  |tɜːrm| - termin
-confusion  |kənˈfjuːʒn| - niejasność
-whereas  |ˌwerˈæz| - podczas gdy
-corresponds to - jest odpowiednikiem do 
-commonly  |ˈkɑːmənli| - powszechnie
-resemble smth |rɪˈzembl| - być podobnym do
-followed by - a następnie
-comment  |ˈkɑːment| - komentarz
-further  |ˈfɜːrðər| - późniejszy
-unfinished  |ʌnˈfɪnɪʃt| - nie dokończony
-implement  |ˈɪmplɪment| - wprowadzić w czyn
-proper  |ˈprɑːpər| - prawidłowy
-conference  |ˈkɑːnfərəns| - konferencja
-fair  |fer| - targ
-approve  |əˈpruːv| - zatwierdzać
-approval  |əˈpruːvl| - zatwierdzenie
-expense  |ɪkˈspens| - koszt
-patch  |pætʃ| - łata (fragment materiału przyszyty do tkaniny)
-commitment  |kəˈmɪtmənt| - zobowiązanie
-bourne  |ˈbɔːrn| - urodzony
-discontinue  |ˌdɪskənˈtɪnjuː| - zaprzestać, zakończyć działalność
-assess  |əˈses| - oceniać
-particular  |pərˈtɪkjələr| - konkretny
-return from |rɪˈtɜːrn| - wrócić z 
-returned from |rəˈtɝːnd| - wrócił z
-questions  |ˈkwestʃənz| - pytania
-in this particular case - w tym przypadku
-suitable  |ˈsuːtəbl| - pasujący
-for all of you - dla każdego z was
-corresponding  |ˌkɔːrəˈspɑːndɪŋ| - odpowiedni
-attempt  |əˈtempt| - próbować
-evaluate  |ɪˈvæljueɪt| - oceniać
-rounding  |ˈraʊndɪŋ| - okrąglenie liczby
-the same - ten sam
-in the same way - tak samo
-do you mind? - nie masz nic przeciwko?
-determine  |dɪˈtɜːrmɪn| - określać
-ordinary  |ˈɔːrdneri| - zwykły
-reveal  |rɪˈviːl| - ujawnić
-as a rule of thumb |θʌm|  - z reguły 
-node  |noʊd| - węzeł
-substitute  |ˈsʌbstɪtuːt| - zastępować
-superior  |suːˈpɪriər| - przełożony
-supervisor  |ˈsuːpərvaɪzər| - kierownik, nadzorca
-infinite  |ˈɪnfɪnət| - nieskończony
-honestly  |ˈɑːnɪstli| - szczerze
-resume  |rɪˈzuːm| - wznowić
-scenario  |səˈnærioʊ| - scenariusz
-warn smb  |wɔːrn| - ostrzec
-attempt  |əˈtempt| - próbować
-interestingly  |ˈɪntrəstɪŋli| - co ciekawe
-attic  |ˈætɪk| - strych / mansarda
-stamp  |stæmp| - pieczęć
-column  |ˈkɑːləm| - kolumna
-intact  |ɪnˈtækt| - nienaruszony
-alternative  |ɔːlˈtɜːrnətɪv| - alternatywa
-coverage  |ˈkʌvərɪdʒ| - pokrycie
-priority  |praɪˈɔːrəti| - priorytet
-priorities  |praˈjɔːrətiz| - priorytety
-snap  |snæp| - fotografia (najczęściej amatorska), zdjęcie
-environment  |ɪnˈvaɪrənmənt| - środowisko
-machine  |məˈʃiːn| - maszyna
-status  |ˈsteɪtəs| - status
-resolution  |ˌrezəˈluːʃn| - rozwiązanie
-event  |ɪˈvent| - przypadek, zdarzenie
-register  |ˈredʒɪstər| - rejestrować
-mock  |mɑːk| - udawany, nieprawdziwy
-survey  |ˈsɜːrveɪ| - badanie
-whistle  |ˈwɪsl| - gwizd
-dispatch  |dɪˈspætʃ| - wysłać
-excellence  |ˈeksələns| - doskonałość, znakomitość
-abbreviation  |əˌbriviˈeɪʃən| - skrót
-acronym  |ˈækrənɪm| - skrótowiec
-distinctive  |dɪˈstɪŋktɪv| - charakterystyczny
-delimit  by |diˈlɪmɪt| - ustanawiać granice
-also delimited by double quotes
-obligatory  |əˈblɪɡətɔːri| - obowiązkowy
-class definition -> class implementetion
-prohibit  |prəˈhɪbɪt| - zakazywać
-facilitate  |fəˈsɪlɪteɪt| - ułatwiać
-legal in |ˈliːɡl| - dopuszczalny w 
-conditional statement
-further  |ˈfɜːrðər| - dodatkowy
-with - za pomocą
-suppress  |səˈpres| - stłumić
-be prefixed - poprzedzić coś czymś
-consist of |kənˈsɪst| - składać się z
-typically  |ˈtɪpɪkli| - zwykle
-letter - literka
-lowercase letters
-issue a command - wydać rozkaz
-the file located on the file system
-recognize  |ˈrekəɡnaɪz| - rozpoznać, uznać za
-recognizing  |ˈrekəgˌnaɪzɪŋ|
-recognized  |ˈrekəgˌnaɪzd| - uznany za
-repeatedly  |rɪˈpiːtɪdli| - wielokrotnie
-token  |ˈtoʊkən| - symboliczny
-followed by - po którym następuje
-asterisk  |ˈæstərɪsk| - gwiazdka
-simultaneously  |ˌsɪmlˈteɪnɪəsli| - jednocześnie
-underlying  |ˌʌndərˈlaɪɪŋ| - podstawowy
-be responsible for - być odpowiedzilnym za
-spawn  |spɔːn| -  powodować, płodzić
-shark  |ʃɑːrk| - [zool.] rekin
-ignored  |ɪgˈnɔːrd| - ignorowany
-skip - pomijać
-zone  |zoʊn| - strefa
-exclamation mark - wykrzyknik
-subject  |ˈsʌbdʒɪkt| - temat (wiadomości na przykład)
-particular  |pərˈtɪkjələr| - szczególny
-morph  |mɔːrf| - forma, postać
-accomplish  |əˈkɑːmplɪʃ| - wykonać
-photo  |ˈfoʊtoʊ| - zdjęcie
-picture  |ˈpɪktʃər| - obraz
-image  |ˈɪmɪdʒ| - obraz, zdjęcie
-figure  |ˈfɪɡjər| - zdjęcie
-arbitrarily  |ˌɑːrbəˈtrerəli| - losowo
-range between - wachać się pomiędzy
-appropriate  |əˈproʊpriət| - właściwy
-stretch  |stretʃ| - rozciągnąć
-stretched or squashed
-width  |wɪdθ| - szerokość
-desired  |dɪˈzɑɪərd| - pożądany 
-scale  |skeɪl| - zmieniać rozmiar
-average  |ˈævərɪdʒ| - średnia
-reuse  |ˌriːˈjuːs| - powtórnie wykorzystać
-non-negative integer value
-distinct  |dɪˈstɪŋkt| - odrębny, różny
-underly  |ˌəndərˈlaɪ| - podstawowy, zasadniczy
-mail  |meɪl| - wysyłać pocztą
-wipe  |waɪp| - wytrzeć
-terminate  |ˈtɜːrmeɪt| - zakończyć
-packages  |ˈpækədʒəz| - pakiety
-layer  |ˈleier| - warstwa
-region  |ˈriːdʒən| - region
-evaluate  |ɪˈvæljueɪt| - oceniać
-numbered  |ˈnʌmbr̩d| - ponumerowany
-cursor  |ˈkɜːrsər| 
-append  |əˈpend| - dołączać, załączać
-monitor  |ˈmɑːnɪtər| - monitor
-content  |ˈkɑːntent| - treść, zawartość
-be gone - zniknąć
-establish  |ɪˈstæblɪʃ| - nawiązać (połączenie)
-trace  |treɪs| - lokalizować, namierzać
-minus  |ˈmaɪnəs| - minus
-processes  |ˈproʊsesɪz| - procesy
-equation  |ɪˈkweɪʒn| - [mat.] równanie
-symbol  |ˈsɪmbl| - symbol
-condition  |kənˈdɪʃn| - warunek
-parameter  |pəˈræmɪtər| - parametr
-transparent  |trænsˈpærənt| - przejrzysty
-used  |juːst| - używany
-be used - służyć
-is used to - służy do
-hit  |hɪt| - nacisnąć
-digit  |ˈdɪdʒɪt| - cyfra
-backward  |ˈbækwərd| - wsteczny
-refer  |rɪˈfɜːr| - odnosić się
-browse  |braʊz| - [inf.] przeglądać
-besides / apart of |əˈpɑːrt| - oprócz
-cut off - odciąć
-trigger  |ˈtrɪɡər| - wywołać coś
-give and take away - dać i zabrać
-slide  |slaɪd| - slajd, osuwanie się 
-exclude  |ɪkˈskluːd| - wyłączać, wykluczyć
-disconnect  |ˌdɪskəˈnekt| - odłączać
-column  |ˈkɑːləm| - kolumna
-columns  |ˈkɑːləmz| - kolumny
-remote  |rɪˈmoʊt| - zdalny
-I received  |rəˈsiːvd| - dostałem
-suspend  |səˈspend| - zawieszać
-bottom  |ˈbɑːtəm| - dno, spód
-continue  |kənˈtɪnjuː| - kontynuować
-continuing  |kənˈtɪnjuːɪŋ| - kontynuacja
-maintenance  |ˈmeɪntənəns| - utrzymanie, konserwacja
-persist  |pərˈsɪst| - upierać się przy czymś, obstawać, nie ustawać
-remain  |rɪˈmeɪn| - pozostawać
-customize  |ˈkʌstəmaɪz| - dostosowywać do potrzeb
-adjust - dostosowywać
-dangle  |ˈdæŋɡl| - zwisać, wisieć
-unspecified  |ˌʌnˈspesɪfaɪd| - nieokreślony
-lookup  - przegląd
-go ahead - iść naprzód
-disappear  |ˌdɪsəˈpɪr| - znikać
-instantly  |ˈɪnstəntli| - niezwłocznie
-person and people
-dependence  |dɪˈpendəns| - zależność
-dependencies  |dəˈpendənsiz| - zależności
-restrict  |rɪˈstrɪkt| - ograniczać
-wide  |waɪd| - szeroki
-split  |splɪt| - podzielić
-squeeze  |skwiːz| - scisnąć
-omit  |əˈmɪt| - pomijać
-schedule  |ˈskedʒuːl| - planować, harmonogram
-junior  |ˈdʒuːniər| - młodszy
-senior  |ˈsiːniər| - starszy
-sort by  - sortować po
-middle  |ˈmɪdl| - środek
-turn off - wyłączyć
-identifier  |aɪˈdentɪfaɪər| - identyfikator
-anything  |ˈeniθɪŋ| - coś (w zdaniach pytających i przeczących)
-anythig but - wszystko za wyjątkiem
-digit  |ˈdɪdʒɪt| - cyfra
-except  |ɪkˈsept| - z wyjątkiem, z zastrzeżeniem
-underscore  |ˌʌndərˈskɔːr| - znak podkreślenia
-separate |ˈseprət| - rozdzielać
-equal  |ˈiːkwəl| - równy
-care for - dbać o
-
-make executable
-assume that |əˈsuːm| - zakładać, że
-at the beginning of - na początku
-run a script prepend ./ to the filename
-it is suggested that - propunuje się żeby
-specifically for |spɪˈsɪfɪkli| - specjalnie dla
-deem  |diːm| - uważać za coś
-appropriate  |əˈproʊpriət| - stosowny, właściwy
-deem appropriate - uważać za potrzebne
-dependable  |dɪˈpendəbl| - niezawodny
-claim  |kleɪm| - żądać
-here is an explanation for each line
-either in ... or in ... - albo w ... albo w 
-highly recommended - bardzo polecane
-blank  |blæŋk| - pusty
-using - za pomocą
-copy into - skopiować do
-preceding  |priˈsiːdɪŋ| - uprzedni
-precede  |prɪˈsiːd| - poprzedzać
-one time - jeden raz
-more useful  |ˈjuːsfl| - więcej przydatnego
-statement  |ˈsteɪtmənt| - oświadczenie / polecenie
-lines 6 through 9 are executed
-explanation  |ˌekspləˈneɪʃn| - objaśnienie
-determine  |dɪˈtɜːrmɪn| - ustalać coś
-perform  |pərˈfɔːrm| - wykonywać
-performed on - wykonane nad
-various  |ˈveriəs| - różny
-be passed to |ˈpæst| - być przekazanym do
-it was passed to - to było przekazane do
-handle  |ˈhændl| - obchodzić się z
-embed |ɪmˈbed| - wbudowywać
-indent  |ɪnˈdent| - wcięcie
-exit  |ˈeksɪt| - wyjście
-failure  |ˈfeɪljər| - niepowodzenie
-placeholder - zastępująca metka
-quote strings - cytować
-validate  |ˈvælɪdeɪt| - sprawdzać ważność
-stands for - zastępować
-greater than  |ˈɡreɪtər| - większy niż
-less than - mniejszy niż
-the negation operator - negacja 
-affect the output - wpływać na wyjście
-reminder  |rɪˈmaɪndər| - przypomnienie
-negate  |nɪˈɡeɪt| - negować
-clarification  |ˌklærəfɪˈkeɪʃn| - wyjaśnienie
-attempt  |əˈtempt| - próba
-the shorthand way of doing - krótszy sposób na to żeby
-get a feel for - wczuć się w coś, jakiś proces
-change some of the values
-quantity  |ˈkwɑːntəti| - ilość
-handy  |ˈhændi| - zręczny
-suppose  |səˈpoʊz| - przypuszczać
-bracket  |ˈbrækɪt| - nawias
-showed  |ʃoʊd| - pokazał
-nested loop
-nest  |nest| - gniazdo
-consult  |kənˈsʌlt| - wprawdzić w
-continues  |kənˈtɪnjuːz| - wykonuje się
-encounter  |ɪnˈkaʊntər| - napotykać, stykać się
-eventually  |ɪˈventʃuəli| - ostatecznie
-the inner  |ˈɪnər| - wewnętrzny
-approaches  |əˈproʊtʃɪz| - zbliża się
-investigate  |ɪnˈvestɪɡeɪt| - badać, ustalać
-scheme  |skiːm| - harmonogram
-particular  |pərˈtɪkjələr| - dany
-foreground  |ˈfɔːrɡraʊnd| - pierwszy plan
