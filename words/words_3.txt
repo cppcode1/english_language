@@ -1,11 +1,18 @@
-***********************************************
+thief  |θiːf| - złodziej
+cluster  |ˈklʌstər| - kiść
+estimate  |ˈestɪmət| - oszacować
+abandon  |əˈbændən| - porzucić
+freed  |ˈfriːd| - wolny
+node  |noʊd| - węzeł
+process  |ˈprɑːses| - przetwarzać (plik) (zmieniać, nadając inne właściwości) /  przekształcać
 it is not needed 
 lock and unlock
-node  |noʊd| - węzeł
+per day - dzienne
+
+******************************************************
 you have probably guessed - domyśliłeś się
 velocity  |vəˈlɑːsəti| - prędkość
 essential  |ɪˈsenʃl| - podstawowy, zasadniczy
-process  |ˈprɑːses| - przetwarzać (plik) (zmieniać, nadając inne właściwości) /  przekształcać
 processed  |ˈprəʊsest| - przetwarzyłem
 indeed  |ɪnˈdiːd| - rzeczywiście
 unsatisfactory  - niezadowalający
@@ -13,11 +20,8 @@ in favor of |ˈfeɪvər| - na korzyść
 perfectly  |ˈpɜːrfɪktli| - doskonale
 essentially  |ɪˈsenʃəli| - w zasadzie
 timely  |ˈtaɪmli| - w pasujący moment
-cluster  |ˈklʌstər| - kiść
 obtain  |əbˈteɪn| - uzyskać
 compose  |kəmˈpoʊz| - komponować
-estimate  |ˈestɪmət| - oszacować
-abandon  |əˈbændən| - porzucić
 correspond  |ˌkɔːrəˈspɑːnd| - prowadzić korespondencję
 it causes to happen - podowuje że się zdarza
 queued  |kjuːd| - kolejkowany
@@ -28,7 +32,6 @@ contribute  |kənˈtrɪbjuːt| - wnosić wkład
 toggle  |ˈtɑːɡl| - przełącznik
 suite  |swiːt| - komplet
 automate  |ˈɔːtəmeɪt| - automatyczny
-thief  |θiːf| - złodziej
 disadvantage  |ˌdɪsədˈvæntɪdʒ| - minus
 rejoice  |rɪˈdʒɔɪs| - cieszyć się, radować się
 confuse  |kənˈfjuːz| - mylić, nie rozróżniać
@@ -41,7 +44,6 @@ supplied  |səˈplaɪd| - dostarczony
 snooze  |snuːz| - drzemka
 index - spis alfabetyczny
 accordance  |əˈkɔːrdns| - zgodność
-per day - dzienne
 confluence of - połączenie czegoś
 accordingly  |əˈkɔːrdɪŋli| - odpowiednio, stosownie
 preliminary  |prɪˈlɪmɪneri| - wstępny
@@ -340,3 +342,4 @@ investigate  |ɪnˈvestɪɡeɪt| - badać, ustalać
 scheme  |skiːm| - harmonogram
 particular  |pərˈtɪkjələr| - dany
 foreground  |ˈfɔːrɡraʊnd| - pierwszy plan
+caused by |ˈkɑːzd| - spowodowane 
