@@ -86,7 +86,7 @@ it reached me - do mnie dotarło
 pillow - poduszka
 bed linen - pościel
 spare - zapasowy
-be due - być płytnym do
+be due - być płatnym do
 broken - zepsuty
 out of order - zepsuty
 tenant - najemca 
@@ -142,23 +142,23 @@ is it refundable?
 how much is the monthly rent?
 is it negotiable?
 it's non-negotiable
-I'd like you to pay in advance by the 10th month
+I'd like you to pay in advance by the 10th of each month
 what if I have a problem with electricity or water supply
 what if something breaks down?
 what if something breaks up?
 am I supposed? - mam?
 what am I supposed to do? - co mam robić?
 am I supposed to pay the bills?
-the utilities come to around 50 pounds month
+the utilities come to around 50 pounds a month
 should I transfer money to your account?
 what's the notice period?
 you have a month's notice
 do you have a spare set of keys?
 does this flat come fully furnished?
-when can we sing a tenancy agreement?
+when can we sign a tenancy agreement?
 no guests after 10 pm, please
 also, take out the rubbish every day
-the list is out of order
+the lift is out of order
 the central heating is broken
 call the landlord - zadzwoń do właściciela
 the landlady is coming to pick up the rent this week
