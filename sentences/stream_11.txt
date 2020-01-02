@@ -1,25 +1,25 @@
 It takes a lot of willpower to give up smoking. (Potrzeba dużo siły woli, żeby rzucić palenie.)
 She gave up her English lessons after the first semester. (Ona przestała brać lekcje angielskiego po pierwszym semestrze.)
 No matter what happens we should not give up trying. (Bez względu na to, co się stanie nie powinniśmy przestać próbować.) 
+The fever was caused |ˈkɑːzd| by a virus. (Gorączka była wywołana wirusem.) 
 The heavy rain caused a flood |flʌd|. (Obfity deszcz spowodował powódź.) 
-The fever was caused by a virus. (Gorączka była wywołana wirusem.) 
 Others said he did not want to cause problems for his family. 
 I really don't think they will cause any problems at all. 
-It turned out that (okazało się że) they weren't cousins, after all.
+It turned out that they weren't cousins, after all - okazało się że
 He came out to be a bad person. (On okazał się być złą osobą.)
 It came out to be a good idea. (To okazało się być dobrym pomysłem.) 
-Functions that do not alter the values of any data member must be declared const.
+Functions that don't alter the values of any data member must be declared const.
 You hurt his feelings with your mistaken assumptions. (Zraniłeś jego uczucia swoimi mylnymi założeniami.)
 My assumption was that they wanted to come with us. (Moim założeniem było, że oni chcą iść z nami.)
 It was only a foolish assumption. (To było tylko niemądre przypuszczenie.) 
 I watched a plug and I changed the channel. (Obejrzałem reklamę i zmieniłem kanał.) 
 I often imagine how people would react to my death. (Często wyobrażam sobie jak ludzie zareagowaliby na moją śmierć.)
 Don't worry, he'll stop crying if you don't react. (Nie martw się, on przestanie płakać, jeśli nie zareagujesz.) 
-She's only three years old but can already tie her shoes. (Ona ma tylko trzy lata, ale potrafi już zawiązać swoje buty.) 
+She is only three years old but can already tie her shoes. (Ona ma tylko trzy lata, ale potrafi już zawiązać swoje buty.) 
 Can you tie your shoelaces? (Możesz zawiązać swoje sznurówki?)
 I feel as if my hands were tied |taɪd|. (Czuję się jakbym miał związane ręce.)
 Let's tie him up and blindfold him. (Zwiążmy go i zakryjmy mu oczy.) 
-Can you manage this issue? (Poradzisz sobie z tym problemem?)
+Can you manage |ˈmænɪdʒ| this issue? (Poradzisz sobie z tym problemem?)
 We have to deal with this issue as soon as possible. (Musimy poradzić sobie z tym problemem tak szybko, jak to możliwe.) 
 Our deal was very profitable for me. (Nasze porozumienie było dla mnie bardzo opłacalne.) 
 In my defence, all I can say is, you do take up a lot of space. (Na swoją obronę mogę tylko powiedzieć, że zajmujesz dużo miejsca.)
@@ -32,9 +32,9 @@ I bet she's got plenty of money by now. (Założę się, że ona ma teraz mnóst
 Did you ever consider that possibility? (Czy kiedykolwiek wziąłeś pod uwagę tamtą możliwość?)
 I should have considered that. (Powinienem był wziąć to pod uwagę.)
 All things considered, that wasn't too bad. (Biorąc pod uwagę wszystko, nie było tak źle.)
-We hope that you will consider our request favourably. (Mamy nadzieję, że rozpatrzą Państwo naszę prośbę pozytywnie.)
+We hope that you will consider |kənˈsɪdər| our request favourably |ˈfeɪvərəbli|. (Mamy nadzieję, że rozpatrzą Państwo naszę prośbę pozytywnie.)
 You didn't even consider my feelings. (Nawet nie wziąłeś pod uwagę tego, co czuję.) 
-How do you utilize this tool?
+How do you utilize |ˈjuːtəlaɪz| this tool?
 We must consider how best to utilize what resources we have.
 We cannot consider that strategy without using the tools at our disposal |dɪˈspoʊzl|. (Nie możemy rozważać tej strategii bez używania narzędzi, jakimi dysponujemy.) 
 I am at your disposal.
@@ -42,8 +42,25 @@ I give up, I can't do this. (Poddaję się, nie mogę tego zrobić.)
 Don't give up! (Nie poddawaj się!)
 How do I know when it's time to give up? (Skąd mam wiedzieć, że czas się poddać?) 
 There is one exception to this rule
-She always looks as though she's on drugs. 
+She always looks as though (jak gdyby) she's on drugs. 
 She didn't recognize any of the names. (Ona nie rozpoznała żadnego z nazwisk.)
 Give it a few more years and you won't recognize it. (Daj temu jeszcze kilka lat i nie rozpoznasz tego.)
 I only hoped she would recognise me. (Miałem tylko nadzieję, że ona mnie rozpozna.) 
+Dogs are not permitted inside the shop. (Nie zezwala się na wprowadzanie psów do sklepu.)
+I'll just copy that, if you permit me. (Po prostu skopiuję to, jeśli mi pozwolisz.)
+He is not permitted to watch TV after 10 pm. (Nie wolno mu oglądać telewizji po 10 wieczorem.) 
+She didn't ask anyone for permission. (Ona nie zapytała nikogo o pozwolenie.)
+If you don't turn up we'll know you didn't get permission. (Jeśli się nie pojawisz, będziemy wiedzieć, że nie otrzymałeś pozwolenia.)
+My mother gave me permission to come back home after midnight. (Mama dała mi pozwolenie na powrót do domu po północy.) 
+The teacher approved the topic of my essay. (Nauczyciel zatwierdził temat mojego wypracowania.) 
+It wasn't my suggestion. (To nie była moja sugestia.)
+We must buy her a gift. Any suggestions? (Musimy kupić jej prezent. Jakieś propozycje?)
+I would like to redecorate my room and I'm open to suggestions. (Chciałbym na nowo urządzić swój pokój i jestem otwarty na propozycje.) 
+Do not be discouraged if, at first, you have difficulty with a specific exercise. (Nie zniechęcaj się, jeśli na początku będziesz mieć trudności z konkretnym zadaniem.) 
+He was familiar with those roads. 
+They swapped seats. (Oni zamienili się miejscami.)
+After that, we can swap sides and have another go. (Potem możemy zamienić się stronami i spróbować jeszcze raz.)
+The players swapped shirts at the end of the match. (Gracze wymienili się koszulkami pod koniec rozgrywki.) 
+She said to watch out for people, not to trust anyone. (Ona powiedziała, żebym uważał na ludzi, żebym nikomu nie ufał.) 
+Watch out for architectural differences between machines, such as stack size and byte ordering
 
