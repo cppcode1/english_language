@@ -1,19 +1,35 @@
-utilize  |ˈjuːtəlaɪz| - wykorzystywać
-thief  |θiːf| - złodziej
-cluster  |ˈklʌstər| - kiść
-estimate  |ˈestɪmət| - oszacować
 abandon  |əˈbændən| - porzucić
+rewind  |ˌriːˈwaɪnd| - przewinąć do tyłu
+utilize  |ˈjuːtəlaɪz| - wykorzystywać
+rejoice  |rɪˈdʒɔɪs| - radować się
+confluence of - połączenie czegoś
+proceed  |proʊˈsiːd| - kontyniować
+approve  |əˈpruːv| - zatwierdzać coś
+manage smth - poradzić sobie z 
+deal with smth - poradzić sobie z 
+watch out for - uważać na
+be familiar with smth - znać coś
+mistaken - mylny
+foolish - niemądry
 freed  |ˈfriːd| - wolny
+efficient  |ɪˈfɪʃnt| - wydajny
+approved - zatwierdzony
+needed - potrzebny
+explicitly  |ɪkˈsplɪsɪtli| - wyraźnie
+thief  |θiːf| - złodziej
+difficulty  |ˈdɪfɪkəlti| - uciążliwość
 node  |noʊd| - węzeł
+cluster  |ˈklʌstər| - kiść
+survey  |ˈsɜːrveɪ| - badanie
+estimate  |ˈestɪmət| - oszacować
 process  |ˈprɑːses| - przetwarzać (plik) (zmieniać, nadając inne właściwości) /  przekształcać
-it is not needed 
 lock and unlock
 per day - dzienne
-approve  |əˈpruːv| - zatwierdzać coś
-approved - zatwierdzony
-mistaken - mylny, mylne
-foolish - niemądry
-discouraged - zniechęcony
+discouraged  |dɪsˈkɜːrɪdʒd| - zniechęcony
+participate  |pɑːrˈtɪsɪpeɪt| - uczestniczyć
+pretend  |prɪˈtend| - udawać
+preserve  |prɪˈzɜːrv| - ochronić
+exchange data with - wymieniać się danymi z 
 
 ******************************************************
 you have probably guessed - domyśliłeś się
@@ -33,13 +49,11 @@ it causes to happen - podowuje że się zdarza
 queued  |kjuːd| - kolejkowany
 credentials |krəˈdenʃlz| - tożsamość
 denote (by yellow) |dɪˈnoʊt| - oznaczać czymś
-proceed  |proʊˈsiːd| - trwać, toczyć się, kontyniować
 contribute  |kənˈtrɪbjuːt| - wnosić wkład
 toggle  |ˈtɑːɡl| - przełącznik
 suite  |swiːt| - komplet
 automate  |ˈɔːtəmeɪt| - automatyczny
 disadvantage  |ˌdɪsədˈvæntɪdʒ| - minus
-rejoice  |rɪˈdʒɔɪs| - cieszyć się, radować się
 confuse  |kənˈfjuːz| - mylić, nie rozróżniać
 expose  |ɪkˈspoʊz| - ujawniać, wywieszać
 complex  |kəmˈpleks| - złożony
@@ -50,7 +64,6 @@ supplied  |səˈplaɪd| - dostarczony
 snooze  |snuːz| - drzemka
 index - spis alfabetyczny
 accordance  |əˈkɔːrdns| - zgodność
-confluence of - połączenie czegoś
 accordingly  |əˈkɔːrdɪŋli| - odpowiednio, stosownie
 preliminary  |prɪˈlɪmɪneri| - wstępny
 agility  |əˈdʒɪləti| - zręczność, zwinność

@@ -1,3 +1,6 @@
+Let me ask a question, although I think everyone knows the answer. (Pozwól mi zadać pytanie, chociaż myślę, że każdy zna odpowiedź.)
+We will vote at some point, although the situation is not serious |ˈsɪriəs|. (W którymś momencie będziemy głosować, chociaż sytuacja nie jest poważna.)
+He couldn't go to the party, although he wanted to go very much. (On nie mógł iść na imprezę, chociaż bardzo chciał.) 
 It takes a lot of willpower to give up smoking. (Potrzeba dużo siły woli, żeby rzucić palenie.)
 She gave up her English lessons after the first semester. (Ona przestała brać lekcje angielskiego po pierwszym semestrze.)
 No matter what happens we should not give up trying. (Bez względu na to, co się stanie nie powinniśmy przestać próbować.) 
@@ -16,7 +19,7 @@ I watched a plug and I changed the channel. (Obejrzałem reklamę i zmieniłem k
 I often imagine how people would react to my death. (Często wyobrażam sobie jak ludzie zareagowaliby na moją śmierć.)
 Don't worry, he'll stop crying if you don't react. (Nie martw się, on przestanie płakać, jeśli nie zareagujesz.) 
 She is only three years old but can already tie her shoes. (Ona ma tylko trzy lata, ale potrafi już zawiązać swoje buty.) 
-Can you tie your shoelaces? (Możesz zawiązać swoje sznurówki?)
+Can you tie your shoelaces |ˈʃuːˌlesəz|? (Możesz zawiązać swoje sznurówki?)
 I feel as if my hands were tied |taɪd|. (Czuję się jakbym miał związane ręce.)
 Let's tie him up and blindfold him. (Zwiążmy go i zakryjmy mu oczy.) 
 Can you manage |ˈmænɪdʒ| this issue? (Poradzisz sobie z tym problemem?)
@@ -33,7 +36,7 @@ Did you ever consider that possibility? (Czy kiedykolwiek wziąłeś pod uwagę 
 I should have considered that. (Powinienem był wziąć to pod uwagę.)
 All things considered, that wasn't too bad. (Biorąc pod uwagę wszystko, nie było tak źle.)
 We hope that you will consider |kənˈsɪdər| our request favourably |ˈfeɪvərəbli|. (Mamy nadzieję, że rozpatrzą Państwo naszę prośbę pozytywnie.)
-You didn't even consider my feelings. (Nawet nie wziąłeś pod uwagę tego, co czuję.) 
+You didn't even consider |kənˈsɪdər| my feelings. (Nawet nie wziąłeś pod uwagę tego, co czuję.) 
 How do you utilize |ˈjuːtəlaɪz| this tool?
 We must consider how best to utilize what resources we have.
 We cannot consider that strategy without using the tools at our disposal |dɪˈspoʊzl|. (Nie możemy rozważać tej strategii bez używania narzędzi, jakimi dysponujemy.) 
@@ -52,9 +55,10 @@ He is not permitted to watch TV after 10 pm. (Nie wolno mu oglądać telewizji p
 She didn't ask anyone for permission. (Ona nie zapytała nikogo o pozwolenie.)
 If you don't turn up we'll know you didn't get permission. (Jeśli się nie pojawisz, będziemy wiedzieć, że nie otrzymałeś pozwolenia.)
 My mother gave me permission to come back home after midnight. (Mama dała mi pozwolenie na powrót do domu po północy.) 
+my boss approved my short leave
 The teacher approved the topic of my essay. (Nauczyciel zatwierdził temat mojego wypracowania.) 
 It wasn't my suggestion. (To nie była moja sugestia.)
-We must buy her a gift. Any suggestions? (Musimy kupić jej prezent. Jakieś propozycje?)
+We must buy her a gift. Any suggestions |səgˈdʒestʃənz|? (Musimy kupić jej prezent. Jakieś propozycje?)
 I would like to redecorate my room and I'm open to suggestions. (Chciałbym na nowo urządzić swój pokój i jestem otwarty na propozycje.) 
 Do not be discouraged if, at first, you have difficulty with a specific exercise. (Nie zniechęcaj się, jeśli na początku będziesz mieć trudności z konkretnym zadaniem.) 
 He was familiar with those roads. 
@@ -63,4 +67,6 @@ After that, we can swap sides and have another go. (Potem możemy zamienić się
 The players swapped shirts at the end of the match. (Gracze wymienili się koszulkami pod koniec rozgrywki.) 
 She said to watch out for people, not to trust anyone. (Ona powiedziała, żebym uważał na ludzi, żebym nikomu nie ufał.) 
 Watch out for architectural differences between machines, such as stack size and byte ordering
-ught he was being a bit familiar with my wife. 
+he was being a bit familiar with my wife. 
+Although it's a nice day, I will stay at home. (Mimo że jest ładny dzień, zostanę w domu.)
+Although she is nice, I don't like her that much. (Pomimo że jest miła, nie lubię jej za bardzo.) 
