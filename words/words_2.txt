@@ -56,9 +56,9 @@ handle - uchwyt
 (dust)bin - pojemnik na śmiecie
 chart  |tʃɑːrt| - wykres
 chapter  |ˈtʃæptər| - rozdział (książki)
-utilize  |ˈjuːtəlaɪz| - wykorzystywać
-empty - opróżnić (kosz)
-empty - pusty
+utilize smth |ˈjuːtəlaɪz| - wykorzystywać coś
+to empty - opróżnić (kosz)
+an empty - pusty
 tear down - zniszczyć, zburzyć (np. dom)
 agenda  |əˈdʒendə| - ustalony plan jakiegoś spotkania
 major  |ˈmeɪdʒər| - ważny, znaczny
@@ -67,7 +67,7 @@ slave  |sleɪv| - niewolnik
 bright  |braɪt| - jaskrawy
 brightness  |ˈbraɪtnəs| - jasność
 upload - załadować
-summary - strzeszczenie
+summary - streszczenie
 entry  |ˈentri| - wpis
 exited  |ˈeksɪtɪd| - wyszedł
 verify  |ˈverɪfaɪ| - weryfikować
