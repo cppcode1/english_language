@@ -1,4 +1,5 @@
 readily  |ˈredɪli| - z łatwością
+unless - chyba, że
 share smth with smb - podzielić się czymś z kimś
 develop  |dɪˈveləp| - rozwijać
 amount  |əˈmaʊnt| - ilość
@@ -21,22 +22,22 @@ examine - badać
 indent |ɪnˈdent| - wcięcie (w tekscie)
 occur |əˈkɜːr| - wydarzyć się
 occurred  |əˈkɝːd| - wydarzyło się
-response  |rɪˈspɑːns| - odpowiedź
-non-existent |nɒnɪɡˈzɪstənt| - nieistniejący
-reinterpret  |ˌriːɪnˈtɜːrprɪt| - traktować
-significantly  |sɪɡˈnɪfɪkəntli| - znacznie
 react to  |riˈækt| - reagować na 
-in fact - w rzeczywistości
+reinterpret  |ˌriːɪnˈtɜːrprɪt| - traktować
 gain an objective  |əbˈdʒektɪv| - osiągnąć cel
-replica  |ˈreplɪkə| - kopia
-replicas  |ˈrepləkəz| - kopie
-exam  |ɪɡˈzæm| - egzamin
 pass (the exam) - zdać (np. egzamin)
 passed - zdałem
 continue  |kənˈtɪnjuː| - kontynuować
 continues  |kənˈtɪnjuːz|
 continuing  |kənˈtɪnjuːɪŋ|
 continued  |kənˈtɪnjuːd|
+response  |rɪˈspɑːns| - odpowiedź
+non-existent |nɒnɪɡˈzɪstənt| - nieistniejący
+significantly  |sɪɡˈnɪfɪkəntli| - znacznie
+in fact - w rzeczywistości
+replica  |ˈreplɪkə| - kopia
+replicas  |ˈrepləkəz| - kopie
+exam  |ɪɡˈzæm| - egzamin
 feedback  |ˈfiːdbæk| - odzew
 assert  |əˈsɜːrt| - stwierdzać
 assertion  |əˈsɜːrʃn| - twierdzenie
@@ -105,6 +106,7 @@ achievement  |əˈtʃiːvmənt| - osiągnięcie
 secure  |səˈkjʊr| - bezpieczny
 garbage  |ˈɡɑːrbɪdʒ| - [am.] śmieci
 lose (lost) - stracić
+get lost - zgubić się 
 
 
 
