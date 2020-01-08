@@ -32,11 +32,11 @@ Except for the title, there's no accordance between the film and the book. (Poza
 We've got plenty of time. (Mamy mnóstwo czasu.)
 There are plenty of other ways. (Jest mnóstwo innych sposobów.)
 I bet she's got plenty of money by now. (Założę się, że ona ma teraz mnóstwo pieniędzy.) 
+You didn't even consider |kənˈsɪdər| my feelings. (Nawet nie wziąłeś pod uwagę tego, co czuję.) 
 Did you ever consider that possibility? (Czy kiedykolwiek wziąłeś pod uwagę tamtą możliwość?)
 I should have considered that. (Powinienem był wziąć to pod uwagę.)
 All things considered, that wasn't too bad. (Biorąc pod uwagę wszystko, nie było tak źle.)
 We hope that you will consider |kənˈsɪdər| our request favourably |ˈfeɪvərəbli|. (Mamy nadzieję, że rozpatrzą Państwo naszę prośbę pozytywnie.)
-You didn't even consider |kənˈsɪdər| my feelings. (Nawet nie wziąłeś pod uwagę tego, co czuję.) 
 How do you utilize |ˈjuːtəlaɪz| this tool?
 We must consider how best to utilize what resources we have.
 We cannot consider that strategy without using the tools at our disposal |dɪˈspoʊzl|. (Nie możemy rozważać tej strategii bez używania narzędzi, jakimi dysponujemy.) 
@@ -70,3 +70,12 @@ Watch out for architectural differences between machines, such as stack size and
 he was being a bit familiar with my wife. 
 Although it's a nice day, I will stay at home. (Mimo że jest ładny dzień, zostanę w domu.)
 Although she is nice, I don't like her that much. (Pomimo że jest miła, nie lubię jej za bardzo.) 
+We are dependent upon (od) your help. (Jesteśmy uzależnieni od twojej pomocy.)
+I have received a letter upon (od) my husband. (Otrzymałam list od mojego męża.) 
+Brandon threw him upon the ground. (Brandon rzucił go na ziemię.)
+This responsibility rests upon you. (Ta odpowiedzialność spoczywa na tobie.)
+She spat upon the ground. (Ona napluła na podłogę.) 
+Stop staring at me! (Przestań się na mnie gapić!)
+We all stared out the window. (Wszyscy wpatrywaliśmy się za okno.)
+For a long moment he stared at her. (Przez dłuższą chwilę on wpatrywał się w nią.) 
+
