@@ -1,5 +1,5 @@
 a variable must be explicitly (jawnie) initialized before is used
-does everyone can her me?
+can everyone hear me?
 please, sit down. she sat down
 come in. make yourself at home
 she looked tired
@@ -17,7 +17,7 @@ neither me nor she speaks English
 prayer: bless us and keep us all alive
 there are eight of us for supper
 keep quiet in the library
-pullover, jumper, sweter
+pullover, jumper, sweater
 she goes downstairs
 tell us the truth
 I'll go if you'll come with me
@@ -44,7 +44,7 @@ I always wanted to be in control of my fate. (Zawsze chciałem mieć kontrolę n
 They both suffered the same fate. (Ich oboje spotkał taki sam los.) 
 They processed the used bottles into a work of art. (Oni przerobili zużyte butelki w dzieło sztuki.)
 This waste paper will be processed into toilet paper. (Ta makulatura zostanie przerobiona na papier toaletowy.) 
-ssThe mother motioned the priest to enter the anteroom. (Matka skinęła, żeby ksiądz wszedł do przedpokoju.)
+The mother motioned the priest to enter the anteroom. (Matka skinęła, żeby ksiądz wszedł do przedpokoju.)
 She motioned me to sit by her. (Ona dała mi znak, abym usiadł przy niej.) 
 She started to feel really nervous. (Ona zaczęła się czuć naprawdę zdenerwowana.) 
 His new job makes him really nervous. (Jego nowa praca czyni go bardzo nerwowym.) 
@@ -56,7 +56,7 @@ I am totally convinced that Europe will exceed our expectations. (Jestem całkow
 You exceeded the speed limit. (Przekroczyłeś limit prędkości.)
 Don't exceed the time limit or I'll have to fail you. (Nie przekraczaj limitu czasu, albo będę musiał cię oblać.)
 Align this header to the left. (Wyrównaj ten nagłówek do lewej.) 
- This car is superior in quality to that one. (Ten samochód jest jakościowo lepszy niż tamten.)
+This car is superior in quality to that one. (Ten samochód jest jakościowo lepszy niż tamten.)
 My new phone is superior to the old one, it has more functions. (Mój nowy telefon jest lepszy od starego, ma więcej funkcji.)
 This product was of superior quality. (Ten produkt był ponadprzeciętnej jakości.)
 It was a symbol of superior social status. (To był symbol ponadprzeciętnego statusu społecznego.)
@@ -83,14 +83,14 @@ I have to reject this candidate, she is too old. (Muszę odrzucić tę kandydatk
 I applied for this job but they rejected me. (Złożyłem podanie o tę pracę, ale mnie odrzucili.)
 Please, reject the rotten apples. (Proszę, odrzuć zgniłe jabłka.)
 Take these mushrooms and reject the poisonous ones. (Weź te grzyby i odrzuć te trujące.)
-odtrącać (np. uczucia), nie akceptować (pomocy), nie przyjmować (czyjegoś wsparcia) [TRANSITIVE]
+//odtrącać (np. uczucia), nie akceptować (pomocy), nie przyjmować (czyjegoś wsparcia) [TRANSITIVE]
 I offered him my help but he rejected it. (Zaoferowałem mu swoją pomoc, ale jej nie zaakceptował.)
 Don't reject her feelings, she's a good person. (Nie odtrącaj jej uczuć, ona jest dobrą osobą.)
 He rejected my support so I'm leaving. (Nie przyjął mojego wsparcia, więc odchodzę.)
-nie akceptować (osoby), odtrącać (kogoś), wyrzekać się (kogoś lub czegoś) [TRANSITIVE]
+//nie akceptować (osoby), odtrącać (kogoś), wyrzekać się (kogoś lub czegoś) [TRANSITIVE]
 She rejected her son when he was arrested for murder. (Ona wyrzekła się swojego syna, kiedy został aresztowany za morderstwo.)
 My father rejected my boyfriend. (Mój ojciec nie zaakceptował mojego chłopaka.)
-odrzucać (gdy organizm odrzuca organ po przeszczepie) [TRANSITIVE]
+//odrzucać (gdy organizm odrzuca organ po przeszczepie) [TRANSITIVE]
 Unfortunately, the patient rejected the kidney. (Niestety, pacjent odrzucił nerkę.)
 My body may reject the new heart. (Mój organizm może odrzucić nowe serce.)
 I keep trying to contact her but she rejects all my calls. (Staram się skontaktować się z nią, ale ona odrzuca wszystkie moje telefony.)
