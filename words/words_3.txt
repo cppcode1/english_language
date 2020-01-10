@@ -1,3 +1,4 @@
+unless |ənˈles| - chyba, że
 abandon  |əˈbændən| - porzucić
 rewind  |ˌriːˈwaɪnd| - przewinąć do tyłu
 utilize  |ˈjuːtəlaɪz| - wykorzystywać
@@ -7,8 +8,10 @@ proceed  |proʊˈsiːd| - kontyniować
 approve  |əˈpruːv| - zatwierdzać coś
 manage smth - poradzić sobie z 
 deal with smth - poradzić sobie z 
+handle smth - poradzić sobie z 
 watch out for - uważać na
 be familiar with smth - znać coś
+be mistaken - być w błędzie
 mistaken - mylny
 foolish - niemądry
 freed  |ˈfriːd| - wolny
@@ -29,7 +32,22 @@ discouraged  |dɪsˈkɜːrɪdʒd| - zniechęcony
 participate  |pɑːrˈtɪsɪpeɪt| - uczestniczyć
 pretend  |prɪˈtend| - udawać
 preserve  |prɪˈzɜːrv| - ochronić
-exchange data with - wymieniać się danymi z 
+exchange data with - wymieniać się danymi z
+maintain  |meɪnˈteɪn| - utrzymywać
+issue  |ˈɪʃuː| - kwestia, sprawa, problem
+achieve  |əˈtʃiːv| - osiągać
+achieved  |əˈtʃiːvd| - osiągnąłem
+achievement  |əˈtʃiːvmənt| - osiągnięcie
+secure  |səˈkjʊr| - bezpieczny
+garbage  |ˈɡɑːrbɪdʒ| - [am.] śmieci
+lose (lost) - stracić
+get lost - zgubić się 
+dangled |ˈdæŋɡəld| - zawieszony
+dangle  |ˈdæŋɡl| - wisieć
+capability  |ˌkeɪpəˈbɪləti| - możliwość
+capabilities  |ˌkepəˈbɪlətiz| - możliwości
+opaque  |oʊˈpeɪk| - nieprzezroczysty, nieprzejrzysty, mętny
+
 
 ******************************************************
 you have probably guessed - domyśliłeś się
