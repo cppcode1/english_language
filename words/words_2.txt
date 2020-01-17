@@ -1,10 +1,11 @@
+augment  |ɔːɡˈment| - zwiększać
+concern sb - dotyczyć kogoś
 rapidly  |ˈræpɪdli| - szybko
 slightly  |ˈslaɪtli| - trochę
 assume - zakładać
 assumption  |əˈsʌmpʃn| - założenie, przypuszczenie
 link - odnośnik
 couse smth - spowodować coś
-concern sb - dotyczyć kogoś
 care about - martwić się z powodu czegoś
 duty  |ˈduːti| - obowiązek
 mock  |mɑːk| - symulować
@@ -39,6 +40,7 @@ collect |kəˈlekt| - zbierać, kolekcjonować
 collect from - odebrać od
 in accordance with - zgodnie z 
 alias  |ˈeɪliəs| - przezwisko
+common  |ˈkɑːmən| - wspólny
 clone into
 unlike with - w przeciwieństwie do
 in contrast to - w przeciwieństwie do
@@ -64,6 +66,7 @@ agenda  |əˈdʒendə| - ustalony plan jakiegoś spotkania
 major  |ˈmeɪdʒər| - ważny, znaczny
 stay tuned - czekać na dalsze informacje / nie zmieniać stacji 
 slave  |sleɪv| - niewolnik
+vivid  |ˈvɪvɪd| - jaskrawy
 bright  |braɪt| - jaskrawy
 brightness  |ˈbraɪtnəs| - jasność
 upload - załadować
@@ -73,6 +76,7 @@ exited  |ˈeksɪtɪd| - wyszedł
 verify  |ˈverɪfaɪ| - weryfikować
 given - określony
 guess - domyślić się
+curious  |ˈkjʊriəs| - zaciekawiony
 practically  |ˈpræktɪkli| - niemal
 satisfied  |ˈsætɪsfaɪd| - zadowolony
 be pleased - być zadowolonym
@@ -91,11 +95,10 @@ certain  |ˈsɜːrtn| - określony
 refuse to |rɪˈfjuːz| - odmawiać w
 verbose  |vɜːrˈboʊs| - gadatliwy
 crucial  |ˈkruːʃl| - kluczowy
-explicitly  |ɪkˈsplɪsɪtli| - jawnie
+explicit  |ɪkˈsplɪsɪt| - wyraźny
+explicitly  |ɪkˈsplɪsɪtli| - wyraźnie, jawnie
 identation - wcięcie / a space at the beginning of a line
 exceed  |ɪkˈsiːd| - przekraczać
 efficient  |ɪˈfɪʃnt| - wydajny
-augment  |ɔːɡˈment| - zwiększać
-mismatch  |ˌmɪsˈmætʃ| - rozbieżność
-discard / reject  |rɪˈdʒekt| - odrzucać
+
 
