@@ -1,3 +1,4 @@
+realm  |relm| - królestwo
 unless |ənˈles| - chyba, że
 nonetheless  |ˌnʌnðəˈles| - tak czy owak
 urge  |ɜːrdʒ| - zachęcać
@@ -19,17 +20,18 @@ be familiar with smth - znać coś
 be mistaken - być w błędzie
 mistaken - mylny
 foolish - niemądry
-freed  |ˈfriːd| - wolny
+freed  |ˈfriːd| - wyzwolony
+withdraw - wycofać się
 efficient  |ɪˈfɪʃnt| - wydajny
 approved - zatwierdzony
 needed - potrzebny
-coverage  |ˈkʌvərɪdʒ| - zasięg
-explicitly  |ɪkˈsplɪsɪtli| - wyraźnie
-thief  |θiːf| - złodziej
-difficulty  |ˈdɪfɪkəlti| - uciążliwość
 node  |noʊd| - węzeł
-cluster  |ˈklʌstər| - kiść
+coverage  |ˈkʌvərɪdʒ| - zasięg
+thief  |θiːf| - złodziej
 survey  |ˈsɜːrveɪ| - badanie
+cluster  |ˈklʌstər| - kiść
+difficulty  |ˈdɪfɪkəlti| - uciążliwość
+explicitly  |ɪkˈsplɪsɪtli| - wyraźnie
 estimate  |ˈestɪmət| - oszacować
 process  |ˈprɑːses| - przetwarzać (plik) (zmieniać, nadając inne właściwości) /  przekształcać
 lock and unlock
@@ -48,12 +50,11 @@ secure  |səˈkjʊr| - bezpieczny
 garbage  |ˈɡɑːrbɪdʒ| - [am.] śmieci
 lose (lost) - stracić
 get lost - zgubić się 
-dangled |ˈdæŋɡəld| - zawieszony
 dangle  |ˈdæŋɡl| - wisieć
+dangled |ˈdæŋɡəld| - zawieszony
 capability  |ˌkeɪpəˈbɪləti| - możliwość
 capabilities  |ˌkepəˈbɪlətiz| - możliwości
-opaque  |oʊˈpeɪk| - nieprzezroczysty, nieprzejrzysty, mętny
-realm  |relm| - królestwo, kraj
+opaque  |oʊˈpeɪk| - nieprzejrzysty
 you have probably guessed - domyśliłeś się
 at some point - w którymś momencie 
 it would be better - byłoby lepiej
@@ -72,9 +73,6 @@ quiet  |ˈkwaɪət| - cichy
 eager  |ˈiːɡər| - podekscytowany
 mismatch  |ˌmɪsˈmætʃ| - rozbieżność
 discard / reject  |rɪˈdʒekt| - odrzucać
-
-
-******************************************************
 velocity  |vəˈlɑːsəti| - prędkość
 essential  |ɪˈsenʃl| - podstawowy, zasadniczy
 processed  |ˈprəʊsest| - przetwarzyłem
@@ -96,10 +94,13 @@ toggle  |ˈtɑːɡl| - przełącznik
 suite  |swiːt| - komplet
 automate  |ˈɔːtəmeɪt| - automatyczny
 disadvantage  |ˌdɪsədˈvæntɪdʒ| - minus
-confuse  |kənˈfjuːz| - mylić, nie rozróżniać
-expose  |ɪkˈspoʊz| - ujawniać, wywieszać
+confuse  |kənˈfjuːz| - mylić coś z czymś
+expose  |ɪkˈspoʊz| - ujawniać
 complex  |kəmˈpleks| - złożony
 conjunction  |kənˈdʒʌŋkʃn| - połączenie
+
+
+******************************************************
 retrieval  |rɪˈtriːvl| - odzyskanie
 delivered  |dəˈlɪvərd| - dostarczony
 supplied  |səˈplaɪd| - dostarczony
