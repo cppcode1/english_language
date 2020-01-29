@@ -1,7 +1,29 @@
+capability  |ˌkeɪpəˈbɪləti| - możliwość
+capabilities  |ˌkepəˈbɪlətiz| - możliwości
+bear |ber| - znosić coś
+minus  |ˈmaɪnəs| - minus
+discard / reject  |rɪˈdʒekt| - odrzucać
+at some point - w którymś momencie 
+complex  |kəmˈpleks| - złożony
+comment  |ˈkɑːment| - komentować
+awful  |ˈɔːfl| - obrzydliwy
+coverage  |ˈkʌvərɪdʒ| - zasięg
+mess up - narobić bałaganu
+lose (lost) - stracić
+withdraw - wycofać się
+freed  |ˈfriːd| - wyzwolony
+snore  |snɔːr| - chrapać
+exchange data with - wymieniać się danymi z
+maintain  |meɪnˈteɪn| - utrzymywać
+issue  |ˈɪʃuː| - kwestia, sprawa, problem
+achieve  |əˈtʃiːv| - osiągać
+achieved  |əˈtʃiːvd| - osiągnąłem
+achievement  |əˈtʃiːvmənt| - osiągnięcie
+process  |ˈprɑːses| - przetwarzać (plik) (zmieniać, nadając inne właściwości) /  przekształcać
+get lost - zgubić się 
 realm  |relm| - królestwo
 unless |ənˈles| - chyba, że
 nonetheless  |ˌnʌnðəˈles| - tak czy owak
-urge  |ɜːrdʒ| - zachęcać
 abandon  |əˈbændən| - porzucić
 surprise  |sərˈpraɪz| - zaskakiwać
 ruin  |ˈruːɪn| - niszczyć
@@ -11,7 +33,6 @@ rejoice  |rɪˈdʒɔɪs| - radować się
 confluence of - połączenie czegoś
 proceed  |proʊˈsiːd| - kontynuować
 approve  |əˈpruːv| - zatwierdzać coś
-snore  |snɔːr| - chrapać
 manage smth - poradzić sobie z 
 deal with smth - poradzić sobie z 
 handle smth - poradzić sobie z 
@@ -20,61 +41,38 @@ be familiar with smth - znać coś
 be mistaken - być w błędzie
 mistaken - mylny
 foolish - niemądry
-freed  |ˈfriːd| - wyzwolony
-withdraw - wycofać się
 efficient  |ɪˈfɪʃnt| - wydajny
 approved - zatwierdzony
 needed - potrzebny
 node  |noʊd| - węzeł
-coverage  |ˈkʌvərɪdʒ| - zasięg
 thief  |θiːf| - złodziej
-survey  |ˈsɜːrveɪ| - badanie
 cluster  |ˈklʌstər| - kiść
+per day - dzienne
+
+survey  |ˈsɜːrveɪ| - badanie
 difficulty  |ˈdɪfɪkəlti| - uciążliwość
 explicitly  |ɪkˈsplɪsɪtli| - wyraźnie
 estimate  |ˈestɪmət| - oszacować
-process  |ˈprɑːses| - przetwarzać (plik) (zmieniać, nadając inne właściwości) /  przekształcać
 lock and unlock
-per day - dzienne
 discouraged  |dɪsˈkɜːrɪdʒd| - zniechęcony
 participate  |pɑːrˈtɪsɪpeɪt| - uczestniczyć
 pretend  |prɪˈtend| - udawać
 preserve  |prɪˈzɜːrv| - ochronić
-exchange data with - wymieniać się danymi z
-maintain  |meɪnˈteɪn| - utrzymywać
-issue  |ˈɪʃuː| - kwestia, sprawa, problem
-achieve  |əˈtʃiːv| - osiągać
-achieved  |əˈtʃiːvd| - osiągnąłem
-achievement  |əˈtʃiːvmənt| - osiągnięcie
 secure  |səˈkjʊr| - bezpieczny
 garbage  |ˈɡɑːrbɪdʒ| - [am.] śmieci
-lose (lost) - stracić
-get lost - zgubić się 
 dangle  |ˈdæŋɡl| - wisieć
 dangled |ˈdæŋɡəld| - zawieszony
-capability  |ˌkeɪpəˈbɪləti| - możliwość
-capabilities  |ˌkepəˈbɪlətiz| - możliwości
 opaque  |oʊˈpeɪk| - nieprzejrzysty
 you have probably guessed - domyśliłeś się
-at some point - w którymś momencie 
 it would be better - byłoby lepiej
-mess up - narobić bałaganu
 fall down, fell down - spaść na coś
-bear |ber| - znosić coś, cierpieć coś, tolerować coś 
-laughter  |ˈlæftər| - śmiech
-begin anew - zacząć od nowa
-each time / every time - za każdym razem gdy
-comment  |ˈkɑːment| - komentować
 authorities  |əˈθɔːrətiz| - władze
-awful  |ˈɔːfl| - obrzydliwy
 at some point - w kŧórymś momencie
-snore  |snɔːr| - chrapać
 quiet  |ˈkwaɪət| - cichy
 eager  |ˈiːɡər| - podekscytowany
 mismatch  |ˌmɪsˈmætʃ| - rozbieżność
-discard / reject  |rɪˈdʒekt| - odrzucać
 velocity  |vəˈlɑːsəti| - prędkość
-essential  |ɪˈsenʃl| - podstawowy, zasadniczy
+essential  |ɪˈsenʃl| - podstawowy
 processed  |ˈprəʊsest| - przetwarzyłem
 indeed  |ɪnˈdiːd| - rzeczywiście
 unsatisfactory  - niezadowalający
@@ -86,18 +84,18 @@ obtain  |əbˈteɪn| - uzyskać
 compose  |kəmˈpoʊz| - komponować
 correspond  |ˌkɔːrəˈspɑːnd| - prowadzić korespondencję
 it causes to happen - podowuje że się zdarza
+toggle  |ˈtɑːɡl| - przełącznik
 queued  |kjuːd| - kolejkowany
 credentials |krəˈdenʃlz| - tożsamość
 denote (by yellow) |dɪˈnoʊt| - oznaczać czymś
 contribute  |kənˈtrɪbjuːt| - wnosić wkład
-toggle  |ˈtɑːɡl| - przełącznik
 suite  |swiːt| - komplet
 automate  |ˈɔːtəmeɪt| - automatyczny
 disadvantage  |ˌdɪsədˈvæntɪdʒ| - minus
 confuse  |kənˈfjuːz| - mylić coś z czymś
 expose  |ɪkˈspoʊz| - ujawniać
-complex  |kəmˈpleks| - złożony
 conjunction  |kənˈdʒʌŋkʃn| - połączenie
+urge  |ɜːrdʒ| - zachęcać
 
 
 ******************************************************
@@ -272,7 +270,6 @@ content  |ˈkɑːntent| - treść, zawartość
 be gone - zniknąć
 establish  |ɪˈstæblɪʃ| - nawiązać (połączenie)
 trace  |treɪs| - lokalizować, namierzać
-minus  |ˈmaɪnəs| - minus
 processes  |ˈproʊsesɪz| - procesy
 equation  |ɪˈkweɪʒn| - [mat.] równanie
 symbol  |ˈsɪmbl| - symbol
