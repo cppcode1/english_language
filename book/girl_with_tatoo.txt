@@ -1,4 +1,6 @@
 PHRASE
+ever since - od tej pory
+by then - od tego czasu
 all in all - ogólnie przecz biorąc
 as far as sb is concerned - jeśli chodzi o 
 simply - po prostu
@@ -8,7 +10,7 @@ be nothing, but - odczuwać nic oprócz
 be nothing beside - być niczym w porównaniu do
 do nothing more than - nie robić nic innego jak
 at the height of - w okresie
-even since - od tej pory
+even though - mimo że
 even as - właśnie wtedy gdy
 more or less - mniej lub więcej
 in spite of smth - wbrew czemuś
@@ -22,7 +24,7 @@ whatsoever |ˌhwʌtsoʊˈevər̩| -  zupełnie / cokolwiek
 above all |əˈbʌv| |ɔːl| - poza tym
 as far as - o ile
 for once - chociaż ten jeden raz
-apart from something - oprócz
+apart from smth - oprócz
 at the time - w tamtym czasie
 be over the moon about - być w siódmym niebie
 from beginning to end - od początku do końca
@@ -32,7 +34,13 @@ once in a while - raz na jakiś czas
 wholly  |ˈhoʊlli| - całkowicie
 altogether  |ˌɔːltəˈɡeðər| - całkowicie
 extremely  |ɪkˈstriːmli| - bardzo
-
+thereby  |ˌðerˈbaɪ| - w ten sposób
+presumably  |prɪˈzuːməbli| - prawdopodobnie
+along with - razem z
+evidently  |ˈevɪdəntli| - najwyraźniej
+smth have nothing to do with - to nie ma nic wspólnego z
+naturally  |ˈnætʃrəli| - oczywiście
+what matters about smth is that - w tym zajściu jest ważne to że
 
 ADJECTIVE
 anxious  |ˈæŋkʃəs| - niespokojny
@@ -40,6 +48,7 @@ concerned  |kənˈsɜːrnd| - zainteresowany
 instantly - right away, natychmiast
 
 NOUN
+objective  |əbˈdʒektɪv| - cel
 government  |ˈɡʌvərnmənt| - rząd
 height  |haɪt| - wysokość
 crook  |krʊk| - oszust
@@ -51,6 +60,7 @@ gaol  |dʒeɪl| - areszt tymczasowy
 
 
 VERB
+drive sb insane - doprowadzić do szału
 detest  |dɪˈtest| - nienawidzić
 make sence - mieć sens
 it makes sence - to ma sens
