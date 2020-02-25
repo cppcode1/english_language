@@ -1,4 +1,22 @@
+NOUN
+wind  |wɪnd| - wiatr
+objective  |əbˈdʒektɪv| - cel
+government  |ˈɡʌvərnmənt| - rząd
+height  |haɪt| - wysokość
+crook  |krʊk| - oszust
+trial  |ˈtraɪəl| - proces w sądzie
+court  |kɔːrt| - sąd
+judgement  |ˈdʒʌdʒmənt| - wyrok
+verdict  |ˈvɜːrdɪkt| - wyrok
+gaol  |dʒeɪl| - areszt tymczasowy
+appeal  |əˈpiːl| - apelacja, odwołanie
+dye  |daɪ| - farba
+prison  |ˈprɪzn| - więzienie
+promises  |ˈprɑːməsəz| - obietny
+commotion  |kəˈmoʊʃn| - zamieszki
+
 PHRASE
+despite |dɪˈspaɪt| - even though / mimo że
 ever since - od tej pory
 by then - od tego czasu
 all in all - ogólnie przecz biorąc
@@ -58,22 +76,6 @@ persuasive  |pərˈsweɪsɪv| - przekonujący
 standalone  - niezależny
 
 
-NOUN
-wind  |wɪnd| - wiatr
-objective  |əbˈdʒektɪv| - cel
-government  |ˈɡʌvərnmənt| - rząd
-height  |haɪt| - wysokość
-crook  |krʊk| - oszust
-trial  |ˈtraɪəl| - proces w sądzie
-court  |kɔːrt| - sąd
-judgement  |ˈdʒʌdʒmənt| - wyrok
-verdict  |ˈvɜːrdɪkt| - wyrok
-gaol  |dʒeɪl| - areszt tymczasowy
-appeal  |əˈpiːl| - apelacja, odwołanie
-dye  |daɪ| - farba
-prison  |ˈprɪzn| - więzienie
-promises  |ˈprɑːməsəz| - obietny
-commotion  |kəˈmoʊʃn| - zamieszki
 
 VERB
 make sence - mieć sens
@@ -138,19 +140,20 @@ row across to the island - ?
 mince  |mɪns| - rozdrobnić, zemleć
 regurgitate  |rɪˈɡɜːrdʒɪteɪt| - zwracać (połkniętą żywność)
 guarantee  |ˌɡærənˈtiː| - gwarantować
+stare at |ster| - gapić się na
 
 IDIOM
 drive sb insane - doprowadzić do szału
 mince one's words - owijać w bawełnę 
+get to the bottom of things - get the truth
 
 
 THE UNSORTED BUFFER
-rub his neck - trzeć szyję
-stare out at - gapić się na
+rub  |rʌb| - trzeć
+he rub his neck - on trze szyję
 scrapbook - album
 breakthrough - przełom
 wened - zanikający, zanikać
-despite - even though / mimo że
 she drowned - ona otonęła
 fascinated by - zafascynowany czymś
 happen to sb - wydarzyć się z kimś
@@ -187,7 +190,6 @@ on the contrary - przeciwnie / nawet odwrotnie
 sail knots - zarządzać, wiązać węzły
 ponder smth - zastanawiać się
 obsessed with it - mieć obsesję na punkcie czegoś
-get to the bottom of things - get the thruth
 move on with my presentation
 102
 burden - obciążenie
