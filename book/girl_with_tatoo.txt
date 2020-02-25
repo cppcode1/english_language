@@ -53,6 +53,10 @@ ADJECTIVE
 anxious  |ˈæŋkʃəs| - niespokojny
 concerned  |kənˈsɜːrnd| - zainteresowany
 amused  |əˈmjuːzd| - rozbawiony
+convinced  |kənˈvɪnst| - przekonany
+persuasive  |pərˈsweɪsɪv| - przekonujący
+standalone  - niezależny
+
 
 NOUN
 wind  |wɪnd| - wiatr
@@ -69,9 +73,9 @@ appeal  |əˈpiːl| - apelacja, odwołanie
 dye  |daɪ| - farba
 prison  |ˈprɪzn| - więzienie
 promises  |ˈprɑːməsəz| - obietny
+commotion  |kəˈmoʊʃn| - zamieszki
 
 VERB
-drive sb insane - doprowadzić do szału
 make sence - mieć sens
 it makes sence - to ma sens
 feel the need to - mieć potrzebę
@@ -125,7 +129,20 @@ dig up - odkopać coś
 keep my word = remember promises
 be responsible for smth - być odpowiedzialnym za coś
 talk somebody into something - namówić kogoś do czegoś 
-be perched on knee - siedzieć na kolanach
+be perched on knee |ˈpɝːtʃt| - siedzieć na kolanach
+drown  |draʊn| - utonąć, utopić się
+convince  |kənˈvɪns| - przekonać
+row across the lake - przepłynąć przez jezioro 
+row smb across the river - przemieścić sb przez rzekę
+row across to the island - ?
+mince  |mɪns| - rozdrobnić, zemleć
+regurgitate  |rɪˈɡɜːrdʒɪteɪt| - zwracać (połkniętą żywność)
+guarantee  |ˌɡærənˈtiː| - gwarantować
+
+IDIOM
+drive sb insane - doprowadzić do szału
+mince one's words - owijać w bawełnę 
+
 
 THE UNSORTED BUFFER
 rub his neck - trzeć szyję
