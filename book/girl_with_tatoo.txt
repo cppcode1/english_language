@@ -14,70 +14,19 @@ dye  |daɪ| - farba
 prison  |ˈprɪzn| - więzienie
 promises  |ˈprɑːməsəz| - obietny
 commotion  |kəˈmoʊʃn| - zamieszki
-
-PHRASE
-despite |dɪˈspaɪt| - even though / mimo że
-ever since - od tej pory
-by then - od tego czasu
-all in all - ogólnie przecz biorąc
-as far as sb is concerned - jeśli chodzi o 
-simply - po prostu
-in the first place - przede wszystkim
-be anything, but - odczuwać wszystko oprócz
-be nothing, but - odczuwać nic oprócz
-be nothing beside - być niczym w porównaniu do
-do nothing more than - nie robić nic innego jak
-at the height of - w okresie
-even though - mimo że
-even as - właśnie wtedy gdy
-more or less - mniej lub więcej
-in spite of smth - wbrew czemuś
-in particular - w szczególności
-thereafter - następnie
-finally - w końcu
-be a trifle - tyle co nic / be nothing
-all time - cały czas
-get back on my feet - wstać na nogi z powrotem
-whatsoever |ˌhwʌtsoʊˈevər̩| -  zupełnie / cokolwiek
-above all |əˈbʌv| |ɔːl| - poza tym
-as far as - o ile
-for once - chociaż ten jeden raz
-except for - za wyjątkiem
-apart from smth - oprócz
-at the time - w tamtym czasie
-be in vain - na próżno / it was all in vain
-for a time - na jakiś czas
-once in a while - raz na jakiś czas
-wholly  |ˈhoʊlli| - całkowicie
-altogether  |ˌɔːltəˈɡeðər| - całkowicie
-extremely  |ɪkˈstriːmli| - bardzo
-thereby  |ˌðerˈbaɪ| - w ten sposób
-presumably  |prɪˈzuːməbli| - prawdopodobnie
-along with - razem z
-naturally  |ˈnætʃrəli| - oczywiście
-nevertheless  |ˌnevərðəˈles| - niemniej jednak
-on the contrary - wręcz przeciwnie
-instantly - right away, natychmiast
-obviously  |ˈɑːbviəsli| - oczywiście
-evidently  |ˈevɪdəntli| - najwyraźniej
-be over the moon about - być w siódmym niebie
-from beginning to end - od początku do końca
-smth have nothing to do with - to nie ma nic wspólnego z
-what matters about smth is that - w tym zajściu jest ważne to że
-there is no reason - nie ma powodu
-there is no doubt that - nie ma wątpliwości co do tego że
-
-ADJECTIVE
-anxious  |ˈæŋkʃəs| - niespokojny
-concerned  |kənˈsɜːrnd| - zainteresowany
-amused  |əˈmjuːzd| - rozbawiony
-convinced  |kənˈvɪnst| - przekonany
-persuasive  |pərˈsweɪsɪv| - przekonujący
-standalone  - niezależny
-
+scrapbook - album
+breakthrough - przełom
+victim  |ˈvɪktɪm| - ofiara
+murder - morderstwo
+spectator  |ˈspekteɪtər| - widz
+grief  |ɡriːf| - smutek
+divorce |dɪˈvɔːrs| - rozwód (małżeństwa)
 
 
 VERB
+divorce  |dɪˈvɔːrs| - rozwodzi się
+take a phorograph - zrobić zdjęcie
+rule out smb - wykluczyć kogoś
 make sence - mieć sens
 it makes sence - to ma sens
 feel the need to - mieć potrzebę
@@ -141,6 +90,72 @@ mince  |mɪns| - rozdrobnić, zemleć
 regurgitate  |rɪˈɡɜːrdʒɪteɪt| - zwracać (połkniętą żywność)
 guarantee  |ˌɡærənˈtiː| - gwarantować
 stare at |ster| - gapić się na
+carry the load - nieść ciężar
+rub  |rʌb| - trzeć
+he rub his neck - on trze szyję
+resolve issue |rɪˈzɑːlv| - rozwiązać probkem
+
+PHRASE
+despite |dɪˈspaɪt| - even though / mimo że
+ever since - od tej pory
+by then - od tego czasu
+all in all - ogólnie przecz biorąc
+as far as sb is concerned - jeśli chodzi o 
+simply - po prostu
+in the first place - przede wszystkim
+be anything, but - odczuwać wszystko oprócz
+be nothing, but - odczuwać nic oprócz
+be nothing beside - być niczym w porównaniu do
+do nothing more than - nie robić nic innego jak
+at the height of - w okresie
+even though - mimo że
+even as - właśnie wtedy gdy
+more or less - mniej lub więcej
+in spite of smth - wbrew czemuś
+in particular - w szczególności
+thereafter - następnie
+finally - w końcu
+be a trifle - tyle co nic / be nothing
+all time - cały czas
+get back on my feet - wstać na nogi z powrotem
+whatsoever |ˌhwʌtsoʊˈevər̩| -  zupełnie / cokolwiek
+above all |əˈbʌv| |ɔːl| - poza tym
+as far as - o ile
+for once - chociaż ten jeden raz
+except for - za wyjątkiem
+apart from smth - oprócz
+at the time - w tamtym czasie
+be in vain - na próżno / it was all in vain
+for a time - na jakiś czas
+once in a while - raz na jakiś czas
+wholly  |ˈhoʊlli| - całkowicie
+altogether  |ˌɔːltəˈɡeðər| - całkowicie
+extremely  |ɪkˈstriːmli| - bardzo
+thereby  |ˌðerˈbaɪ| - w ten sposób
+presumably  |prɪˈzuːməbli| - prawdopodobnie
+along with - razem z
+naturally  |ˈnætʃrəli| - oczywiście
+nevertheless  |ˌnevərðəˈles| - niemniej jednak
+on the contrary - wręcz przeciwnie
+instantly - right away, natychmiast
+obviously  |ˈɑːbviəsli| - oczywiście
+evidently  |ˈevɪdəntli| - najwyraźniej
+be over the moon about - być w siódmym niebie
+from beginning to end - od początku do końca
+smth have nothing to do with - to nie ma nic wspólnego z
+what matters about smth is that - w tym zajściu jest ważne to że
+there is no reason - nie ma powodu
+there is no doubt that - nie ma wątpliwości co do tego że
+for as long as - póki
+
+ADJECTIVE
+anxious  |ˈæŋkʃəs| - niespokojny
+concerned  |kənˈsɜːrnd| - zainteresowany
+amused  |əˈmjuːzd| - rozbawiony
+convinced  |kənˈvɪnst| - przekonany
+persuasive  |pərˈsweɪsɪv| - przekonujący
+standalone  - niezależny
+
 
 IDIOM
 drive sb insane - doprowadzić do szału
@@ -149,32 +164,23 @@ get to the bottom of things - get the truth
 
 
 THE UNSORTED BUFFER
-rub  |rʌb| - trzeć
-he rub his neck - on trze szyję
-scrapbook - album
-breakthrough - przełom
 wened - zanikający, zanikać
 she drowned - ona otonęła
 fascinated by - zafascynowany czymś
 happen to sb - wydarzyć się z kimś
 year-round - przez cały rok
 normally - tipically, usually
-rule out smb - wykluczyć kogoś
 pretty much so - całkiem sporo
 killed Harriet and hid the body
 To tell you the truth
-victim - ofiara
-murder - morderstwo
 within the realm of possibility - w granicach możliwości
 missing - zaginiona
 a great number of  - wiele
-take a phorograph - zrobić zdjęcie
 the overturned tanker truck
 an unpleasant person
 suspect - podejrzany
 wait a very short while
 a very short while
-spectator - widz
 as far as we could determine - o ile nam się udało ustalić
 in the picture I could see that
 lie to sb about smth - kłamać komuś
@@ -195,7 +201,6 @@ move on with my presentation
 burden - obciążenie
 to be left alone
 be aware - być świadomy czegoś
-grief - smutek
 to bury her - pogrzebać
 buried - pochowany
 before my story is done - skończyć
@@ -266,20 +271,16 @@ put the suitcase by the door - obok
 as if you’re slinking off with your tail between your legs
 precisely |prɪˈsaɪsli| - dokładnie
 to do some gaol time ???
-resolve issue
 beginning of the end
 facing him ??
 sat at the kitchen table
 take a stand - ?
 they could not agree
 damned - cholernie
-divorce - rozwód (małżeństwa)
 give up on smth (millenium)
-carry the load - nieść ciężar
 be burned out - być wyczerpanym
 take a job in a circus - cyrk
 sink smth for good - na zawsze
-for as long as - póki
 He’s paranoid as far as I’m concerned. ???
 set out in detail what he knows
 111
