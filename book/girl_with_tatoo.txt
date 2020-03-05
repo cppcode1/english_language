@@ -451,28 +451,38 @@ appealed for help - prosić o pomoc?
 confusion - zamieszanie
 turn of events - obrót wydarzeń
 unquestionably - niewiątpliwie
+plaque  |plæk| - płytka, płyta, tablica
 
+on that day - w tamtym dniu
+on the contrary - wręcz przeciwnie
 on the plaque - na tablice (coś było nalisane)
 on these holidays - w te święta
 on the following day - następnego dnia
+at the right moment - w pasujący moment
 on the island - na wyspie
 at the estate - na osiedlu
-at the right moment - w pasujący moment
 
+discount |ˈdɪskaʊnt| - nie brać pod uwagę, pominąć, odrzucić
 discount possibility - odrzucić możliwość
 increasingly likely that - coraz bardziej prawdopodobnie
+as far as - o ile
 as far as Blomkvist could tell - o ile on mówił powiedzić
-apparently - najwyraźniej?
-but it was nevertheless a small area - niemniej jednak
+apparently  |əˈpærəntli| - najwyraźniej
+nevertheless - niemniej jednak / however
+but it was nevertheless a small area - niemniej jednak / however
+she was very tired, nevertheless she kept working
 search the waters  - przeszukać wody
-abandoned bunker - porzucony
-vegetable cellars - piwnice
+abandoned bunker |əˈbændənd| - porzucony
 attic |ˈætɪk| - strych
+cellar  |ˈselər| - piwnica
+vegetable cellars - piwnice
+puzzled  |ˈpʌzld| - zdziwiony
 He was puzzled - zdziwiony
-Even as he reached for the door handle
+reach for the door handle
+Even as he reached for the door handle - właśnie w tym momencie kiedy
 notice the likeness - podobieństwo
 Blomkvist hesitated before telling the truth - wahał się
-hesitate
+hesitate  |ˈhezɪteɪt| - wahać się
 I can’t pretend that - udawać
 go to preason - serve in preason
 anyway - tak czy inaczej
@@ -480,42 +490,53 @@ it’s never engage in a fight you’re sure to lose
 on the brass plaque - tablica
 plaque |plæk| - tablica
 
-guardian |ˈɡɑːrdiən|  - strażnik
-guardianship - opieka
-predecessor |ˈpredəsesər| - poprzednik
-fill (felt) uncomfortable
-have a stroke
-she was under social guardianship - być pod soc. opieką
-violent towards her classmates - agresywny wobec swoich koleżanek i kolegów z klasy
-to participate in - uczestniczyć w 
-to lift a pen to write anything
-By the time she was thirteen - kiedy ...
-after all - w końcu  / finally
-a foster family - rodzina zastępcza
-she ended up in the emergency room - trafiła na pogotowie
-end up in - wylądowąć gdzieś / okazać się gdzieś
-she was under the influence of narcotics
-Salander claimed that - she stated that
-the man had groped her - obmacywał
-with her arms folded - ze złożonymi ramionami
-conclusion - wniosek
-the court would come to any decision other than - niż ...
-she was brought from ... to ... - była przeniesiona z ... do ...
-she listened intently - uważnie słuchała
 guesswork - zgadywanie
-guesswork - gwaranja
-On the contrary, - wręcz przeciwnie
 to deal with - mieć do czynienia?
 conscious |ˈkɑːnʃəs| - przytomny
 conscious+ness |ˈkɑːnʃəsnəs| - świadomość
+composure - |kəmˈpoʊʒər| opanowanie
+consider - brać pod uwagę
+a debt  |det| - dług, zadłużenie
+debts  |ˈdets| - dług wobec
+intently  |ɪnˈtentli| - uważnie
+predecessor |ˈpredəsesər| - poprzednik
+guardian |ˈɡɑːrdiən|  - strażnik
+guardianship |ˈɡɑːrdiənʃɪp| - opieka
+she was under social guardianship - być pod soc. opieką
+fill (felt) uncomfortable
+have a stroke
+violent  |ˈvaɪələnt| - brutalny
+classmate  |ˈklæsmeɪt| - kolega/koleżanka z klasy
+violent towards her classmates - agresywny wobec swoich koleżanek i kolegów z klasy
+to participate in |pɑːrˈtɪsɪpeɪt| - uczestniczyć w 
+to lift a pen to write anything - podnieść
+by the time she was thirteen - kiedy ...
+after all - w końcu  / finally
+foster  |ˈfɔːstər| - wspierać kogoś w czymś
+a foster family - rodzina zastępcza
+end up in - wylądowąć gdzieś / okazać się gdzieś
+emergency  |iˈmɜːrdʒənsi| - nagły przypadek
+she ended up in the emergency room - trafiła na pogotowie
+she was under the influence of narcotics
+claim  |kleɪm| - twierdzić
+Salander claimed that - she stated that / twierdziła że
+grope  |ɡroʊp| - omacywać
+the man had groped her - obmacywał ją
+fold  |foʊld| - zgiąć
+with her arms folded - ze złożonymi ramionami
+conclusion |kənˈkluːʒn| - wniosek
+come to the conclusion - dojść do wniosku
+she had come to the conclusion that - doszła do wniosku że 
+come to the decision - zdecydowąć się
+the court would come to any decision other than - niż ...
+bring, brought from - przenieść z ...
+she was brought from ... to ... - była przeniesiona z ... do ...
+she listened intently - uważnie słuchała
 he was conscious but unable to speak or move 
-She called for an ambulance
+call for an ambulance - dzwonić po pogotowie
+she called for an ambulance
 to explain the gravity of the situation - powagę wytuacji
 every action has its consequences
-she had come to the conclusion that - doszła do wniosku że 
-come to the conclusion - dojść do wniosku
-composure - |kəmˈpoʊʒər| opanowanie
-Not even ... or ... - ani ... ani ...
 truancy from school - wagarowanie szkoły
 The only time - jedyny raz kiedy 
 she had been charged with assault and battery ????
@@ -523,10 +544,12 @@ to take charge of - do przejęcia odpowiedzialności za
 right after - odrazu po tym jak
 to take pity on him - zlitować się nad nim
 She considered herself in his debt - uważała siebie za 
-consider - brać pod uwagę
-a debt
-debts - dług wobec
 unrenovated - niewyremontowany
 it was a roof over her head
+Not even ... or ... - ani ... ani ... - nawet... ???
 147
+
+disassemble  |ˌdɪsəˈsembl| - rozbierać na części
+impact  |ˈɪmpækt| - wpływ
+
 
