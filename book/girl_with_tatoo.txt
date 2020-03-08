@@ -1,4 +1,5 @@
 NOUN
+gaol / jail |dʒeɪl| - więzienie
 wind  |wɪnd| - wiatr
 objective  |əbˈdʒektɪv| - cel
 government  |ˈɡʌvərnmənt| - rząd
@@ -8,11 +9,10 @@ trial  |ˈtraɪəl| - proces w sądzie
 court  |kɔːrt| - sąd
 judgement  |ˈdʒʌdʒmənt| - wyrok
 verdict  |ˈvɜːrdɪkt| - wyrok
-gaol  |dʒeɪl| - areszt tymczasowy
 appeal  |əˈpiːl| - apelacja, odwołanie
 dye  |daɪ| - farba
 prison  |ˈprɪzn| - więzienie
-promises  |ˈprɑːməsəz| - obietny
+promises  |ˈprɑːməsəz| - obietnicy
 commotion  |kəˈmoʊʃn| - zamieszki
 scrapbook - album
 breakthrough - przełom
@@ -20,7 +20,8 @@ victim  |ˈvɪktɪm| - ofiara
 murder - morderstwo
 spectator  |ˈspekteɪtər| - widz
 grief  |ɡriːf| - smutek
-divorce |dɪˈvɔːrs| - rozwód (małżeństwa)
+divorce |dɪˈvɔːrs| - rozwód małżeństwa
+
 
 
 VERB
@@ -146,7 +147,8 @@ smth have nothing to do with - to nie ma nic wspólnego z
 what matters about smth is that - w tym zajściu jest ważne to że
 there is no reason - nie ma powodu
 there is no doubt that - nie ma wątpliwości co do tego że
-for as long as - póki
+as long as - póki
+normally - tipically / usually
 
 ADJECTIVE
 anxious  |ˈæŋkʃəs| - niespokojny
@@ -169,7 +171,6 @@ she drowned - ona otonęła
 fascinated by - zafascynowany czymś
 happen to sb - wydarzyć się z kimś
 year-round - przez cały rok
-normally - tipically, usually
 pretty much so - całkiem sporo
 killed Harriet and hid the body
 To tell you the truth
@@ -549,11 +550,11 @@ She considered herself in his debt - uważała siebie za
 unrenovated - niewyremontowany
 it was a roof over her head
 Not even ... or ... - ani ... ani ... - nawet... ???
-147
-
 disassemble  |ˌdɪsəˈsembl| - rozbierać na części
 impact  |ˈɪmpækt| - wpływ
 nearby  |ˌnɪrˈbaɪ| - w pobliżu
+147
+
 
 147, 02-03-2020
 
@@ -574,3 +575,111 @@ remind himself - przypomnieć sobie
 Vanger was convinced, for his part, that - był przekonany, ze swojej strony
 the assignment was beyond all common sense - poza wszelkim
 That was the gist of - sedno
+
+140
+refuse to participate in - odmawiać uczestniczenia w
+take care of smth or sb - zadbać o smth or sb
+look after sb - opiekować się
+difficult |ˈdɪfɪkəlt| - trydny
+in spite of a difficult start - wbrew 
+gradually |ˈɡrædʒuəli| - z czasem / stopniowo
+modest |ˈmɑːdɪst| - skromny
+a modest amount of - skromna ilość
+ease back |iːz bak| - przesunąć się powoli i ostrożnie do tyłu 
+eased back into
+by way of a foster family - w drodze do
+have the effect - mieć efekt
+This threat had the effect that - groźba, pogróżka
+be intoxicated
+witnesses - świadkowie
+hand down an opinion - wydać opinię
+the outcome - the result / the upshot
+and it was unlikely that - małoprawdopodobne że
+it took a while for her to realise that
+scrutinised - przeanalizowany
+warrant - gwarancja
+145
+
+appearance - |əˈpɪrəns| wygląd
+scheduled - zaplanowany
+corridor |ˈkɔːrɪdɔːr| - korytarz
+go in the door
+go out the door
+take into the room
+consciousness |ˈkɑːnʃəsnəs| - przytomność
+to regain consciousness - odzyskać
+she nether wept nor ... - ani ani
+she stood up
+summon to the meeting with smb - wezwać kogoś
+how things were doing
+how are you doing?
+the tie and tiepin - krawat i 
+to judge by - sądząc po
+he offers tee and chats with her
+during the years - w ciągu tych lat
+not even ... or ..had ever .. his ... - nawet
+he lives the one block away
+so as - tak aby
+how he got away with it - udać się
+be responsible for sb
+she was supposed to report it - miała
+to possess - posiadać
+light upon |əˈpɑːn| smb - natknąć się na kogoś
+he might light upon her killer
+he was convinced - był przekonany
+accusation |ˌækjuˈzeɪʃn| - oskarżenie
+he was forced to create - był zmuszony
+purchase |ˈpɜːrtʃəs| - nabyć coś
+
+151
+fight (fought) |fɔːt| - walczyć
+fought like cats |fɔːt| - walczyli jak koty
+whereby - przy czym
+in some ways - w pewnym sensie
+a hint - odrobina
+a hint of a smile - odrobina
+leave something out - pominąć coś, opuścić coś
+convince - przekonać
+conviction - przekonanie
+to share sb's conviction that - rozdzielić przekonanie
+He longed for his own bed - tęsknić za
+be awoken by
+worth a visit - warte 
+what he was working on - nad czym pracuje
+For the first time - po raz pierwszy
+Susanne urged him - namówiła
+gossip - plotka
+and sashayed off to the kitchen
+lung disease
+drown (drowned) - utonąć
+no one was divorced or remarried
+spouse - współmałżonek
+die died
+for years - od wielu lat
+apparently
+descendant |dɪˈsendənt| - potomek
+descendants - potomkowie
+peculiarity |pɪˌkjuːliˈærəti| - ciekawostka
+The other peculiarity was that - inną ciekawostką było to że
+and thereby - i tym samym
+make sober assessment - zrobić ocenę
+children reached the age of sixteen
+punishment - kara
+accomplishments - osiągnięcia
+career
+follow smb's footsteps - pójść w ślady
+physician
+race - rasa
+in other respects - w innych kwestiach
+invincible, undefeatable - niepokonany
+wagons were destined - przeznaczone
+after all
+contact sb
+wildly beautiful woman
+begged me - błagał mnie
+I presume - przepuszczam
+an ultimatum—either he accepted our marriage or he’d have to look for
+do military serivce
+At times he was on the brink - zasami był na krawędzi
+folly
+
