@@ -1,5 +1,10 @@
 VERB
-divorce  |dɪˈvɔːrs| - rozwodzi się
+rise rose - wzrastać
+freeze froze - zamarznąć
+hide hid sb - schować kogoś
+seek sought - poszukiwać
+
+divorce  |dɪˈvɔːrs| - rozwodzić się
 take a phorograph - zrobić zdjęcie
 rule out smb - wykluczyć kogoś
 make sence - mieć sens
@@ -69,3 +74,4 @@ carry the load - nieść ciężar
 rub  |rʌb| - trzeć
 he rub his neck - on trze szyję
 resolve issue |rɪˈzɑːlv| - rozwiązać probkem
+beg sb for help - błagać kogoś o pomoc
