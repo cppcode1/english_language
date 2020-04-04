@@ -1,7 +1,8 @@
 PHRASE
+at any rate - w każdym razie
 for years - od wielu lat
 for a time - na jakiś czas
-at times - czasami
+at times - czasami +
 once in a while - raz na jakiś czas
 whereby - przy czym
 finally - w końcu
